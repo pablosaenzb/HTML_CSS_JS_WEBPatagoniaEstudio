@@ -1,0 +1,212 @@
+
+/************************* GENERAL ****************************/
+
+/* Page title */
+h1 {
+	font-family: League Gothic;
+	color: #444444;
+	font-size: 24px;
+}
+
+/* Heading - black */
+h2 {
+	font-family: Droid Sans;
+	color: #444444;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+/* Heading - orange */
+h3 {
+	font-family: Droid Sans;
+	color: #E77927;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+/* Default hyperlink */
+a {
+	color: #577C95;
+	text-decoration: none;
+}
+
+/* Default hyperlink on mouse hover */
+a:hover {
+	color: #22333C;
+}
+
+/* Paragraph text */
+p {
+	font-family: Droid Sans;
+	color: #666666;
+	font-size: 13px;
+	leading: 6px;
+}
+
+/* List text */
+li {
+	font-family: Droid Sans;
+	color: #666666;
+	font-size: 13px;
+	margin-left: 0px;
+	leading: 6px;
+}
+
+/* Centering */
+center {
+	text-align: center;
+}
+
+/* Vertical space - 12 pixels */
+space {
+	font-size: 1px;
+	leading: 12px;
+}
+
+/* Vertical microspace - 6 pixels */
+mspace {
+	font-size: 1px;
+	leading: 6px;
+}
+
+/* Vertical microspace - 2 pixels */
+mmspace {
+	font-size: 1px;
+	leading: 2px;
+}
+
+/* Image caption */
+imagecaption {
+	font-family: PT Sans Caption;
+	color: #FFFFFF;
+	font-size: 11px;
+}
+
+/* Link block */
+link {
+	font-family: Droid Sans;
+	font-size: 13px;
+}
+
+/* Category menu items separator (used inside the news.swf, portfolio.swf and gallery.swf) */
+categoryseparator {
+	font-family: Droid Sans;
+	color: #999999;
+	font-size: 13px;
+}
+
+/* Website initiation preloader (used inside the index.swf) */
+preloader {
+	font-family: Droid Sans;
+	color: #666666;
+	font-size: 11px;
+	text-align: center;
+}
+
+/* White color */
+.white {
+	color: #FFFFFF;
+}
+
+/************************* HOME PAGE ***************************/
+
+/* Homepage slogan */
+homeslogan {
+	font-family: PT Sans Caption;
+	color: #333333;
+	font-size: 18px;
+	text-align: center;
+}
+
+/************************* FOOTER ******************************/
+
+/* Footer text */
+footer {
+	font-family: Droid Sans;
+	color: #F3F3F3;
+	font-size: 13px;
+}
+
+/* Footer text hyperlink */
+.footerlink {
+	color: #FFFFE8;
+}
+
+/* Footer text hyperlink on mouse hover (used inside the index.swf) */
+footerlink-hover {
+	color: #FFE1C4;
+}
+
+/************************* TEAM ********************************/
+
+/* Person position */
+persposition {
+	font-family: Verdana;
+	color: #666666;
+	font-size: 12px;
+	font-style: italic;
+	leading: 6px;
+}
+
+/************************* NEWS ********************************/
+
+/* News item date (in preview) */
+previewdate {
+	font-family: PT Sans Caption;
+	color: #577C95;
+	font-size: 11px;
+}
+
+/* News item date (in article) */
+articledate {
+	font-family: PT Sans Caption;
+	color: #666666;
+	font-size: 11px;
+}
+
+/* List text (in preview) */
+.previewlist {
+	margin-left: -16px;
+}
+
+/************************* PORTFOLIO ****************************/
+
+/* Image caption of a portfolio item preview. The font color is specified in a Portfolio XML configuration file  */
+portfoliocaption {
+	font-family: Verdana;
+	font-size: 11px;
+}
+
+/************************* GALLERY *****************************/
+
+/* Image caption of a gallery item preview */
+gallerycaption {
+	font-family: PT Sans Caption;
+	color: #FFFFFF;
+	font-size: 11px;
+	text-align: center;
+}
+
+/* Gallery item counter (used inside the gallery.swf) */
+.galleryitem-counter {
+	font-family: PT Sans Caption;
+	color: #333333;
+	font-size: 18px;
+}
+
+/************************* VIDEO PLAYER ************************/
+
+/* Video player timer (used inside VideoPlayer and VideoPlayerYouTube classes) */
+videotimer {
+	font-family: Tahoma;
+	color: #666666;
+	font-size: 11px;
+}
+
+/************************* CONTACT *****************************/
+
+/* The label for "Send" button (used inside the contact.swf) */
+sendbutton {
+	font-family: Droid Sans;
+	font-size: 14px;
+}

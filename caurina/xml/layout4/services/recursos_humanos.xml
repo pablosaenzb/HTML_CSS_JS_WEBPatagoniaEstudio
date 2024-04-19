@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+
+
+		imageBgColor="000000"
+		imageBgAlpha="0.5"
+		imageBorderColor=""
+		imageBorderThickness=""
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding="0"
+		imagePreloaderColor="CCCCCC"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="666666"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="-0.2"
+		imageZoomIconColor="FFFFFF"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor=""
+		videoPlayerShadowAlpha=""
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="252525"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="666666"
+		scrollBarSliderOverColor="757575"
+		
+		useSlideshow="false"
+		slideshowLeftMargin=""
+		slideshowTopMargin=""
+		slideshowHeight=""
+		slideshowXML=""
+
+	/>
+	
+	<content topMargin="0">
+
+
+
+	    <!-- 	<list topMargin="5" leftMargin="20" markerColor="888888">
+			<item><![CDATA[<p>Nada</p>]]></item>
+		</list> -->
+
+		<cols>
+			<col>
+				<imageblock topMargin="20" leftMargin="0">
+					<image src="images/homepage/teaser11.jpg" width="480" height="320" clickLink="" clickTarget=""/>
+					<caption><![CDATA[<imagecaption>Here you can place the caption text...</imagecaption>]]></caption>
+				</imageblock>
+			</col>
+			<col>
+				<textblock topMargin="25" leftMargin="30">
+                    <text><![CDATA[<p>&#8226;  Asesoramiento laboral y previsional de empleadores y aut�nomos.</p>]]></text>
+                    <text><![CDATA[<p>&#8226;  Liquidaci�n de sueldos, aportes y contribuciones.</p>]]></text>
+                    <text><![CDATA[<p>&#8226;  Confecci�n de declaraciones juradas de la Seguridad Social. Altas y bajas.</p>]]></text>
+                    <text><![CDATA[<p>&#8226;  Atenci�n de inspecciones previsionales.</p>]]></text>
+                    <text><![CDATA[<p>&#8226;  Moratorias previsionales de empleadores y aut�nomos.</p>]]></text>
+					<text><![CDATA[<p>&#8226;  Selección de personal.</p>]]></text>
+					<text><![CDATA[<p>&#8226;  Cursos de capacitación e inducción.</p>]]></text>
+					<text><![CDATA[<p>&#8226;  Cursos de Liderazgo y Coaching.</p>]]></text>
+
+
+
+				</textblock>
+			</col>
+		</cols>
+		
+		<textblock topMargin="20">
+
+
+		</textblock>
+		
+	</content>
+	
+</data>

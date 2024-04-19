@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contact>
+		
+	<settings
+		
+		phpFileURL="php/mail.php"
+		
+		imageBgColor="FFFFFF"
+		imageBgAlpha="0.3"
+		imageBorderColor="FFFFFF"
+		imageBorderThickness="1"
+		imageShadowColor="999999"
+		imageShadowAlpha="0.4"
+		imagePadding="0"
+		imagePreloaderColor="666666"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="000000"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="-0.3"
+		imageZoomIconColor="000000"
+		imageZoomIconAlpha="0.5"
+		imageZoomIconOverAlpha="0.9"
+		
+		fieldFont="Droid Sans"
+		filedFontSize="12"
+		fieldFontColor="888888"
+		fieldBgColor="F1F1F1"
+		fieldBgAlpha="1"
+		focusedFieldBgColor="FFFFFF"
+		focusedFieldBgAlpha="1"
+		focusedFieldBorderColor="B8D0D8"
+		sendButtonLabel="ENVIAR MENSAJE"
+		sendButtonColor="577C95"
+		sendButtonOverColor="22333C"
+		infoMessageFontColor="AD5230"
+		
+		scrollBarTrackWidth="1"
+		scrollBarTrackColor="FFFFFF"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="2"
+		scrollBarSliderColor="B5B5B5"
+		scrollBarSliderOverColor=""
+	/>
+	
+	<leftColumn width="420">
+		<info topMargin="0" height=""><![CDATA[<p>Las consultas acerca de los servicios de Patagonia Estudio pueden ser realizadas por teléfono, email o chat. Por favor siéntase libre de contactarnos!<br></p><h3>Formulario de Contacto</h3>]]></info>
+		<form
+			topMargin="10"
+			active="true"
+			successMsg="Su mensaje ha sido enviado con éxito. Muchas Gracias!"
+			warningMsg="Enviando... por favor espere"
+			errorMsg="Existe un error en el envio del correo electrónico!"
+		>
+			<name label="Nombre" errorMsg="Por favor ingrese su nombre." required="true"/>
+			<email label="Email" errorMsg1="Por favor escriba su dirección de correo." errorMsg2="Por favor escriba su dirección de correo válida." required="true"/>
+			<phone label="Teléfono" errorMsg="" required="false"/>
+			<message label="Mensaje" errorMsg="Por favor escriba su mensaje." required="true"/>
+		</form>
+	</leftColumn>
+	
+	<rightColumn leftMargin="30">
+		<image src="images/contact/img2.jpg" width="450" height="274" topMargin="0"><![CDATA[]]></image>
+		<text topMargin="30"><![CDATA[<h3>Información de Contacto</h3><space></space><mspace></mspace><p>Yatay 292. Piso 7. Dpto ¨A¨. CP: 1184. Capital Federal</p><mspace></mspace><p>Teléfono: (54) 011-4981-8427<br/>FAX: (54) 011-4981-8427</p><mspace></mspace><p>Email:  <a href="mailto:info@patagoniaestudio.com.ar">info@patagoniaestudio.com.ar</a></p><space></space><p></p>]]></text>
+	</rightColumn>
+	
+</contact>

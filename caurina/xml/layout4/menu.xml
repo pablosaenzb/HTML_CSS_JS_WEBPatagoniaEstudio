@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<data>
+	
+	<page>
+		<menuTitle>INICIO</menuTitle>
+		<pageTitle>null</pageTitle>
+		<deepLinkURL>home</deepLinkURL> /* the "home" is a reserved word - don't change it  */
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>homepage.swf</moduleURL>
+		<moduleXML>xml/layout4/homepage.xml</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>true</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+	</page>
+	
+	<page>
+		<menuTitle>COMPAÑIA</menuTitle>
+		<pageTitle>Compañia</pageTitle>
+		<deepLinkURL>about-us</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>standardpage.swf</moduleURL>
+		<moduleXML>xml/layout4/about-us.xml</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>true</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+		
+	</page>
+	
+	<page>
+		<menuTitle>SERVICIOS</menuTitle>
+		<pageTitle>Nuestros Servicios</pageTitle>
+		<deepLinkURL>services</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>services.swf</moduleURL>
+		<moduleXML>xml/layout4/services-type2.xml</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>true</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+
+        <subPage>
+          <menuTitle>Impuestos</menuTitle>
+          <pageTitle>Impuestos</pageTitle>
+          <deepLinkURL>impuestos</deepLinkURL>
+          <urlTarget>null</urlTarget>
+          <bodyBgImage>null</bodyBgImage>
+          <moduleURL>standardpage.swf</moduleURL>
+          <moduleXML>xml/layout4/services/impuestos.xml</moduleXML>
+          <showInMenu>false</showInMenu>
+          <showBreadCrumbs>true</showBreadCrumbs>
+        </subPage>
+
+        <subPage>
+          <menuTitle>Contabilidad & Auditoría</menuTitle>
+          <pageTitle>Contabilidad & Auditoría</pageTitle>
+          <deepLinkURL>contabilidad</deepLinkURL>
+          <urlTarget>null</urlTarget>
+          <bodyBgImage>null</bodyBgImage>
+          <moduleURL>standardpage.swf</moduleURL>
+          <moduleXML>xml/layout4/services/contabilidad.xml</moduleXML>
+          <showInMenu>false</showInMenu>
+          <showBreadCrumbs>true</showBreadCrumbs>
+        </subPage>
+
+        <subPage>
+          <menuTitle>Management & Finanzas</menuTitle>
+          <pageTitle>Management & Finanzas</pageTitle>
+          <deepLinkURL>management</deepLinkURL>
+          <urlTarget>null</urlTarget>
+          <bodyBgImage>null</bodyBgImage>
+          <moduleURL>standardpage.swf</moduleURL>
+          <moduleXML>xml/layout4/services/management.xml</moduleXML>
+          <showInMenu>false</showInMenu>
+          <showBreadCrumbs>true</showBreadCrumbs>
+        </subPage>
+
+        <subPage>
+          <menuTitle>Regimen Cambiario</menuTitle>
+          <pageTitle>Regimen Cambiario</pageTitle>
+          <deepLinkURL>regimen_cambiario</deepLinkURL>
+          <urlTarget>null</urlTarget>
+          <bodyBgImage>null</bodyBgImage>
+          <moduleURL>standardpage.swf</moduleURL>
+          <moduleXML>xml/layout4/services/regimen_cambiario.xml</moduleXML>
+          <showInMenu>false</showInMenu>
+          <showBreadCrumbs>true</showBreadCrumbs>
+        </subPage>
+
+        <subPage>
+          <menuTitle>Comercio Exterior</menuTitle>
+          <pageTitle>Comercio Exterior</pageTitle>
+          <deepLinkURL>comercio_exterior</deepLinkURL>
+          <urlTarget>null</urlTarget>
+          <bodyBgImage>null</bodyBgImage>
+          <moduleURL>standardpage.swf</moduleURL>
+          <moduleXML>xml/layout4/services/comercio_exterior.xml</moduleXML>
+          <showInMenu>false</showInMenu>
+          <showBreadCrumbs>true</showBreadCrumbs>
+        </subPage>
+
+        <subPage>
+          <menuTitle>Recursos Humanos</menuTitle>
+          <pageTitle>Recursos Humanos</pageTitle>
+          <deepLinkURL>recursos_humanos</deepLinkURL>
+          <urlTarget>null</urlTarget>
+          <bodyBgImage>null</bodyBgImage>
+          <moduleURL>standardpage.swf</moduleURL>
+          <moduleXML>xml/layout4/services/recursos_humanos.xml</moduleXML>
+          <showInMenu>false</showInMenu>
+          <showBreadCrumbs>true</showBreadCrumbs>
+        </subPage>
+	</page>
+	
+	<page>
+		<menuTitle>CONTACTO</menuTitle>
+		<pageTitle>Contacto</pageTitle>
+		<deepLinkURL>form-on-the-left</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>contact.swf</moduleURL>
+		<moduleXML>xml/layout4/contact2.xml</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>true</clickable>
+		<showBreadCrumbs>true</showBreadCrumbs>
+	</page>
+	
+	<page>
+		<menuTitle>LINKS</menuTitle>
+		<pageTitle>null</pageTitle>
+		<deepLinkURL>null</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>null</moduleURL>
+		<moduleXML>null</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>false</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+
+		<subPage>
+			<menuTitle>Afip</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>http://www.afip.gov.ar</deepLinkURL>
+			<urlTarget>_blank</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>null</moduleURL>
+			<moduleXML>null</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>false</showBreadCrumbs>
+		</subPage>
+
+		<subPage>
+			<menuTitle>Rentas GCBA</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>http://www.agip.gob.ar/</deepLinkURL>
+			<urlTarget>_blank</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>null</moduleURL>
+			<moduleXML>null</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>false</showBreadCrumbs>
+		</subPage>
+
+		<subPage>
+			<menuTitle>BCRA</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>http://www.bcra.gov.ar/</deepLinkURL>
+			<urlTarget>_blank</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>null</moduleURL>
+			<moduleXML>null</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>false</showBreadCrumbs>
+		</subPage>
+
+		<subPage>
+			<menuTitle>IGJ</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>http://www.jus.gob.ar/igj</deepLinkURL>
+			<urlTarget>_blank</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>null</moduleURL>
+			<moduleXML>null</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>false</showBreadCrumbs>
+		</subPage>
+
+	</page>
+	
+	<page>
+		<menuTitle>Page Not Found</menuTitle>
+		<pageTitle>Page Not Found</pageTitle>
+		<deepLinkURL>error404</deepLinkURL> /* the "error404" is a reserved word - don't change it  */
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>standardpage.swf</moduleURL>
+		<moduleXML>xml/layout4/error404.xml</moduleXML>
+		<showInMenu>false</showInMenu>
+		<clickable>false</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+	</page>
+	
+</data>

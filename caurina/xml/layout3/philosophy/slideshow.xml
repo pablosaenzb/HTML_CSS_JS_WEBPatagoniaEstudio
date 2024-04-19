@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rotator>
+
+	<settings
+	
+		bannerWidth="904"
+		bannerHeight="224"
+		bannerBgColor="FFFFFF"
+		bannerBgAlpha="0.3"
+		bannerBackground=""
+		bannerCornerRadius=""
+		bannerBorderColor=""
+		bannerBorderThickness=""
+		bannerShadowColor="999999"
+		bannerShadowAlpha="0.5"
+		autoPlay="true"
+		imageShowTime="5"
+		randomImages="false"
+		pauseOnMouseOver="false"
+		repeatMode="true"
+		
+		imageTransitionType="9"
+		imageTransitionDuration="1.5"
+		imageExposureDelay="0.5"
+		imageExposureStrength="2"
+		randomImageTransitions="false"
+		squareSize=""
+		
+		imageAreaWidth="900"
+		imageAreaHeight="220"
+		imageAreaCornerRadius=""
+		imageAreaXPosition="2"
+		imageAreaYPosition="2"
+		
+		captionTextShadowColor="333333"
+		captionTextShadowAlpha="0.4"
+		
+		showControls="true"
+		controlsType="1"
+		controlsPosition="right"
+		controlsXOffset="15"
+		controlsYOffset="10"
+		controlsAutoHide="false"
+		buttonSpacing="8"
+		buttonBgColor="FFFFFF"
+		buttonOverBgColor="FFFFFF"
+		buttonSelectedBgColor="FEECAB"
+		showButtonShadow="true"
+		buttonShadowColor="000000"
+		showPlayPauseButton=""
+		playPauseIconColor=""
+		playPauseIconOverColor=""
+		
+		showTimer="false"
+		timerBarPosition=""
+		timerBarHeight=""
+		timerBarColor=""
+		timerBarAlpha=""
+		
+		showPreloader="true"
+		preloaderColor="FFFFFF"
+	/>
+	
+	<banners>
+		<banner>
+			<image src="images/banners/philosophy1a.jpg"/>
+			<textblock xPos="45" yPos="27" startDelay="0.5" shadow="true">
+				<start_animation type="Fade" duration="0.8" moveFrom="left" moveOffset="100" blur="true"/>
+				<text><![CDATA[<font face="League Gothic" size="36" color="#FEECAB">Clean and Flexible</font>]]></text>
+			</textblock>
+			<textblock xPos="45" yPos="70" startDelay="1" shadow="true">
+				<start_animation type="Fade" duration="0.8" moveFrom="left" moveOffset="100" blur="true"/>
+				<text><![CDATA[<font face="League Gothic" size="22" color="#F1F1F1">business Flash template with 9 modules included</font>]]></text>
+			</textblock>
+		</banner>
+		<banner>
+			<image src="images/banners/philosophy2.jpg"/>
+			<textblock xPos="620" yPos="15" startDelay="0.5" shadow="true">
+				<start_animation type="Fade" duration="0.8" blur="true"/>
+				<text><![CDATA[<font face="League Gothic" size="22" color="#F1F1F1">The modules are multi-functional and</font>]]></text>
+			</textblock>
+			<textblock xPos="620" yPos="37" startDelay="1" shadow="true">
+				<start_animation type="Fade" duration="0.8" blur="true"/>
+				<text><![CDATA[<font face="League Gothic" size="36" color="#FEECAB">Completely Customizable</font>]]></text>
+			</textblock>
+		</banner>
+		<banner>
+			<image src="images/banners/philosophy3.jpg"/>
+		</banner>
+	</banners>
+	
+</rotator>

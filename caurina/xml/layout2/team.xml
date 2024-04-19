@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<team>
+		
+	<settings
+		
+		controlsYPosition="-15"
+		controlsRightMargin="5"
+		navButtonColor="888888"
+		navButtonSelectedColor="E77927"
+		
+		itemsInRow="4"
+		itemsTopMargin="20"
+		itemsLeftMargin="0"
+		itemWidth="210"
+		itemHeight="210"
+		itemHSpacing="17"
+		
+		imageBgColor="FFFFFF"
+		imageBgAlpha="0.3"
+		imageBorderColor="FFFFFF"
+		imageBorderThickness="1"
+		imageShadowColor="999999"
+		imageShadowAlpha="0.4"
+		imagePadding="0"
+		imagePreloaderColor="666666"
+		imagePreloaderAlpha="0.5"
+		imageOverBrightness="0.5"
+		imageLinkIconAlpha="0"
+		imageLinkIconOverAlpha="0"
+		imageBottomMargin="15"
+		
+		personNameBottomPadding="5"
+		personPositionBottomPadding="12"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="13"
+		listItemBottomPadding="2"
+		
+		scrollBarTrackWidth="1"
+		scrollBarTrackColor="EEEEEE"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="2"
+		scrollBarSliderColor="CCCCCC"
+		scrollBarSliderOverColor="B5B5B5"
+	/>
+	
+	<person>
+		<name><![CDATA[<h2>Jane Doe</h2>]]></name>
+		<position><![CDATA[<persposition>Co-founder</persposition>]]></position>
+		<image src="images/team/img01.jpg" clickLink="mailto:janedoe@company.com" clickTarget="_blank"/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia. Suspendisse lobortis consequat sapien, at accumsan justo condimentum lobortis consequat sapien.</p>]]></text>
+			</textblock>
+			<link topMargin="10" leftMargin="0" leftPadding="18" color="577C95" hoverColor="22333C" iconURL="images/icons/email.png" iconTopPadding="5" clickLink="mailto:janedoe@company.com" clickTarget="_blank"><![CDATA[<link>janedoe@company.com</link>]]></link>
+		</content>
+	</person>
+	
+	<person>
+		<name><![CDATA[<h2>Roy Johnson</h2>]]></name>
+		<position><![CDATA[<persposition>Co-founder</persposition>]]></position>
+		<image src="images/team/img04.jpg" clickLink="http://www.royjohnson-junior.com" clickTarget="_blank"/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Suspendisse lobortis consequat sapien, at accumsan justo condimentum a. Nulla facilisi. Aliquam erat volutpat.</p>]]></text>
+			</textblock>
+			<list topMargin="5" leftMargin="0" markerColor="777777">
+				<item><![CDATA[<p>Aerospace and propulsion</p>]]></item>
+				<item><![CDATA[<p>Communications</p>]]></item>
+				<item><![CDATA[<p>Image and signal processing</p>]]></item>
+				<item><![CDATA[<p>Fluid dynamics</p>]]></item>
+			</list>
+			<link topMargin="10" leftMargin="0" leftPadding="0" color="577C95" hoverColor="22333C" iconURL="" iconTopPadding="0" clickLink="http://www.royjohnson-junior.com" clickTarget="_blank"><![CDATA[<link>www.royjohnson-junior.com</link>]]></link>
+		</content>
+	</person>
+	
+	<person>
+		<name><![CDATA[<h2>Mary Brown</h2>]]></name>
+		<position><![CDATA[<persposition>Administrator</persposition>]]></position>
+		<image src="images/team/img02.jpg" clickLink="" clickTarget=""/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Integer vel enim mi, sed suscipit neque. Integer at enim cursus massa malesuada tempus. Praesent congue molestie tristique.</p>]]></text>
+			</textblock>
+		</content>
+	</person>
+	
+	<person>
+		<name><![CDATA[<h2>Jane Carter</h2>]]></name>
+		<position><![CDATA[<persposition>Chief executive officer</persposition>]]></position>
+		<image src="images/team/img03.jpg" clickLink="#/company/our-team/jane-carter" clickTarget="_self"/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Nulla ornare neque sit amet magna volutpat cursus sit amet sollicitudin massa. Sed a sapien ac odio fringilla accumsan. Sed blandit dapibus fermentum.</p>]]></text>
+			</textblock>
+			<link topMargin="10" leftMargin="0" leftPadding="15" color="577C95" hoverColor="22333C" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/company/our-team/jane-carter" clickTarget="_self"><![CDATA[<link>View full profile</link>]]></link>
+		</content>
+	</person>
+	
+	<person>
+		<name><![CDATA[<h2>Andrew Miller</h2>]]></name>
+		<position><![CDATA[<persposition>Chief technical officer</persposition>]]></position>
+		<image src="images/team/img04.jpg" clickLink="" clickTarget=""/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Sed a sapien ac odio fringilla accumsan. Sed blandit dapibus fermentum. Sed nunc malesuada non hendrerit id, viverra nec tortor. Sed non venenatis erat.</p>]]></text>
+			</textblock>
+		</content>
+	</person>
+	
+	<person>
+		<name><![CDATA[<h2>Lisa Harrold</h2>]]></name>
+		<position><![CDATA[<persposition>Technology transfer consultant</persposition>]]></position>
+		<image src="images/team/img01.jpg" clickLink="" clickTarget=""/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>In ac risus quam, in congue purus. Nunc velit nisl, lobortis non eleifend ut, adipiscing et turpis. Suspendisse ut eros nibh, quis consequat augue proin elementum augue nec lectus molestie congue. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus.</p>]]></text>
+			</textblock>
+		</content>
+	</person>
+	
+	<person>
+		<name><![CDATA[<h2>Linda Blackburn</h2>]]></name>
+		<position><![CDATA[<persposition>Researcher and strategy consultant</persposition>]]></position>
+		<image src="images/team/img02.jpg" clickLink="" clickTarget=""/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Nullam tortor leo, tristique ac tempus eget, vestibulum nec ante. Mauris rhoncus aliquet lectus, lobortis fringilla tortor placerat ac. Vestibulum quis dui dui.</p>]]></text>
+			</textblock>
+		</content>
+	</person>
+	
+</team>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+	
+		imageBgColor="000000"
+		imageBgAlpha="0.5"
+		imageBorderColor=""
+		imageBorderThickness=""
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding="0"
+		imagePreloaderColor="CCCCCC"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="666666"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="-0.2"
+		imageZoomIconColor="FFFFFF"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor=""
+		videoPlayerShadowAlpha=""
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="252525"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="666666"
+		scrollBarSliderOverColor="757575"
+		
+		useSlideshow="false"
+		slideshowLeftMargin=""
+		slideshowTopMargin=""
+		slideshowHeight=""
+		slideshowXML=""
+
+	/>
+	
+	<content topMargin="0">
+		
+		<textblock topMargin="0">
+			<text><![CDATA[<p>The Phlex template uses the original internal system for arranging HTML text, images and videos on pages. This universal system of content blocks can be completely used in all standard pages (the <span class="bold">Standard Page</span> module) and partly in some other modules. The system allows to create 7 types of blocks (page elements).</p><space></space><p>Below is the example of how the pricing tables can be arranged using the <span class="bold">Table block</span>.</p>]]></text>
+		</textblock>
+		
+		<table topMargin="30" leftMargin="40" borderColor="444444" borderThickness="1">
+			<tr height="50">
+				<th width="200" bgcolor="303030"><![CDATA[<h2><font color="#C6C6C6">Basic Package</font></h2>]]></th>
+				<th width="230" bgcolor="303030"><![CDATA[<h2><font color="#C6C6C6">Advanced Package</font></h2>]]></th>
+				<th width="230" bgcolor="3C3B38"><![CDATA[<h2><font color="#C6C6C6">Super Package</font></h2>]]></th>
+				<th width="230" bgcolor="303030"><![CDATA[<h2><font color="#C6C6C6">Unlimited Package</font></h2>]]></th>
+			</tr>
+			<tr height="36">
+				<td bgcolor="050505"><![CDATA[<p><b>$5.95</b></p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p><b>$11.95</b></p>]]></td>
+				<td bgcolor="2C2B28"><![CDATA[<p><b>$17.95</b></p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p><b>$29.95</b></p>]]></td>
+			</tr>
+			<tr height="36">
+				<td bgcolor="050505"><![CDATA[<p>4 GB Webspace</p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p>8 GB Webspace</p>]]></td>
+				<td bgcolor="2C2B28"><![CDATA[<p>16 GB Webspace</p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p>99 GB Webspace</p>]]></td>
+			</tr>
+			<tr height="36">
+				<td bgcolor="050505"><![CDATA[<p>1 Domain</p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p>2 Domain</p>]]></td>
+				<td bgcolor="2C2B28"><![CDATA[<p>4 Domain</p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p>20 Domain</p>]]></td>
+			</tr>
+			<tr height="36">
+				<td bgcolor="050505"><![CDATA[<p>50 Email Accounts</p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p>200 Email Accounts</p>]]></td>
+				<td bgcolor="2C2B28"><![CDATA[<p>500 Email Accounts</p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p>1000 Email Accounts</p>]]></td>
+			</tr>
+			<tr height="36">
+				<td bgcolor="050505"><![CDATA[<p>10 MySQL Databases</p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p>20 MySQL Databases</p>]]></td>
+				<td bgcolor="2C2B28"><![CDATA[<p>50 MySQL Databases</p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p>Unlimited MySQL Databases</p>]]></td>
+			</tr>
+			<tr height="36">
+				<td bgcolor="050505"><![CDATA[<p>&nbsp;<a href="#/services/pricing-tables"><b>Sign Up</b></a></p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p>&nbsp;<a href="#/services/pricing-tables"><b>Sign Up</b></a></p>]]></td>
+				<td bgcolor="2C2B28"><![CDATA[<p>&nbsp;<a href="#/services/pricing-tables"><b>Sign Up</b></a></p>]]></td>
+				<td bgcolor="050505"><![CDATA[<p>&nbsp;<a href="#/services/pricing-tables"><b>Sign Up</b></a></p>]]></td>
+			</tr>
+		</table>
+		
+		<textblock topMargin="30">
+			<text><![CDATA[<p>Sed felis nisl, ultricies vel laoreet nec, fringilla ac dui. Aliquam erat volutpat. Aenean varius, mi in malesuada congue, odio arcu placerat dui, non tristique purus tellus quis justo. Donec non eros ipsum, vel suscipit enim. Proin at leo a ligula egestas pellentesque. Maecenas porta pretium quam, et rutrum nunc lobortis id. Aenean cursus, justo ut tristique tincidunt, sapien turpis egestas nisi, non ultricies lorem risus nec neque. In nec quam sit amet erat iaculis cursus. Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat. Aenean quis diam nunc. Quisque nisl enim, volutpat vitae fermentum sed, convallis non ante. Quisque tincidunt lacus turpis. Nulla congue suscipit turpis, vitae hendrerit augue facilisis quis.</p>]]></text>
+		</textblock>
+		
+	</content>
+	
+</data>

@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<portfolio>
+		
+	<settings
+		
+		showCategoryMenu="true"
+		categoryMenuYPosition="0"
+		categorySpacing="28"
+		categoryFont="Droid Sans"
+		categoryFontSize="13"
+		categoryFontWeight="bold"
+		categoryFontColor="9B998E"
+		categoryOverFontColor="C3C3C3"
+		categorySelectedFontColor="B88C62"
+		
+		previewsControlsYPosition="20"
+		previewsControlsRightMargin="5"
+		previewsNavButtonColor="888888"
+		previewsNavButtonSelectedColor="B88C62"
+		
+		previewsInRow="3"
+		previewsInCol="2"
+		previewsTopMargin="15"
+		previewWidth="280"
+		previewHeight="175"
+		previewSpacing="40"
+		
+		previewBgColor="303030"
+		previewBgAlpha="0.9"
+		previewOverBgColor="3B3B3B"
+		previewBorderColor=""
+		previewBorderThickness=""
+		previewOverBorderColor=""
+		previewShadowColor=""
+		previewShadowAlpha=""
+		previewPadding="10"
+		previewPreloaderColor="CCCCCC"
+		previewPreloaderAlpha="0.5"
+		previewCaptionFontColor=""
+		previewCaptionOverFontColor=""
+		previewCaptionBgColor=""
+		previewCaptionBgAlpha=""
+		previewCaptionOverBgColor=""
+		previewCaptionOverBgAlpha=""
+		previewCaptionBlurredBg="false"
+		previewCaptionBgBlurAmount=""
+		previewCaptionTopBottomPadding="0"
+		previewCaptionLeftRightPadding="0"
+		previewOverBrightness="-0.2"
+		
+		projectAreaYPosition="18"
+		projectHeaderHeight="33"
+		projectAlign="left"
+		projectControlsRightMargin="5"
+		projectListButtonURL="images/icons/list.png"
+		projectLeftNavButtonURL="images/icons/left-arrow-type2.png"
+		projectRightNavButtonURL="images/icons/right-arrow-type2.png"
+		projectNavButtonSpacing="6"
+		projectButtonColor="666666"
+		projectButtonOverColor="999999"
+		projectControlsSeparatorURL="images/icons/dashed-line.png"
+		projectControlsSeparatorColor="404040"
+		projectTitleTopMargin="20"
+		projectContentTopMargin="10"
+		showProjectDescription="true"
+		
+		bigImageWidth="560"
+		bigImageHeight="315"
+		bigImageBgColor="000000"
+		bigImageBgAlpha="0.5"
+		bigImageBorderColor=""
+		bigImageBorderThickness=""
+		bigImagePadding="0"
+		bigImagePreloaderColor="CCCCCC"
+		bigImagePreloaderAlpha="0.5"
+		bigImageCaptionBgColor="333333"
+		bigImageCaptionBgAlpha="0.4"
+		bigImageCaptionBlurredBg="true"
+		bigImageCaptionBgBlurAmount="32"
+		bigImageCaptionPadding="5"
+		bigImageOverBrightness="-0.2"
+		bigImageZoomIconColor="FFFFFF"
+		bigImageZoomIconAlpha="0"
+		bigImageZoomIconOverAlpha="0.9"
+		bigImageRightMargin="30"
+		
+		thumbnailsVisible="4"
+		thumbnailsAlign="left"
+		thumbnailsTopMargin="10"
+		thumbnailWidth="96"
+		thumbnailHeight="54"
+		thumbnailSpacing="10"
+		thumbnailBgColor="000000"
+		thumbnailBgAlpha="0.5"
+		thumbnailBorderColor=""
+		thumbnailSelectedBorderColor="EFB379"
+		thumbnailBorderThickness="2"
+		thumbnailShadowColor=""
+		thumbnailShadowAlpha=""
+		thumbnailPreloaderColor="CCCCCC"
+		thumbnailPreloaderAlpha="0.5"
+		thumbnailOverBrightness="0.3"
+		thumbnailVideoIconSize="24"
+		thumbnailVideoIconColor="FFFFFF"
+		thumbnailVideoIconAlpha="0.5"
+		thumbnailVideoIconOverAlpha="1"
+		thumbnailsLeftNavButtonURL="images/icons/left-arrow-type3.png"
+		thumbnailsRightNavButtonURL="images/icons/right-arrow-type3.png"
+		thumbnailsNavButtonColor="666666"
+		thumbnailsNavButtonOverColor="999999"
+		thumbnailsNavButtonPadding="10"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor=""
+		videoPlayerShadowAlpha=""
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="13"
+		listItemBottomPadding="2"
+		scrollBarTrackWidth="1"
+		scrollBarTrackColor="252525"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="2"
+		scrollBarSliderColor="666666"
+		scrollBarSliderOverColor="757575"
+	/>
+	
+	<category title="Hiking">
+		
+		<item>
+			<title><![CDATA[<h3>COLORADO BACKCOUNTRY HUT-TO-HUT HIKING TOUR</h3>]]></title>
+			<preview src="images/catalog/colorado/preview-280x135.jpg"><![CDATA[<portfoliocaption><font color="#B88C62">COLORADO BACKCOUNTRY HIKING TOUR<br></font><mmspace></mmspace><font color="#999999">6 full days  /  Price:  <b>$1598</b></font></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p><font color="#B88C62">6 Full Days</font></p>]]></text>
+				</textblock>
+				<table topMargin="20" leftMargin="0" borderColor="" borderThickness="0">
+					<tr height="24">
+						<th width="140" bgcolor="" align="left"><![CDATA[<p class="grey">Trip Rating:</p>]]></th>
+						<th width="240" bgcolor="" align="left"><![CDATA[<p>Moderate to Challenging</p>]]></th>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Price:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$1598</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Single Supplement:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>N/A</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Gateway City:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Denver or Vail, Colorado</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Meeting Place:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Vail, Colorado</p>]]></td>
+					</tr>
+				</table>
+				<separator topMargin="15" leftMargin="0" width="" height="1" color="404040" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Nullam lorem lorem, bibendum eu facilisis eu, feugiat convallis lectus. Suspendisse euismod scelerisque nisi sed interdum. Duis orci ligula, malesuada a gravida eu, lobortis at est. Duis suscipit varius lorem vitae volutpat. Maecenas imperdiet cursus feugiat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cunc bibendum nisl vitae porttitor.</p>]]></text>
+				</textblock>
+				<link topMargin="15" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/portfolio/catalog" clickTarget="_self"><![CDATA[<link>Read more about trip</link>]]></link>
+			</description>
+			<media>
+				<image src="images/catalog/colorado/img1.jpg" tn="images/catalog/colorado/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/catalog/colorado/img2.jpg" tn="images/catalog/colorado/img2-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+			
+		<item>
+			<title><![CDATA[<h3>CANYONLANDS AND ESCALANTE HIKING TOUR</h3>]]></title>
+			<preview src="images/catalog/canyonlands/preview-280x135.jpg"><![CDATA[<portfoliocaption><font color="#B88C62">CANYONLANDS AND ESCALANTE HIKING<br></font><mmspace></mmspace><font color="#999999">6 full days  /  Price:  <b>$2898</b></font></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p><font color="#B88C62">6 Full Days</font></p>]]></text>
+				</textblock>
+				<table topMargin="20" leftMargin="0" borderColor="" borderThickness="0">
+					<tr height="24">
+						<th width="140" bgcolor="" align="left"><![CDATA[<p class="grey">Trip Rating:</p>]]></th>
+						<th width="240" bgcolor="" align="left"><![CDATA[<p>Moderate</p>]]></th>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Price:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$2898</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Single Supplement:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$675</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Gateway City:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Moab or Salt Lake City, Utah</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Meeting Place:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Moab, Utah</p>]]></td>
+					</tr>
+				</table>
+				<separator topMargin="15" leftMargin="0" width="" height="1" color="404040" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Pellentesque tincidunt lacinia justo, ac convallis turpis rhoncus ut. Maecenas sodales vehicula est eu laoreet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi lectus orci, elementum quis accumsan sodales, lobortis a mi. Nunc euismod nulla nec mauris pellentesque id porttitor felis placerat. Nunc pellentesque mi placerat nisl posuere laoreet tincidunt metus ullamcorper. Curabitur vitae dolor justo, sed aliquet ligula.</p>]]></text>
+				</textblock>
+				<link topMargin="15" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/portfolio/catalog" clickTarget="_self"><![CDATA[<link>Read more about trip</link>]]></link>
+			</description>
+			<media>
+				<image src="images/catalog/canyonlands/img1.jpg" tn="images/catalog/canyonlands/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/catalog/canyonlands/img2.jpg" tn="images/catalog/canyonlands/img2-tn.jpg"><![CDATA[<imagecaption>Sunrise at Mesa Arch</imagecaption>]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>DENALI WILDERNESS HIKING TOUR</h3>]]></title>
+			<preview src="images/catalog/denali/preview-280x135.jpg"><![CDATA[<portfoliocaption><font color="#B88C62">DENALI WILDERNESS HIKING TOUR<br></font><mmspace></mmspace><font color="#999999">5 full days  /  Price:  <b>$2625 for 2012</b></font></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p><font color="#B88C62">5 Full Days</font></p>]]></text>
+				</textblock>
+				<table topMargin="20" leftMargin="0" borderColor="" borderThickness="0">
+					<tr height="24">
+						<th width="140" bgcolor="" align="left"><![CDATA[<p class="grey">Trip Rating:</p>]]></th>
+						<th width="240" bgcolor="" align="left"><![CDATA[<p>Moderately Easy</p>]]></th>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Price:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$2625 for 2012</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Single Supplement:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$500</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Gateway City:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Anchorage, Alaska</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Meeting Place:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Anchorage, Alaska</p>]]></td>
+					</tr>
+				</table>
+				<separator topMargin="15" leftMargin="0" width="" height="1" color="404040" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Sed blandit dapibus fermentum. Sed nunc arcu, malesuada non hendrerit id, viverra nec tortor. Sed non venenatis erat. Etiam sollicitudin lectus vitae velit vulputate quis consequat nunc placerat. In ac risus quam, in congue purus. Nunc velit nisl, lobortis non eleifend ut, adipiscing et turpis. Suspendisse ut eros nibh, quis consequat augue.</p><space></space><p>Integer vel enim mi, sed suscipit neque. Integer at enim cursus massa malesuada tempus. Praesent congue molestie tristique. Nullam tortor leo, tristique ac tempus eget, vestibulum nec ante.]]></text>
+				</textblock>
+				<link topMargin="15" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/portfolio/catalog" clickTarget="_self"><![CDATA[<link>Read more about trip</link>]]></link>
+			</description>
+			<media>
+				<image src="images/catalog/denali/img1.jpg" tn="images/catalog/denali/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/catalog/denali/img2.jpg" tn="images/catalog/denali/img2-tn.jpg"><![CDATA[]]></image>
+				<image src="images/catalog/denali/img3.jpg" tn="images/catalog/denali/img3-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>GLACIER AND WATERTON HIKING TOUR</h3>]]></title>
+			<preview src="images/catalog/waterton/preview-280x135.jpg"><![CDATA[<portfoliocaption><font color="#B88C62">GLACIER AND WATERTON HIKING TOUR<br></font><mmspace></mmspace><font color="#999999">6 full days  /  Price:  <b>$3198</b></font></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p><font color="#B88C62">6 Full Days</font></p>]]></text>
+				</textblock>
+				<table topMargin="20" leftMargin="0" borderColor="" borderThickness="0">
+					<tr height="24">
+						<th width="140" bgcolor="" align="left"><![CDATA[<p class="grey">Trip Rating:</p>]]></th>
+						<th width="240" bgcolor="" align="left"><![CDATA[<p>Moderate to Challenging</p>]]></th>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Price:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$3198</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Single Supplement:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$750</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Gateway City:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Kalispell, Montana</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Meeting Place:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Whitefish, Montana</p>]]></td>
+					</tr>
+				</table>
+				<separator topMargin="15" leftMargin="0" width="" height="1" color="404040" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Proin viverra ipsum ut tortor tincidunt sodales. Nunc id mauris ipsum, id ultricies elit. Mauris auctor nulla sit amet libero molestie interdum. Phasellus consectetur egestas erat, at euismod nisl sodales a. Vivamus sit amet lacus posuere lacus ullamcorper tempus.</p>]]></text>
+				</textblock>
+				<link topMargin="15" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/portfolio/catalog" clickTarget="_self"><![CDATA[<link>Read more about trip</link>]]></link>
+			</description>
+			<media>
+				<image src="images/catalog/waterton/img1.jpg" tn="images/catalog/waterton/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/catalog/waterton/img2.jpg" tn="images/catalog/waterton/img2-tn.jpg"><![CDATA[]]></image>
+				<video youTubeMode="true" src="ful4qN1J7tc" ratio="16:9" previewImage="images/catalog/waterton/video1-preview.jpg" tn="images/catalog/waterton/video1-tn.jpg" playbackQuality="hd720" autoPlay="false"/>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>GRAND CANYON AND HAVASU FALLS HIKING TOUR</h3>]]></title>
+			<preview src="images/catalog/grand_canyon/preview-280x135.jpg"><![CDATA[<portfoliocaption><font color="#B88C62">GRAND CANYON AND HAVASU FALLS HIKING<br></font><mmspace></mmspace><font color="#999999">6 full days  /  Price:  <b>$2598</b></font></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p><font color="#B88C62">6 Full Days</font></p>]]></text>
+				</textblock>
+				<table topMargin="20" leftMargin="0" borderColor="" borderThickness="0">
+					<tr height="24">
+						<th width="140" bgcolor="" align="left"><![CDATA[<p class="grey">Trip Rating:</p>]]></th>
+						<th width="240" bgcolor="" align="left"><![CDATA[<p>Moderate</p>]]></th>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Price:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$2598</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Single Supplement:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$600</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Gateway City:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Phoenix or Flagstaff, Arizona</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Meeting Place:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Flagstaff, Arizona</p>]]></td>
+					</tr>
+				</table>
+				<separator topMargin="15" leftMargin="0" width="" height="1" color="404040" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Mauris rhoncus aliquet lectus, lobortis fringilla tortor placerat ac. Vestibulum quis dui dui. Nulla ornare neque sit amet magna volutpat cursus sit amet sollicitudin massa. Sed a sapien ac odio fringilla accumsan. Sed blandit dapibus fermentum. Sed nunc arcu, malesuada non hendrerit id, viverra nec tortor. Sed non venenatis erat.</p>]]></text>
+				</textblock>
+				<link topMargin="15" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/portfolio/catalog" clickTarget="_self"><![CDATA[<link>Read more about trip</link>]]></link>
+			</description>
+			<media>
+				<image src="images/catalog/grand_canyon/img1.jpg" tn="images/catalog/grand_canyon/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/catalog/grand_canyon/img2.jpg" tn="images/catalog/grand_canyon/img2-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>YELLOWSTONE AND GRAND TETON HIKING TOUR</h3>]]></title>
+			<preview src="images/catalog/yellowstone/preview-280x135.jpg"><![CDATA[<portfoliocaption><font color="#B88C62">YELLOWSTONE AND GRAND TETON HIKING<br></font><mmspace></mmspace><font color="#999999">6 full days  /  Price:  <b>$2298</b></font></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p><font color="#B88C62">6 Full Days</font></p>]]></text>
+				</textblock>
+				<table topMargin="20" leftMargin="0" borderColor="" borderThickness="0">
+					<tr height="24">
+						<th width="140" bgcolor="" align="left"><![CDATA[<p class="grey">Trip Rating:</p>]]></th>
+						<th width="240" bgcolor="" align="left"><![CDATA[<p>Moderately Easy </p>]]></th>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Price:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$2298</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Single Supplement:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$525</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Gateway City:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Jackson, Wyoming</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Meeting Place:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Jackson, Wyoming</p>]]></td>
+					</tr>
+				</table>
+				<separator topMargin="15" leftMargin="0" width="" height="1" color="404040" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus. Nunc bibendum nisl vitae augue rutrum porttitor. Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh. Mauris in pulvinar nunc. Praesent eu libero risus. Donec a volutpat purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam bibendum mauris molestie nisi dignissim mattis. Vestibulum ac massa magna, vitae volutpat lacus.</p>]]></text>
+				</textblock>
+				<link topMargin="15" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/portfolio/catalog" clickTarget="_self"><![CDATA[<link>Read more about trip</link>]]></link>
+			</description>
+			<media>
+				<image src="images/catalog/yellowstone/img1.jpg" tn="images/catalog/yellowstone/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/catalog/yellowstone/img2.jpg" tn="images/catalog/yellowstone/img2-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+	
+	</category>
+	
+	<category title="Multisport">
+	
+		<item>
+			<title><![CDATA[<h3>OREGON CASCADES MULTISPORT</h3>]]></title>
+			<preview src="images/catalog/oregon/preview-280x135.jpg"><![CDATA[<portfoliocaption><font color="#B88C62">OREGON CASCADES MULTISPORT<br></font><mmspace></mmspace><font color="#999999">6 full days  /  Price:  <b>$3098</b></font></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p><font color="#B88C62">6 Full Days</font></p>]]></text>
+				</textblock>
+				<table topMargin="20" leftMargin="0" borderColor="" borderThickness="0">
+					<tr height="24">
+						<th width="140" bgcolor="" align="left"><![CDATA[<p class="grey">Trip Rating:</p>]]></th>
+						<th width="240" bgcolor="" align="left"><![CDATA[<p>Moderate</p>]]></th>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Price:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$3098</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Single Supplement:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$750</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Gateway City:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Portland, Oregon</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Meeting Place:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Portland, Oregon</p>]]></td>
+					</tr>
+				</table>
+				<separator topMargin="15" leftMargin="0" width="" height="1" color="404040" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Porta imperdiet, felis tortor sollicitudin risus, ac euismod metus neque non dolor. Cras scelerisque, dui sit amet molestie semper, massa neque volutpat magna, porta mattis sapien lorem sed elit. Vivamus dapibus semper justo, aliquet venenatis magna mattis sit amet. Suspendisse fringilla pellentesque bibendum. Cras scelerisque nisi et lectus facilisis varius. Mauris sodales interdum fringilla. Curabitur ultricies lacus in elit imperdiet id tincidunt eros fringilla.</p>]]></text>
+				</textblock>
+				<link topMargin="15" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/portfolio/catalog" clickTarget="_self"><![CDATA[<link>Read more about trip</link>]]></link>
+			</description>
+			<media>
+				<image src="images/catalog/oregon/img1.jpg" tn="images/catalog/oregon/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/catalog/oregon/img2.jpg" tn="images/catalog/oregon/img2-tn.jpg"><![CDATA[]]></image>
+				<image src="images/catalog/oregon/img3.jpg" tn="images/catalog/oregon/img3-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>ROCKY MOUNTAIN MULTISPORT TOUR</h3>]]></title>
+			<preview src="images/catalog/rocky_mountain/preview-280x135.jpg"><![CDATA[<portfoliocaption><font color="#B88C62">ROCKY MOUNTAIN MULTISPORT TOUR<br></font><mmspace></mmspace><font color="#999999">6 full days  /  Price:  <b>$2098</b></font></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p><font color="#B88C62">6 Full Days</font></p>]]></text>
+				</textblock>
+				<table topMargin="20" leftMargin="0" borderColor="" borderThickness="0">
+					<tr height="24">
+						<th width="140" bgcolor="" align="left"><![CDATA[<p class="grey">Trip Rating:</p>]]></th>
+						<th width="240" bgcolor="" align="left"><![CDATA[<p>Moderate</p>]]></th>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Price:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$2098</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Single Supplement:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$400</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Gateway City:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Denver, Colorado</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Meeting Place:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Boulder, Colorado</p>]]></td>
+					</tr>
+				</table>
+				<separator topMargin="15" leftMargin="0" width="" height="1" color="404040" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Curabitur et luctus augue. Vivamus ut arcu in arcu mollis consectetur id id mauris. Curabitur porta risus eu lorem tempus vitae sodales ante mollis. Curabitur gravida tincidunt ornare. Sed vulputate, nunc a cursus imperdiet, felis tortor interdum purus, non viverra justo libero et erat. Aliquam dignissim lorem ac leo egestas pellentesque.</p>]]></text>
+				</textblock>
+				<link topMargin="15" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/portfolio/catalog" clickTarget="_self"><![CDATA[<link>Read more about trip</link>]]></link>
+			</description>
+			<media>
+				<image src="images/catalog/rocky_mountain/img1.jpg" tn="images/catalog/rocky_mountain/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/catalog/rocky_mountain/img2.jpg" tn="images/catalog/rocky_mountain/img2-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+	
+	</category>
+	
+	<category title="Rafting">
+		
+		<item>
+			<title><![CDATA[<h3>MIDDLE FORK OF THE SALMON RAFTING TRIP</h3>]]></title>
+			<preview src="images/catalog/middle_fork/preview-280x135.jpg"><![CDATA[<portfoliocaption><font color="#B88C62">MIDDLE FORK RAFTING TRIP<br></font><mmspace></mmspace><font color="#999999">6 full days  /  Price:  <b>$1995</b></font></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p><font color="#B88C62">6 Full Days</font></p>]]></text>
+				</textblock>
+				<table topMargin="20" leftMargin="0" borderColor="" borderThickness="0">
+					<tr height="24">
+						<th width="140" bgcolor="" align="left"><![CDATA[<p class="grey">Trip Rating:</p>]]></th>
+						<th width="240" bgcolor="" align="left"><![CDATA[<p>Moderately Easy</p>]]></th>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Price:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>$1995</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Single Supplement:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>N/A</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Gateway City:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Boise, Idaho</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p class="grey">Meeting Place:</p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Stanley or Boise, Idaho</p>]]></td>
+					</tr>
+				</table>
+				<separator topMargin="15" leftMargin="0" width="" height="1" color="404040" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Aliquam erat volutpat. Aenean varius, mi in malesuada congue, odio arcu placerat dui, non tristique purus tellus quis justo. Donec non eros ipsum, vel suscipit enim. Proin at leo a ligula egestas pellentesque. Maecenas porta pretium quam, et rutrum nunc lobortis id. Aenean cursus, justo ut tristique tincidunt, sapien turpis egestas nisi, non ultricies lorem risus nec neque.</p>]]></text>
+				</textblock>
+				<link topMargin="15" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/portfolio/catalog" clickTarget="_self"><![CDATA[<link>Read more about trip</link>]]></link>
+			</description>
+			<media>
+				<image src="images/catalog/middle_fork/img1.jpg" tn="images/catalog/middle_fork/img1-tn.jpg"><![CDATA[<imagecaption>Middle Fork of the Flathead River near West Glacier</imagecaption>]]></image>
+				<image src="images/catalog/middle_fork/img2.jpg" tn="images/catalog/middle_fork/img2-tn.jpg"><![CDATA[]]></image>
+				<image src="images/catalog/middle_fork/img3.jpg" tn="images/catalog/middle_fork/img3-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+	
+	</category>
+	
+</portfolio>

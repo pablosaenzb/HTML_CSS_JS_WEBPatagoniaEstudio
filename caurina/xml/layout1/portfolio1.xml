@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<portfolio>
+		
+	<settings
+		
+		showCategoryMenu="true"
+		categoryMenuYPosition="0"
+		categorySpacing="28"
+		categoryFont="Droid Sans"
+		categoryFontSize="13"
+		categoryFontWeight="bold"
+		categoryFontColor="666666"
+		categoryOverFontColor="333333"
+		categorySelectedFontColor="577C95"
+		
+		previewsControlsYPosition="20"
+		previewsControlsRightMargin="5"
+		previewsNavButtonColor="888888"
+		previewsNavButtonSelectedColor="E77927"
+		
+		previewsInRow="3"
+		previewsInCol="2"
+		previewsTopMargin="15"
+		previewWidth="325"
+		previewHeight="200"
+		previewSpacing="0"
+		
+		previewBgColor="FFFFFF"
+		previewBgAlpha="0.5"
+		previewOverBgColor=""
+		previewBorderColor="FFFFFF"
+		previewBorderThickness="1"
+		previewOverBorderColor=""
+		previewShadowColor=""
+		previewShadowAlpha=""
+		previewPadding="0"
+		previewPreloaderColor="666666"
+		previewPreloaderAlpha="0.5"
+		previewCaptionFontColor="FFFFFF"
+		previewCaptionOverFontColor="FFCC99"
+		previewCaptionBgColor="000000"
+		previewCaptionBgAlpha="0.1"
+		previewCaptionOverBgColor="000000"
+		previewCaptionOverBgAlpha="0.2"
+		previewCaptionBlurredBg="true"
+		previewCaptionBgBlurAmount="32"
+		previewCaptionTopBottomPadding="5"
+		previewCaptionLeftRightPadding="5"
+		previewOverBrightness="0.7"
+		
+		projectAreaYPosition="18"
+		projectHeaderHeight="33"
+		projectAlign="left"
+		projectControlsRightMargin="5"
+		projectListButtonURL="images/icons/list.png"
+		projectLeftNavButtonURL="images/icons/left-arrow-type2.png"
+		projectRightNavButtonURL="images/icons/right-arrow-type2.png"
+		projectNavButtonSpacing="6"
+		projectButtonColor="999999"
+		projectButtonOverColor="555555"
+		projectControlsSeparatorURL="images/icons/dashed-line.png"
+		projectControlsSeparatorColor="CCCCCC"
+		projectTitleTopMargin="20"
+		projectContentTopMargin="10"
+		showProjectDescription="true"
+				
+		bigImageWidth="560"
+		bigImageHeight="315"
+		bigImageBgColor="FFFFFF"
+		bigImageBgAlpha="0.9"
+		bigImageBorderColor="CCCCCC"
+		bigImageBorderThickness="1"
+		bigImagePadding="1"
+		bigImagePreloaderColor="666666"
+		bigImagePreloaderAlpha="0.5"
+		bigImageCaptionBgColor="000000"
+		bigImageCaptionBgAlpha="0.3"
+		bigImageCaptionBlurredBg="true"
+		bigImageCaptionBgBlurAmount="32"
+		bigImageCaptionPadding="5"
+		bigImageOverBrightness="0.7"
+		bigImageZoomIconColor="000000"
+		bigImageZoomIconAlpha="0"
+		bigImageZoomIconOverAlpha="0.9"
+		bigImageRightMargin="30"
+		
+		thumbnailsVisible="4"
+		thumbnailsAlign="left"
+		thumbnailsTopMargin="10"
+		thumbnailWidth="96"
+		thumbnailHeight="54"
+		thumbnailSpacing="10"
+		thumbnailBgColor="FFFFFF"
+		thumbnailBgAlpha="0.3"
+		thumbnailBorderColor=""
+		thumbnailSelectedBorderColor="E77927"
+		thumbnailBorderThickness="2"
+		thumbnailShadowColor=""
+		thumbnailShadowAlpha=""
+		thumbnailPreloaderColor="666666"
+		thumbnailPreloaderAlpha="0.5"
+		thumbnailOverBrightness="0.5"
+		thumbnailVideoIconSize="24"
+		thumbnailVideoIconColor="FFFFFF"
+		thumbnailVideoIconAlpha="0.5"
+		thumbnailVideoIconOverAlpha="1"
+		thumbnailsLeftNavButtonURL="images/icons/left-arrow-type3.png"
+		thumbnailsRightNavButtonURL="images/icons/right-arrow-type3.png"
+		thumbnailsNavButtonColor="999999"
+		thumbnailsNavButtonOverColor="555555"
+		thumbnailsNavButtonPadding="10"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor="B5B5B5"
+		videoPlayerShadowAlpha="0.5"
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="13"
+		listItemBottomPadding="2"
+		scrollBarTrackWidth="1"
+		scrollBarTrackColor="FEFEFE"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="2"
+		scrollBarSliderColor="CCCCCC"
+		scrollBarSliderOverColor="B5B5B5"
+	/>
+	
+	<category title="Landscape Architecture">
+		
+		<item>
+			<title><![CDATA[<h3>AQUA RESORT PROJECT</h3>]]></title>
+			<preview src="images/portfolio/p1/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>AQUA RESORT PROJECT</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p>June 2012</p><space></space><p><b>Location:</b>  San Clemente, CA</p><mmspace></mmspace><p><b>Client:</b>  Resort Architecture Group</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Proin at leo a ligula egestas pellentesque. Maecenas porta pretium quam, et rutrum nunc lobortis id. Aenean cursus, justo ut tristique tincidunt, sapien turpis egestas nisi, non ultricies lorem risus nec neque. In nec quam sit amet erat iaculis cursus.</p><space></space><p>Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus.</p><space></space><p>Integer vel enim mi, sed suscipit neque. Integer at enim cursus massa malesuada tempus. Praesent congue molestie tristique. Nullam tortor leo, tristique ac tempus eget, vestibulum nec ante. Mauris rhoncus aliquet lectus, lobortis fringilla tortor placerat ac. Vestibulum quis dui dui. Nulla ornare neque sit amet magna volutpat cursus sit amet sollicitudin massa. Sed a sapien ac odio fringilla accumsan. Sed blandit dapibus fermentum.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p1/img1.jpg" tn="images/portfolio/p1/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p1/img2.jpg" tn="images/portfolio/p1/img2-tn.jpg"><![CDATA[<imagecaption>San Clemente Pier</imagecaption>]]></image>
+				<image src="images/portfolio/p1/img3.jpg" tn="images/portfolio/p1/img3-tn.jpg"><![CDATA[<imagecaption>Surfing the sunset</imagecaption>]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>KINGDOM HALL LANDSCAPE DESIGN</h3>]]></title>
+			<preview src="images/portfolio/p2/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>KINGDOM HALL LANDSCAPE DESIGN</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p>March 2012</p><space></space><p><b>Location:</b>  Burnaby, BC, Canada</p><mmspace></mmspace><p><b>Client:</b>  Landscape Construction Ltd</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Justo ut tristique tincidunt, sapien turpis egestas nisi, non ultricies lorem risus nec neque. Aliquam gravida tortor eu nulla congue posuere. Praesent tristique egestas tincidunt. Nulla convallis, nisi ac fringilla pharetra, est nulla tincidunt lacus, in auctor eros justo eu tortor.</p><space></space><p>Phasellus venenatis venenatis enim id ultricies. Nullam quis elit leo, quis fringilla metus. In nec quam sit amet erat iaculis cursus euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat. Aenean quis diam nunc.</p><space></space><p>Quisque nisl enim, volutpat vitae fermentum sed, convallis tincidunt lacus turpis. Nulla congue suscipit turpis, vitae hendrerit augue facilisis quis.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p2/img1.jpg" tn="images/portfolio/p2/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p2/img2.jpg" tn="images/portfolio/p2/img2-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>LANDSCAPE DESIGN FOR A CITY PARK</h3>]]></title>
+			<preview src="images/portfolio/p3/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>LANDSCAPE DESIGN FOR A CITY PARK</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p>February 2012</p><space></space><p><b>Location:</b>  Gdansk, Poland</p><mmspace></mmspace><p><b>Client:</b>  Recovery Programme Organization</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Aenean cursus, justo ut tristique tincidunt, sapien turpis egestas nisi, non ultricies lorem risus nec neque. In nec quam sit amet erat iaculis cursus. Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat. Quisque enim, volutpat vitae fermentum sed, convallis ante. Quisque tincidunt lacus turpis. Nulla congue suscipit turpis, vitae hendrerit augue facilisis quis.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p3/img1.jpg" tn="images/portfolio/p3/img1-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>PLAYGROUND IN A LANDSCAPE PARK</h3>]]></title>
+			<preview src="images/portfolio/p4/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>PLAYGROUND IN A LANDSCAPE PARK</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p>November 2011</p><space></space><p><b>Location:</b>  Munich, Germany</p><mmspace></mmspace><p><b>Client:</b>  Landscape Development Corporation</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Maecenas imperdiet cursus feugiat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus. Nunc bibendum nisl vitae augue rutrum porttitor. Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh. Mauris in pulvinar nunc. Praesent eu libero risus. Donec a volutpat purus.</p><space></space><p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam bibendum mauris molestie nisi dignissim mattis ac massa magna, vitae volutpat lacus.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p4/img1.jpg" tn="images/portfolio/p4/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p4/img2.jpg" tn="images/portfolio/p4/img2-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p4/img3.jpg" tn="images/portfolio/p4/img3-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p4/img4.jpg" tn="images/portfolio/p4/img4-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p4/img5.jpg" tn="images/portfolio/p4/img5-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>BUILDING A STONE WALKWAY IN A CITY PARK</h3>]]></title>
+			<preview src="images/portfolio/p5/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>BUILDING A STONE WALKWAY</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p>August 2011</p><space></space><p><b>Location:</b>  Elk Grove, CA</p><mmspace></mmspace><p><b>Client:</b>  John Doe Communities</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Nullam lorem lorem, bibendum eu facilisis eu, feugiat convallis lectus. Suspendisse euismod scelerisque nisi sed interdum. Duis orci ligula, malesuada a gravida eu, lobortis at est. Duis suscipit varius lorem vitae volutpat. Maecenas imperdiet cursus feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos:</p>]]></text>
+				</textblock>
+				<list width="" topMargin="10" leftMargin="20" markerColor="777777">
+					<item><![CDATA[<p>donec facilisis posuere vehicula</p>]]></item>
+					<item><![CDATA[<p>morbi porta, urna at euismod metus ut massa</p>]]></item>
+					<item><![CDATA[<p>aliquam lectus ligula fringilla venenatis venenatis</p>]]></item>
+					<item><![CDATA[<p>etiam sollicitudin lectus vitae velit.</p>]]></item>
+				</list>
+				<textblock topMargin="15">
+					<text><![CDATA[<p>Sed blandit dapibus fermentum. Sed nunc arcu, malesuada non hendrerit id, viverra nec tortor. Sed non venenatis erat. Etiam sollicitudin lectus vitae velit vulputate quis consequat nunc placerat.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p5/img1.jpg" tn=""><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>MIXED MEDIA PROJECT</h3>]]></title>
+			<preview src="images/portfolio/p6/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>MIXED MEDIA PROJECT</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock>
+					<text><![CDATA[<p>June 2011</p><space></space><p><b>Location:</b>  Thomasville, Alabama</p><mmspace></mmspace><p><b>Client:</b>  Mixed Media Company</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Maecenas tincidunt diam sit amet lacus adipiscing eu dignissim mauris molestie. Nam in orci turpis, congue volutpat augue. Nulla facilisi. Suspendisse lobortis consequat sapien, at accumsan justo condimentum a. Nulla facilisi. Aliquam erat volutpat. Proin elementum augue nec lectus molestie congue. Duis sed quam massa, nec molestie sapien.</p><space></space><p>Vivamus sit amet lacus posuere lacus ullamcorper tempus. Aenean sit amet lorem vel eros viverra convallis at eu metus.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p6/img1.jpg" tn="images/portfolio/p6/img1-tn.jpg"><![CDATA[<imagecaption>Embarcadero, San Francisco</imagecaption>]]></image>
+				<video youTubeMode="false" src="videos/top_view.mp4" ratio="16:9" previewImage="images/portfolio/p6/video1-preview.jpg" tn="images/portfolio/p6/video1-tn.jpg" playbackQuality="" autoPlay="true"/>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>LANDSCAPE DESIGN FOR A CITY PARK</h3>]]></title>
+			<preview src="images/portfolio/p3/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>LANDSCAPE DESIGN FOR A CITY PARK</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p>February 2012</p><space></space><p><b>Location:</b>  Gdansk, Poland</p><mmspace></mmspace><p><b>Client:</b>  Recovery Programme Organization</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Aenean cursus, justo ut tristique tincidunt, sapien turpis egestas nisi, non ultricies lorem risus nec neque. In nec quam sit amet erat iaculis cursus. Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat. Quisque enim, volutpat vitae fermentum sed, convallis ante. Quisque tincidunt lacus turpis. Nulla congue suscipit turpis, vitae hendrerit augue facilisis quis.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p3/img1.jpg" tn="images/portfolio/p3/img1-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>PLAYGROUND IN A LANDSCAPE PARK</h3>]]></title>
+			<preview src="images/portfolio/p4/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>PLAYGROUND IN A LANDSCAPE PARK</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p>November 2011</p><space></space><p><b>Location:</b>  Munich, Germany</p><mmspace></mmspace><p><b>Client:</b>  Landscape Development Corporation</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Maecenas imperdiet cursus feugiat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus. Nunc bibendum nisl vitae augue rutrum porttitor. Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh. Mauris in pulvinar nunc. Praesent eu libero risus. Donec a volutpat purus.</p><space></space><p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam bibendum mauris molestie nisi dignissim mattis ac massa magna, vitae volutpat lacus.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p4/img1.jpg" tn="images/portfolio/p4/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p4/img2.jpg" tn="images/portfolio/p4/img2-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p4/img3.jpg" tn="images/portfolio/p4/img3-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p4/img4.jpg" tn="images/portfolio/p4/img4-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p4/img5.jpg" tn="images/portfolio/p4/img5-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>BUILDING A STONE WALKWAY IN A CITY PARK</h3>]]></title>
+			<preview src="images/portfolio/p5/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>BUILDING A STONE WALKWAY</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock topMargin="0">
+					<text><![CDATA[<p>August 2011</p><space></space><p><b>Location:</b>  Elk Grove, CA</p><mmspace></mmspace><p><b>Client:</b>  John Doe Communities</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Nullam lorem lorem, bibendum eu facilisis eu, feugiat convallis lectus. Suspendisse euismod scelerisque nisi sed interdum. Duis orci ligula, malesuada a gravida eu, lobortis at est. Duis suscipit varius lorem vitae volutpat. Maecenas imperdiet cursus feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos:</p>]]></text>
+				</textblock>
+				<list width="" topMargin="10" leftMargin="20" markerColor="777777">
+					<item><![CDATA[<p>donec facilisis posuere vehicula</p>]]></item>
+					<item><![CDATA[<p>morbi porta, urna at euismod metus ut massa</p>]]></item>
+					<item><![CDATA[<p>aliquam lectus ligula fringilla venenatis venenatis</p>]]></item>
+					<item><![CDATA[<p>etiam sollicitudin lectus vitae velit.</p>]]></item>
+				</list>
+				<textblock topMargin="15">
+					<text><![CDATA[<p>Sed blandit dapibus fermentum. Sed nunc arcu, malesuada non hendrerit id, viverra nec tortor. Sed non venenatis erat. Etiam sollicitudin lectus vitae velit vulputate quis consequat nunc placerat.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p5/img1.jpg" tn=""><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>MIXED MEDIA PROJECT</h3>]]></title>
+			<preview src="images/portfolio/p6/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>MIXED MEDIA PROJECT</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock>
+					<text><![CDATA[<p>June 2011</p><space></space><p><b>Location:</b>  Thomasville, Alabama</p><mmspace></mmspace><p><b>Client:</b>  Mixed Media Company</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Maecenas tincidunt diam sit amet lacus adipiscing eu dignissim mauris molestie. Nam in orci turpis, congue volutpat augue. Nulla facilisi. Suspendisse lobortis consequat sapien, at accumsan justo condimentum a. Nulla facilisi. Aliquam erat volutpat. Proin elementum augue nec lectus molestie congue. Duis sed quam massa, nec molestie sapien.</p><space></space><p>Vivamus sit amet lacus posuere lacus ullamcorper tempus. Aenean sit amet lorem vel eros viverra convallis at eu metus.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p6/img1.jpg" tn="images/portfolio/p6/img1-tn.jpg"><![CDATA[<imagecaption>Embarcadero, San Francisco</imagecaption>]]></image>
+				<video youTubeMode="false" src="videos/top_view.mp4" ratio="16:9" previewImage="images/portfolio/p6/video1-preview.jpg" tn="images/portfolio/p6/video1-tn.jpg" playbackQuality="" autoPlay="true"/>
+			</media>
+		</item>
+	
+	</category>
+	
+	<category title="Interior Design">
+	
+		<item>
+			<title><![CDATA[<h3>ECO LIGHTING DESIGN</h3>]]></title>
+			<preview src="images/portfolio/p7/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>ECO LIGHTING DESIGN</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock>
+					<text><![CDATA[<p>April 2012</p><space></space><p><b>Location:</b>  San Diego, CA</p><mmspace></mmspace><p><b>Client:</b>  Eco Lighting Company</p><space></space><p><b>Designer:</b>  Jane Smith & Kate Brown</p><mmspace></mmspace><p><b>Architect:</b>  John Carter</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Proin at leo a ligula egestas pellentesque. Maecenas porta pretium quam, et rutrum nunc lobortis id. Aenean cursus, justo ut tristique tincidunt, sapien turpis egestas nisi, non ultricies lorem risus nec neque. In nec quam sit amet erat iaculis cursus.</p><space></space><p>Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat. Aenean quis vitae fermentum sed, convallis non ante. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p7/img1.jpg" tn="images/portfolio/p7/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p7/img2.jpg" tn="images/portfolio/p7/img2-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p7/img3.jpg" tn="images/portfolio/p7/img3-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>THE MAXWELL SCHOOL OF ARTS</h3>]]></title>
+			<preview src="images/portfolio/p8/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>THE MAXWELL SCHOOL OF ARTS</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock>
+					<text><![CDATA[<p>December 2011</p><space></space><p><b>Location:</b>  Paradise Valley, Arizona</p><mmspace></mmspace><p><b>Client:</b>  The Maxwell Art Group</p><space></space><p><b>Designer:</b>  Jane Smith & John Lee</p><mmspace></mmspace><p><b>Architect:</b>  Marcus Porter</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Maecenas tincidunt diam sit amet lacus adipiscing eu dignissim mauris molestie. Nam in orci turpis, congue volutpat augue. Nulla facilisi. Suspendisse lobortis consequat sapien, at accumsan justo condimentum a. Nulla facilisi. Aliquam erat volutpat. Proin elementum augue nec lectus molestie congue. Duis sed quam massa, nec molestie sapien.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p8/img1.jpg" tn="images/portfolio/p8/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p8/img2.jpg" tn="images/portfolio/p8/img2-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p8/img3.jpg" tn="images/portfolio/p8/img3-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>YOUTUBE VIDEO PROJECT</h3>]]></title>
+			<preview src="images/portfolio/p9/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>YOUTUBE VIDEO PROJECT</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock>
+					<text><![CDATA[<p>October 2011</p><space></space><p><b>Location:</b>  Dubai, United Arab Emirates</p><mmspace></mmspace><p><b>Client:</b>  Dubai World Trade Centre</p><space></space><p><b>Designer:</b>  John Lee</p><mmspace></mmspace><p><b>Architect:</b>  John Carter</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Justo ut tristique tincidunt, sapien turpis egestas nisi, non ultricies lorem risus nec neque. Aliquam gravida tortor eu nulla congue posuere. Praesent tristique egestas tincidunt. Nulla convallis, nisi ac fringilla pharetra, est nulla tincidunt lacus, in auctor eros justo eu tortor.</p><space></space><p>Phasellus venenatis venenatis enim id ultricies. Nullam quis elit leo, quis fringilla metus. In nec quam sit amet erat iaculis cursus euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat. Aenean quis diam nunc.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<video youTubeMode="true" src="6gvrI6iAMKM" ratio="16:9" previewImage="images/portfolio/p9/video1-preview.jpg" tn="images/portfolio/p9/video1-tn.jpg" playbackQuality="hd720" autoPlay="false"/>
+				<video youTubeMode="true" src="KEqzVAERF5o" ratio="16:9" previewImage="images/portfolio/p9/video2-preview.jpg" tn="images/portfolio/p9/video2-tn.jpg" playbackQuality="hd720" autoPlay="false"/>
+				<video youTubeMode="true" src="mNThBQahssg" ratio="16:9" previewImage="images/portfolio/p9/video3-preview.jpg" tn="images/portfolio/p9/video3-tn.jpg" playbackQuality="default" autoPlay="false"/>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>ASTERA ART STUDIO</h3>]]></title>
+			<preview src="images/portfolio/p10/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>ASTERA ART STUDIO</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock>
+					<text><![CDATA[<p>May 2011</p><space></space><p><b>Location:</b>  Gulf Shores, Alabama</p><mmspace></mmspace><p><b>Client:</b>  Asrera Art Design Corporation</p><space></space><p><b>Designer:</b>  Jane Smith & John Lee</p><mmspace></mmspace><p><b>Architect:</b>  John Carter</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Nullam lorem lorem, bibendum eu facilisis eu, feugiat convallis lectus. Suspendisse euismod scelerisque nisi sed interdum. Duis orci ligula, malesuada a gravida eu, lobortis at est. Duis suscipit varius lorem vitae volutpat. Maecenas imperdiet cursus feugiat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus. Nunc bibendum nisl vitae augue rutrum porttitor. Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos:</p>]]></text>
+				</textblock>
+				<list width="" topMargin="10" leftMargin="20" markerColor="777777">
+					<item><![CDATA[<p>donec facilisis posuere vehicula</p>]]></item>
+					<item><![CDATA[<p>aliquam lectus ligula fringilla venenatis venenatis</p>]]></item>
+					<item><![CDATA[<p>etiam sollicitudin lectus vitae velit.</p>]]></item>
+				</list>
+			</description>
+			<media>
+				<image src="images/portfolio/p10/img1.jpg" tn="images/portfolio/p10/img1-tn.jpg"><![CDATA[]]></image>
+				<image src="images/portfolio/p10/img2.jpg" tn="images/portfolio/p10/img2-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+	
+	</category>
+	
+	<category title="Electrical Engineering">
+	
+		<item>
+			<title><![CDATA[<h3>NANO SCIENCE LABORATORY</h3>]]></title>
+			<preview src="images/portfolio/p11/preview-325x200.jpg"><![CDATA[<portfoliocaption><center>NANO SCIENCE LABORATORY</center></portfoliocaption>]]></preview>
+			<description>
+				<textblock>
+					<text><![CDATA[<p>July 2012</p><space></space><p><b>Location:</b>  Science Park – University of York, Great Britain</p><mmspace></mmspace><p><b>Client:</b>  University of York</p><space></space><p><b>Consulting Engineer:</b>  Alan Midstone & Partners</p><mmspace></mmspace><p><b>Project Value:</b>  £0.6 million</p>]]></text>
+				</textblock>
+				<separator topMargin="20" leftMargin="0" width="" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="20">
+					<text><![CDATA[<p>Vivamus dapibus semper justo, aliquet venenatis magna mattis sit amet. Suspendisse fringilla pellentesque bibendum. Cras scelerisque nisi et lectus facilisis varius. Mauris sodales interdum fringilla. Curabitur ultricies lacus in elit imperdiet id tincidunt eros fringilla.</p><space></space><p>Nullam lorem lorem, bibendum eu facilisis eu, feugiat convallis lectus. Suspendisse euismod scelerisque nisi sed interdum. Duis orci ligula, malesuada a gravida eu, lobortis at est. Duis suscipit varius lorem vitae volutpat. Maecenas imperdiet cursus feugiat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus. Nunc bibendum nisl vitae augue rutrum porttitor.</p>]]></text>
+				</textblock>
+			</description>
+			<media>
+				<image src="images/portfolio/p11/img1.jpg" tn="images/portfolio/p11/img1-tn.jpg"><![CDATA[<imagecaption>High voltage switch gear for three phases</imagecaption>]]></image>
+				<image src="images/portfolio/p11/img2.jpg" tn="images/portfolio/p11/img2-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+	
+	</category>
+	
+</portfolio>

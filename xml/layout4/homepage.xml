@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<homepage>
+
+
+	<!-- Banner Rotator -->
+	<rotator>
+
+		<settings
+	
+			bannerWidth="980"
+			bannerHeight="270"
+			bannerBgColor="000000"
+			bannerBgAlpha="0.5"
+			bannerBackground=""
+			bannerCornerRadius=""
+			bannerBorderColor=""
+			bannerBorderThickness=""
+			bannerShadowColor=""
+			bannerShadowAlpha=""
+			autoPlay="true"
+			imageShowTime=""
+			randomImages="false"
+			pauseOnMouseOver="false"
+			repeatMode="true"
+			
+			imageTransitionType="5"
+			imageTransitionDuration="0.8"
+			imageExposureDelay="0.6"
+			imageExposureStrength="3"
+			randomImageTransitions="false"
+			squareSize="60"
+			
+			imageAreaWidth="980"
+			imageAreaHeight="270"
+			imageAreaCornerRadius=""
+			imageAreaXPosition="0"
+			imageAreaYPosition="0"
+			
+			captionTextShadowColor="333333"
+			captionTextShadowAlpha="0.4"
+
+			showControls="true"
+			controlsType="2"
+			controlsPosition="right"
+			controlsXOffset="20"
+			controlsYOffset="10"
+			controlsAutoHide="false"
+			buttonSpacing="7"
+			buttonBgColor="999999"
+			buttonOverBgColor="E9E9E9"
+			buttonSelectedBgColor="E9E9E9"
+			showButtonShadow="true"
+			buttonShadowColor=""
+			showPlayPauseButton="true"
+			playPauseIconColor="666666"
+			playPauseIconOverColor="AD5230"
+			
+			showTimer="true"
+			timerBarPosition="bottom"
+			timerBarHeight="2"
+			timerBarColor="999999"
+			timerBarAlpha="0.3"
+			
+			showPreloader="true"
+			preloaderColor="999999"
+		/>
+	
+		<banners>
+			
+			<banner>
+				<image src="images/banners/home1.jpg" showTime="8"/>
+				<textblock xPos="80" yPos="40" startDelay="1.5" shadow="true">
+					<start_animation type="Fade" duration="0.8" blur="true"/>
+					<text><![CDATA[<font face="League Gothic" size="46" color="#FFFFFF">Planificación fiscal</font>]]></text>
+				</textblock>
+				<textblock xPos="420" yPos="167" startDelay="2" shadow="true">
+					<start_animation type="Fade" duration="0.8" blur="true"/>
+					<text><![CDATA[<font face="League Gothic" size="36" color="#E6DAA5">Energías renovables</font>]]></text>
+				</textblock>
+			</banner>
+			
+			<banner>
+				<image src="images/banners/home4.jpg" showTime="8"/>
+				<textblock xPos="783" yPos="20" startDelay="1" shadow="true">
+					<start_animation type="Fade" duration="0.8" moveFrom="left" moveOffset="100" blur="true"/>
+					<text><![CDATA[<font face="League Gothic" size="40" color="#E6DAA5">Recupero de IVA</font>]]></text>
+				</textblock>
+				<textblock xPos="900" yPos="60" startDelay="1.5" shadow="true">
+					<start_animation type="Fade" duration="0.8" moveFrom="left" moveOffset="100" blur="true"/>
+					<text><![CDATA[<font face="League Gothic" size="30" color="#E3E3E3">Minería</font>]]></text>
+				</textblock>
+			</banner>
+			
+			<banner>
+				<image src="images/banners/home5.jpg" showTime="8"/>
+			</banner>
+			
+		</banners>
+	
+	</rotator>
+
+	
+	<!-- Slogan -->
+	<slogan topMargin="20" leftMargin="0" width="">
+		<![CDATA[<homeslogan>Bienvenido a <font color="#D6A23B">Patagonia Estudio</font> – Una empresa dedicada al Servicio.</homeslogan>]]>
+	</slogan>
+
+	
+	<!-- Teasers -->
+	<teasers topMargin="25">
+		
+		<settings
+
+			teasersType="1"
+			teasersVisible="4"
+			teaserWidth="200"
+			teaserHeight="150"
+			teaserSpacing="30"
+
+			imageBgColor="000000"
+			imageBgAlpha="0.5"
+			imageBorderColor=""
+			imageBorderThickness=""
+			imageShadowColor=""
+			imageShadowAlpha=""
+			imagePadding="0"
+			imagePreloaderColor="CCCCCC"
+			imagePreloaderAlpha="0.5"
+			imageCaptionBgColor="000000"
+			imageCaptionBgAlpha="0.8"
+			imageCaptionBlurredBg="true"
+			imageCaptionBgBlurAmount="32"
+			imageCaptionPadding="3"
+			imageOverBrightness="-0.2"
+			imageLinkIconAlpha=""
+			imageLinkIconOverAlpha=""
+			imageBottomMargin=""
+			titleBottomPadding=""
+			
+			leftNavButtonURL="images/icons/left-arrow-type1.png"
+			rightNavButtonURL="images/icons/right-arrow-type1.png"
+			navButtonColor="555555"
+			navButtonOverColor="999999"
+			navButtonPadding="20"
+		/>
+		
+		<teaser>
+			<image src="images/homepage/teaser7.jpg" clickLink="#/services/impuestos" clickTarget="_self"/>
+			<caption class="caption"><![CDATA[<imagecaption><center>Impuestos</center></imagecaption>]]></caption>
+		</teaser>
+
+		<teaser>
+			<image src="images/homepage/teaser8.jpg" clickLink="#/services/contabilidad" clickTarget="_self"/>
+			<caption><![CDATA[<imagecaption><center>Contabilidad</center></imagecaption>]]></caption>
+		</teaser>
+
+		<teaser>
+			<image src="images/homepage/teaser9.jpg" clickLink="#/services/management" clickTarget="_self"/>
+			<caption><![CDATA[<imagecaption><center>Administración</center></imagecaption>]]></caption>
+		</teaser>
+
+		<teaser>
+			<image src="images/homepage/teaser4.jpg" clickLink="#/services/regimen_cambiario" clickTarget="_self"/>
+			<caption><![CDATA[<imagecaption><center>Evaluación de proyectos de inversión</center></imagecaption>]]></caption>
+		</teaser>
+		
+		<teaser>
+			<image src="images/homepage/teaser10.jpg" clickLink="#/services/comercio_exterior" clickTarget="_self"/>
+			<caption><![CDATA[<imagecaption><center>Comercio exterior</center></imagecaption>]]></caption>
+		</teaser>
+		
+		<teaser>
+			<image src="images/homepage/teaser11.jpg" clickLink="#/services/recursos_humanos" clickTarget="_self"/>
+			<caption><![CDATA[<imagecaption><center>Recursos Humanos</center></imagecaption>]]></caption>
+		</teaser>
+
+	</teasers>
+	
+
+	<!-- Bottom Separator Line -->
+	<bottomSeparator topMargin="30" leftMargin="0" width="" height="1" color="404040" iconURL="images/icons/homepage-separator1.png"/>
+	
+	
+	<!-- Bottom Content Blocks -->
+	<bottomContent topMargin="15">
+	
+		<settings
+
+			listItemMarkerURL="images/icons/list-item-marker-type1.png"
+			listItemMarkerTopPadding="8"
+			listItemLeftPadding="13"
+			listItemBottomPadding="2"
+			
+			scrollBarTrackWidth="2"
+			scrollBarTrackColor="252525"
+			scrollBarTrackAlpha="1"
+			scrollBarSliderOverWidth="4"
+			scrollBarSliderColor="666666"
+			scrollBarSliderOverColor="757575"
+		
+		/>
+
+		<cols>
+			<col>
+				<textblock topMargin="0" leftMargin="0" width="310">
+					<text><![CDATA[<h2>Nosotros</h2><space></space><p>Descubra quienes somos y nuestros principales baluartes.</p>]]></text>
+				</textblock>
+				<link topMargin="10" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/about-us" clickTarget="_self"><![CDATA[<link>Ver mas</link>]]></link>
+			</col>
+			<col>
+				<textblock topMargin="0" leftMargin="30" width="310">
+					<text><![CDATA[<h2>Newsletter</h2><space></space><p>Próximamente.</p>]]></text>
+				</textblock>
+				<link topMargin="10" leftMargin="30" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/company/philosophy" clickTarget="_self"><![CDATA[<link>Ver mas</link>]]></link>
+			</col>
+			<col>
+				<textblock topMargin="0" leftMargin="30" width="310">
+					<text><![CDATA[<h2>Contacto</h2><space></space><p>Conozca nuestros medios de contacto.</p>]]></text>
+				</textblock>
+				<link topMargin="10" leftMargin="30" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/form-on-the-left" clickTarget="_self"><![CDATA[<link>Ver mas</link>]]></link>
+			</col>
+		</cols>
+
+	</bottomContent>
+
+</homepage>

@@ -1,0 +1,262 @@
+
+/************************* GENERAL ****************************/
+
+/* Page title */
+h1 {
+	font-family: League Gothic;
+	color: #C3C3C3;
+	font-size: 24px;
+}
+
+/* Heading - white */
+h2 {
+	font-family: Droid Sans;
+	color: #C6C6C6;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+
+/* Heading - golden */
+h3 {
+	font-family: Droid Sans;
+	color: #C8C09D;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+/* Heading - white */
+h4 {
+	font-family: Droid Sans;
+	color: #C6C6C6;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+/* Heading - goldennnnnn */
+h5 {
+	font-family: Droid Sans;
+	color: #D6A23B;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+/* Default hyperlink */
+a {
+	color: #C8C09D;
+	text-decoration: none;
+}
+
+/* Default hyperlink on mouse hover */
+a:hover {
+	color: #EFB379;
+}
+
+/* Paragraph text */
+p {
+	font-family: Droid Sans;
+	color: #B5B5B5;
+	font-size: 13px;
+	leading: 6px;
+}
+
+/* List text */
+li {
+	font-family: Droid Sans;
+	color: #B5B5B5;
+	font-size: 13px;
+	margin-left: 0px;
+	leading: 6px;
+}
+
+/* Centering */
+center {
+	text-align: center;
+}
+
+/* Bold style */
+.bold {
+	font-weight: bold;
+	color: #C6C6C6;
+}
+
+.bold2 {
+  	font-weight: bold;
+	color: #d6a23b;
+	font-size: 18px;
+
+}
+
+/* Vertical space - 12 pixels */
+space {
+	font-size: 1px;
+	leading: 12px;
+}
+
+/* Vertical microspace - 6 pixels */
+mspace {
+	font-size: 1px;
+	leading: 6px;
+}
+
+/* Vertical microspace - 2 pixels */
+mmspace {
+	font-size: 1px;
+	leading: 2px;
+}
+
+/* Image caption */
+imagecaption {
+  	font-family: PT Sans Caption;
+  /*	color: #C9C9C9;  */
+    color: #ffffff;
+	font-size: 13px;
+}
+
+/* Link block */
+link {
+	font-family: Droid Sans;
+	font-size: 13px;
+}
+
+/* Category menu items separator (used inside the news.swf, portfolio.swf and gallery.swf) */
+categoryseparator {
+	font-family: Droid Sans;
+	color: #888888;
+	font-size: 13px;
+}
+
+/* Website initiation preloader (used inside the index.swf) */
+preloader {
+	font-family: Droid Sans;
+	color: #999999;
+	font-size: 11px;
+	text-align: center;
+}
+
+/* White color */
+.white {
+	color: #FFFFFF;
+}
+
+/* Grey color */
+.grey {
+	color: #777777;
+}
+
+/************************* HOME PAGE ***************************/
+
+/* Homepage slogan */
+homeslogan {
+	font-family: PT Sans Caption;
+    color: #ffffff;
+	font-size: 18px;
+	text-align: center;
+
+}
+
+/************************* FOOTER ******************************/
+
+/* Footer text */
+footer {
+	font-family: Droid Sans;
+	color: #888888;
+	font-size: 13px;
+}
+
+/* Footer text hyperlink */
+.footerlink {
+	color: #C8C09D;
+}
+
+/* Footer text hyperlink on mouse hover (used inside the index.swf) */
+footerlink-hover {
+	color: #EFB379;
+}
+
+/************************* TEAM ********************************/
+
+/* Person position */
+persposition {
+	font-family: Verdana;
+	color: #777777;
+	font-size: 12px;
+	font-style: italic;
+	leading: 6px;
+}
+
+/************************* NEWS ********************************/
+
+/* News item date (in preview) */
+previewdate {
+	font-family: PT Sans Caption;
+	color: #777777;
+	font-size: 11px;
+}
+
+/* News item date (in article) */
+articledate {
+	font-family: PT Sans Caption;
+	color: #777777;
+	font-size: 11px;
+}
+
+/* List text (in preview) */
+.previewlist {
+	margin-left: -16px;
+}
+
+/************************* PORTFOLIO ****************************/
+
+/* Image caption of a portfolio item preview. The font color is specified in a Portfolio XML configuration file  */
+portfoliocaption {
+	font-family: Verdana;
+	font-size: 11px;
+}
+
+/************************* GALLERY *****************************/
+
+/* Image caption of a gallery item preview */
+gallerycaption {
+	font-family: PT Sans Caption;
+	color: #C9C9C9;
+	font-size: 11px;
+	text-align: center;
+}
+
+/* Gallery item counter (used inside the gallery.swf) */
+.galleryitem-counter {
+	font-family: PT Sans Caption;
+	color: #B5B5B5;
+	font-size: 18px;
+}
+
+/************************* VIDEO PLAYER ************************/
+
+/* Video player timer (used inside VideoPlayer and VideoPlayerYouTube classes) */
+videotimer {
+	font-family: Tahoma;
+	color: #666666;
+	font-size: 11px;
+}
+
+/************************* CONTACT *****************************/
+
+/* The label for "Send" button (used inside the contact.swf) */
+sendbutton {
+	font-family: Droid Sans;
+	font-size: 14px;
+}
+
+
+.estudio{
+  color: #d6a23b;
+}
+
+.dorado {
+  color: #D6A23B;
+}
+
+.caption {
+  background: #CC09AF;
+}

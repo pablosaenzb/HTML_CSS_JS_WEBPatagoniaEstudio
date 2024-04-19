@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<services>
+		
+	<settings
+		
+		servicesType="2"
+		controlsYPosition=""
+		controlsRightMargin=""
+		navButtonColor=""
+		navButtonSelectedColor=""
+		
+		itemsInRow="3"
+		itemsTopMargin="10"
+		itemsLeftMargin="0"
+		itemWidth="300"
+		itemHeight=""
+		itemHSpacing="40"
+		itemVSpacing="40"
+		
+		imageBgColor=""
+		imageBgAlpha=""
+		imageBorderColor=""
+		imageBorderThickness=""
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding=""
+		imagePreloaderColor="CCCCCC"
+		imagePreloaderAlpha="0"
+		imageOverBrightness=""
+		imageLinkIconAlpha=""
+		imageLinkIconOverAlpha=""
+		imageTopMargin="0"
+		imageBottomMargin=""
+		imageRightMargin="10"
+		
+		titleBottomPadding="10"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type3.png"
+		listItemMarkerTopPadding="7"
+		listItemLeftPadding="12"
+		listItemBottomPadding="3"
+			
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="252525"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="666666"
+		scrollBarSliderOverColor="757575"
+	/>
+	
+	<service>
+		<title><![CDATA[<h5>Impuestos</h5>]]></title>
+		<image src="images/services/icon1.png" clickLink="" clickTarget=""/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Patagonia Estudio lo acompaña día a día brindando servicios impositivos de excelencia:</p>]]></text>
+			</textblock>
+			<list topMargin="10" leftMargin="0" markerColor="999999">
+				<item><![CDATA[<p>Asesoramiento y revisiones impositivas integrales</p>]]></item>
+				<item><![CDATA[<p>Planificación fiscal. Obtención de beneficios y exenciones. Reorganizaciones libres de impuestos</p>]]></item>
+				<item><![CDATA[<p>Regímenes de promoción. Especialistas en Actividad Minera</p>]]></item>
+			</list>
+            <link topMargin="10" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/services/impuestos" clickTarget="_self"><![CDATA[<link>Ver +</link>]]></link>
+		</content>
+	</service>
+	
+	<service>
+		<title><![CDATA[<h5>Contabilidad & Auditoría</h5>]]></title>
+		<image src="images/services/icon2.png" clickLink="" clickTarget=""/>
+		<content>
+			<list topMargin="10" leftMargin="0" markerColor="999999">
+				<item><![CDATA[<p>Auditoría y análisis de estados contables</p>]]></item>
+				<item><![CDATA[<p>Confección y armado de estados contables. Consolidaciones.</p>]]></item>
+				<item><![CDATA[<p>Balances proyectados</p>]]></item>
+				<item><![CDATA[<p>Análisis de estados contables</p>]]></item>
+				<item><![CDATA[<p>Representación ante organismos de contralor</p>]]></item>
+			</list>
+			<link topMargin="10" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/services/contabilidad" clickTarget="_self"><![CDATA[<link>Ver +</link>]]></link>
+		</content>
+	</service>
+	
+	<service>
+		<title><![CDATA[<h5>Management & Finanzas</h5>]]></title>
+		<image src="images/services/icon5.png" clickLink="" clickTarget=""/>
+		<content>
+			<list topMargin="10" leftMargin="0" markerColor="999999">
+				<item><![CDATA[<p>Análisis de cambios normativos fiscales y cambiarios y determinación de efectos en el negocio</p>]]></item>
+				<item><![CDATA[<p>Evaluacion de proyectos de inversión, nuevos contratos y negocios</p>]]></item>
+				<item><![CDATA[<p>Confeccion y asistencia en presupuestos y cash flow</p>]]></item>
+				<item><![CDATA[<p>Estructuracion de grupos económicos y operaciones intercompañia. Reorganizaciones societarias</p>]]></item>
+			</list>
+			<link topMargin="10" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/services/management" clickTarget="_self"><![CDATA[<link>Ver +</link>]]></link>
+		</content>
+	</service>
+	
+	<service>
+		<title><![CDATA[<h5>Regimen Cambiario</h5>]]></title>
+		<image src="images/services/icon4.png" clickLink="" clickTarget=""/>
+		<content>
+			<list topMargin="10" leftMargin="0" markerColor="999999">
+				<item><![CDATA[<p>Asistencia en la liquidación de divisas por cobros de exportaciones y pagos a proveedores del exterior</p>]]></item>
+				<item><![CDATA[<p>Asistencia en pagos intercompañía al exterior (servicios, intereses, dividendos)</p>]]></item>
+				<item><![CDATA[<p>Preparación de Declaraciones Juradas Anticipadas de Servicios (DJAS) y Declaraciones Juradas Anticipadas de Importación (DJAI)</p>]]></item>
+			</list>
+            <link topMargin="10" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/services/regimen_cambiario" clickTarget="_self"><![CDATA[<link>Ver +</link>]]></link>
+		</content>
+	</service>
+	
+	<service>
+		<title><![CDATA[<h5>Comercio Exterior</h5>]]></title>
+		<image src="images/services/icon6.png" clickLink="" clickTarget=""/>
+		<content>
+			<list topMargin="10" leftMargin="0" markerColor="999999">
+				<item><![CDATA[<p>Evaluación de costos de Importación y Exportación</p>]]></item>
+				<item><![CDATA[<p>Presentación y tramitación de destinaciones de Importación y Exportación</p>]]></item>
+				<item><![CDATA[<p>Reintegros de Exportaciones: Presentación para su cobro ante DGA</p>]]></item>
+			</list>
+            <link topMargin="10" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/services/comercio_exterior" clickTarget="_self"><![CDATA[<link>Ver +</link>]]></link>
+		</content>
+	</service>
+	
+	<service>
+		<title><![CDATA[<h5>Recursos Humanos</h5>]]></title>
+		<image src="images/services/icon3.png" clickLink="" clickTarget=""/>
+		<content>
+			<list topMargin="10" leftMargin="0" markerColor="999999">
+				<item><![CDATA[<p>Asesoramiento laboral y previsional de empleadores y autónomos</p>]]></item>
+				<item><![CDATA[<p>Liquidación de sueldos, aportes y contribuciones</p>]]></item>
+				<item><![CDATA[<p>Confección de declaraciones juradas de la Seguridad Social. Altas y bajas</p>]]></item>
+				<item><![CDATA[<p>Atención de inspecciones previsionales</p>]]></item>
+			</list>
+            <link topMargin="10" leftMargin="0" leftPadding="15" color="C8C09D" hoverColor="EFB379" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/services/recursos_humanos" clickTarget="_self"><![CDATA[<link>Ver +</link>]]></link>
+		</content>
+	</service>
+	
+</services>

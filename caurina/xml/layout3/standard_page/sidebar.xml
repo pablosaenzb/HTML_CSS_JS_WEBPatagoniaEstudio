@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+	
+		imageBgColor="FFFFFF"
+		imageBgAlpha="0.3"
+		imageBorderColor="FFFFFF"
+		imageBorderThickness="1"
+		imageShadowColor="999999"
+		imageShadowAlpha="0.4"
+		imagePadding="0"
+		imagePreloaderColor="666666"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="000000"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="0.3"
+		imageZoomIconColor="000000"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor="B5B5B5"
+		videoPlayerShadowAlpha="0.5"
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="FFFFFF"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="B5B5B5"
+		scrollBarSliderOverColor=""
+		
+		useSlideshow="false"
+		slideshowLeftMargin=""
+		slideshowTopMargin=""
+		slideshowHeight=""
+		slideshowXML=""
+
+	/>
+	
+	<content topMargin="0">
+		
+		<cols>
+			<col>
+				<textblock topMargin="0" leftMargin="0" width="620">
+					<text><![CDATA[<p>This is an example of a standard page with right aligned sidebar. The page is created with the <b>Standard Page</b> module.</p><space></space><p><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras leo urna, convallis at tincidunt vel, convallis quis nisi. In eleifend ligula sit amet lacus suscipit tristique empor turpis aliquet. Etiam sollicitudin turpis in quam tincidunt lacinia. Vivamus diam eros, consectetur eu eleifend quis, varius et felis. Nam eget enim at tortor euismod sagittis. Aliquam gravida tortor eu nulla congue posuere.</p><space></space><p>Mauris rhoncus aliquet lectus, lobortis fringilla tortor placerat ac. Vestibulum quis dui dui. Nulla ornare neque sit amet magna volutpat cursus sit amet sollicitudin massa. Maecenas porta pretium quam, et rutrum nunc lobortis id. Aenean cursus, justo ut tristique tincidunt, sapien turpis egestas nisi, non ultricies lorem risus nec neque.</p><space></space><p>In nec quam sit amet erat iaculis cursus:</p>]]></text>
+				</textblock>
+				<list topMargin="10" leftMargin="20" width="600" markerColor="777777">
+					<item><![CDATA[<p>Aenean non ornare lectus. Donec facilisis posuere vehicula.</p>]]></item>
+					<item><![CDATA[<p>Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat.</p>]]></item>
+					<item><![CDATA[<p>Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh.</p>]]></item>
+					<item><![CDATA[<p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>]]></item>
+					<item><![CDATA[<p>Integer vel enim mi, sed suscipit neque cursus massa malesuada tempus.</p>]]></item>
+				</list>
+				<textblock topMargin="15" leftMargin="0" width="620">
+					<text><![CDATA[<p>Class aptent taciti sociosqu ad litora torquent conubia nostra, per inceptos himenaeos. Etiam bibendum mauris molestie nisi dignissim. Phasellus consectetur egestas erat, at euismod nisl sodales a. Vivamus sit amet lacus posuere lacus ullamcorper tempus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim cursus massa malesuada tempus. Praesent congue molestie tristique. Nullam tortor leo, tristique ac tempus eget, vestibulum nec ante. Lorem risus nec neque quam sit amet erat iaculis cursus. Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat. Aenean quis diam nunc. Quisque nisl enim, volutpat vitae fermentum sed, convallis non ante. Quisque tincidunt lacus turpis. Nulla congue suscipit turpis, vitae hendrerit augue facilisis quis.</p>]]></text>
+				</textblock>
+			</col>
+			<col>
+				<link topMargin="0" leftMargin="40" leftPadding="40" color="" hoverColor="" iconURL="images/icons/pdf1.png" iconTopPadding="0" clickLink="#/company/standard-page-sidebar" clickTarget="_blank"><![CDATA[<link><font color="#577C95">Download our PDF Brochure</font></link>]]></link>
+				<separator topMargin="35" leftMargin="40" width="80" height="1" color="CCCCCC" iconURL="images/icons/solid-line.png"/>
+				<textblock topMargin="30" leftMargin="40" width="">
+					<text><![CDATA[<p><b>Latest Project</b></p>]]></text>
+				</textblock>
+				<imageblock topMargin="15" leftMargin="40">
+					<image src="images/standard_page/img4b.jpg" width="200" height="120" clickLink="#/portfolio/projects1" clickTarget="_self"/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+				<textblock topMargin="15" leftMargin="40" width="">
+					<text><![CDATA[<previewdate>28 Jun 2012</previewdate><space></space><p>Aqua Resort Project es mollis nibh. Mauris in pulvinar volutpat purus. Vivamus tellus mauris, pulvinar a tincidunt vel metus.</p>]]></text>
+				</textblock>
+			</col>
+		</cols>
+		
+	</content>
+	
+</data>

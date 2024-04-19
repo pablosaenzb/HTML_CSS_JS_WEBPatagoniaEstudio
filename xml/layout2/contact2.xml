@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contact>
+		
+	<settings
+		
+		phpFileURL="php/mail.php"
+		
+		imageBgColor="FFFFFF"
+		imageBgAlpha="0.3"
+		imageBorderColor="FFFFFF"
+		imageBorderThickness="1"
+		imageShadowColor="999999"
+		imageShadowAlpha="0.4"
+		imagePadding="0"
+		imagePreloaderColor="666666"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="000000"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="-0.3"
+		imageZoomIconColor="000000"
+		imageZoomIconAlpha="0.5"
+		imageZoomIconOverAlpha="0.9"
+		
+		fieldFont="Droid Sans"
+		filedFontSize="12"
+		fieldFontColor="888888"
+		fieldBgColor="F3F3F3"
+		fieldBgAlpha="1"
+		focusedFieldBgColor="FFFFFF"
+		focusedFieldBgAlpha="1"
+		focusedFieldBorderColor="B8D0D8"
+		sendButtonLabel="SEND MESSAGE"
+		sendButtonColor="577C95"
+		sendButtonOverColor="22333C"
+		infoMessageFontColor="AD5230"
+		
+		scrollBarTrackWidth="1"
+		scrollBarTrackColor="EEEEEE"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="2"
+		scrollBarSliderColor="CCCCCC"
+		scrollBarSliderOverColor="B5B5B5"
+	/>
+	
+	<leftColumn width="420">
+		<info topMargin="0" height=""><![CDATA[<p>Integer vel enim mi, sed suscipit neque gravida tortor eu nulla at enim cursus massa malesuada tempus. Praesent congue molestie tristique. Nullam tortor leo, tristique ac tempus eget, vestibulum nec ante. Mauris rhoncus aliquet mauris molestie lectus, lobortis fringilla tortor.<br></p><h3>Request Form</h3>]]></info>
+		<form
+			topMargin="10"
+			active="true"
+			successMsg="Your message has been sent. Thank you!"
+			warningMsg="Sending... please wait"
+			errorMsg="There was an error sending the email!"
+		>
+			<name label="Name" errorMsg="Please enter your Name." required="true"/>
+			<email label="Email" errorMsg1="Please enter your Email address." errorMsg2="Please enter the valid email address." required="true"/>
+			<phone label="Phone" errorMsg="" required="false"/>
+			<message label="Message" errorMsg="Please enter your Message." required="true"/>
+		</form>
+	</leftColumn>
+	
+	<rightColumn leftMargin="30">
+		<image src="images/contact/img2.jpg" width="450" height="274" topMargin="0"><![CDATA[]]></image>
+		<text topMargin="30"><![CDATA[<h3>Contact Information</h3><space></space><mspace></mspace><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras leo urna, convallis at tincidunt vel, convallis quis nisi.</p><space></space><p><b>RTC Ipsum Studios</b></p><mspace></mspace><p>123 Main Street #7, San Francisco, CA, 94101</p><mspace></mspace><p>Phone: (415) 000-1234<br/>FAX: (415) 000-1235</p><mspace></mspace><p>Email:  <a href="mailto:info@ipsum.com">info@ipsum.com</a></p><space></space><p>Monday-Friday: 09:00 - 18:00<br/>Saturday: 10:00 - 15:00</p>]]></text>
+	</rightColumn>
+	
+</contact>

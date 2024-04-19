@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<showreel>
+
+	<settings
+		
+		videoPlayerWidth="880"
+		videoPlayerHeight="495"
+		videoPlayerYPosition="-20"
+		videoPlayerHorizontalAlign="center"
+		videoPlayerVerticalAlign="middle"
+		videoPlayerBgColor="000000"
+		videoPlayerBgAlpha="0.5"
+		videoPlayerShadowColor=""
+		videoPlayerShadowAlpha=""
+		videoPlayerPreloaderColor="CCCCCC"
+		videoPlayerPreloaderAlpha="0.5"
+		
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+	/>
+	
+	<video youTubeMode="false" src="videos/crazy_enough.mp4" previewImage="images/showreel/video-preview-dark.jpg"  playbackQuality="" autoPlay="false"/>
+	
+</showreel>

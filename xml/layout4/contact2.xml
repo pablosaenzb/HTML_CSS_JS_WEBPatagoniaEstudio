@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contact>
+		
+	<settings
+		
+		phpFileURL="php/mail.php"
+		
+		imageBgColor="000000"
+		imageBgAlpha="0.5"
+		imageBorderColor=""
+		imageBorderThickness=""
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding="0"
+		imagePreloaderColor="CCCCCC"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="666666"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="-0.2"
+		imageZoomIconColor="000000"
+		imageZoomIconAlpha="0.4"
+		imageZoomIconOverAlpha="0.9"
+		
+		fieldFont="Droid Sans"
+		filedFontSize="12"
+		fieldFontColor="999999"
+		fieldBgColor="303030"
+		fieldBgAlpha="0.9"
+		focusedFieldBgColor="404040"
+		focusedFieldBgAlpha="1"
+		focusedFieldBorderColor="505050"
+		sendButtonLabel="ENVIAR MENSAJE"
+		sendButtonColor="D6A23B"
+		sendButtonOverColor="EFB379"
+		infoMessageFontColor="EFB379"
+		
+		scrollBarTrackWidth="1"
+		scrollBarTrackColor="252525"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="2"
+		scrollBarSliderColor="666666"
+		scrollBarSliderOverColor="757575"
+	/>
+	
+	<leftColumn width="500">
+		<info topMargin="0" height=""><![CDATA[<p>Envíenos su consulta y nuestro equipo se pondrá en contacto a la brevedad.<br></p><h5>Formulario de Contacto</h5>]]></info>
+		<form
+			topMargin="10"
+			active="true"
+			successMsg="Su mensaje ha sido enviado con éxito. Muchas Gracias!"
+			warningMsg="Enviando... por favor espere"
+			errorMsg="Existe un error en el envio del correo electrónico!"
+		>
+			<name label="Nombre" errorMsg="Por favor ingrese su nombre." required="true"/>
+			<email label="Email" errorMsg1="Por favor escriba su dirección de correo." errorMsg2="Por favor escriba su dirección de correo válida." required="true"/>
+			<phone label="Teléfono" errorMsg="" required="false"/>
+			<message label="Mensaje" errorMsg="Por favor escriba su mensaje." required="true"/>
+		</form>
+	</leftColumn>
+	
+	<rightColumn leftMargin="30">
+		<text topMargin="0"><![CDATA[<h5>Información de Contacto</h5><space></space><mspace></mspace><p>Yatay 292. Piso 7. Dpto ¨A¨. CP: 1184. Capital Federal</p><mspace></mspace><p>Teléfono: (54) 011-4981-8427</p><mspace></mspace><p>Email:  <a class="dorado" href="mailto:info@patagoniaestudio.com.ar">info@patagoniaestudio.com.ar</a></p><space></space><p></p>]]></text>
+	</rightColumn>
+	
+</contact>

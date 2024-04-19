@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<data>
+	
+	<page>
+		<menuTitle>HOME</menuTitle>
+		<pageTitle>null</pageTitle>
+		<deepLinkURL>home</deepLinkURL> /* the "home" is a reserved word - don't change it  */
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>homepage.swf</moduleURL>
+		<moduleXML>xml/layout2/homepage.xml</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>true</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+		
+		<subPage>
+			<menuTitle>Default Layout</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>home</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>homepage.swf</moduleURL>
+			<moduleXML>xml/layout2/homepage.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>false</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Alternative Layout</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>home-alt</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>homepage.swf</moduleURL>
+			<moduleXML>xml/layout2/homepage-alt.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>false</showBreadCrumbs>
+		</subPage>
+		
+	</page>
+	
+	<page>
+		<menuTitle>COMPANY</menuTitle>
+		<pageTitle>Company</pageTitle>
+		<deepLinkURL>company</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>null</moduleURL>
+		<moduleXML>null</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>false</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+		
+		<subPage>
+			<menuTitle>About Us</menuTitle>
+			<pageTitle>About Us</pageTitle>
+			<deepLinkURL>about-us</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>standardpage.swf</moduleURL>
+			<moduleXML>xml/layout2/about-us.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Philosophy</menuTitle>
+			<pageTitle>Philosophy</pageTitle>
+			<deepLinkURL>philosophy</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>standardpage.swf</moduleURL>
+			<moduleXML>xml/layout2/philosophy.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+
+		<subPage>
+			<menuTitle>Our Team</menuTitle>
+			<pageTitle>Our Team</pageTitle>
+			<deepLinkURL>our-team</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>team.swf</moduleURL>
+			<moduleXML>xml/layout2/team.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+			
+			<subPage>
+				<menuTitle>Jane Carter</menuTitle>
+				<pageTitle>Jane Carter</pageTitle>
+				<deepLinkURL>jane-carter</deepLinkURL>
+				<urlTarget>null</urlTarget>
+				<bodyBgImage>null</bodyBgImage>
+				<moduleURL>standardpage.swf</moduleURL>
+				<moduleXML>xml/layout2/team/jane-carter.xml</moduleXML>
+				<showInMenu>false</showInMenu>
+				<showBreadCrumbs>true</showBreadCrumbs>
+			</subPage>
+			
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Clients</menuTitle>
+			<pageTitle>Our Clients</pageTitle>
+			<deepLinkURL>our-clients</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>standardpage.swf</moduleURL>
+			<moduleXML>xml/layout2/clients.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Page Elements</menuTitle>
+			<pageTitle>Page Elements</pageTitle>
+			<deepLinkURL>standard-page-elements</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>standardpage.swf</moduleURL>
+			<moduleXML>xml/layout2/standard_page/elements.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Column Layout Example</menuTitle>
+			<pageTitle>Multi-column Layout</pageTitle>
+			<deepLinkURL>standard-page-columns</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>standardpage.swf</moduleURL>
+			<moduleXML>xml/layout2/standard_page/columns.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Sidebar Layout Example</menuTitle>
+			<pageTitle>Sidebar Layout</pageTitle>
+			<deepLinkURL>standard-page-sidebar</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>standardpage.swf</moduleURL>
+			<moduleXML>xml/layout2/standard_page/sidebar.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+	</page>
+	
+	<page>
+		<menuTitle>SERVICES</menuTitle>
+		<pageTitle>What We Offer</pageTitle>
+		<deepLinkURL>services</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>null</moduleURL>
+		<moduleXML>null</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>false</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+		
+		<subPage>
+			<menuTitle>In-Line Style</menuTitle>
+			<pageTitle>Services</pageTitle>
+			<deepLinkURL>inline-style</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>services.swf</moduleURL>
+			<moduleXML>xml/layout2/services-type1.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+			
+			<subPage>
+				<menuTitle>Interior Design</menuTitle>
+				<pageTitle>Interior Design</pageTitle>
+				<deepLinkURL>interior-design</deepLinkURL>
+				<urlTarget>null</urlTarget>
+				<bodyBgImage>null</bodyBgImage>
+				<moduleURL>standardpage.swf</moduleURL>
+				<moduleXML>xml/layout2/services/interior-design.xml</moduleXML>
+				<showInMenu>false</showInMenu>
+				<showBreadCrumbs>true</showBreadCrumbs>
+			</subPage>
+			
+			<subPage>
+				<menuTitle>Construction Administration</menuTitle>
+				<pageTitle>Construction Administration</pageTitle>
+				<deepLinkURL>construction-administration</deepLinkURL>
+				<urlTarget>null</urlTarget>
+				<bodyBgImage>null</bodyBgImage>
+				<moduleURL>standardpage.swf</moduleURL>
+				<moduleXML>xml/layout2/services/construction-administration.xml</moduleXML>
+				<showInMenu>false</showInMenu>
+				<showBreadCrumbs>true</showBreadCrumbs>
+			</subPage>
+			
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Grid Style</menuTitle>
+			<pageTitle>Services</pageTitle>
+			<deepLinkURL>grid-style</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>services.swf</moduleURL>
+			<moduleXML>xml/layout2/services-type2.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Pricing Table</menuTitle>
+			<pageTitle>Pricing</pageTitle>
+			<deepLinkURL>pricing-tables</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>standardpage.swf</moduleURL>
+			<moduleXML>xml/layout2/pricing-tables.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+	</page>
+	
+	<page>
+		<menuTitle>NEWS</menuTitle>
+		<pageTitle>News Archive</pageTitle>
+		<deepLinkURL>news</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>null</moduleURL>
+		<moduleXML>null</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>false</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+		
+		<subPage>
+			<menuTitle>Previews and Articles</menuTitle>
+			<pageTitle>News</pageTitle>
+			<deepLinkURL>previews-and-articles</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>news.swf</moduleURL>
+			<moduleXML>xml/layout2/news1.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Only Previews</menuTitle>
+			<pageTitle>News</pageTitle>
+			<deepLinkURL>only-previews</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>news.swf</moduleURL>
+			<moduleXML>xml/layout2/news2.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Articles without Media</menuTitle>
+			<pageTitle>News</pageTitle>
+			<deepLinkURL>articles-without-media</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>news.swf</moduleURL>
+			<moduleXML>xml/layout2/news3.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+	</page>
+	
+	<page>
+		<menuTitle>PORTFOLIO</menuTitle>
+		<pageTitle>Portfolio</pageTitle>
+		<deepLinkURL>portfolio</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>null</moduleURL>
+		<moduleXML>null</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>false</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+		
+		<subPage>
+			<menuTitle>Default Layout</menuTitle>
+			<pageTitle>Projects</pageTitle>
+			<deepLinkURL>projects1</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>portfolio.swf</moduleURL>
+			<moduleXML>xml/layout2/portfolio1.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Another Layout Example</menuTitle>
+			<pageTitle>Projects</pageTitle>
+			<deepLinkURL>projects2</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>portfolio.swf</moduleURL>
+			<moduleXML>xml/layout2/portfolio2.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Short Descriptions Example</menuTitle>
+			<pageTitle>Our Works</pageTitle>
+			<deepLinkURL>projects3</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>portfolio.swf</moduleURL>
+			<moduleXML>xml/layout2/portfolio3.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Catalog Style</menuTitle>
+			<pageTitle>Trips</pageTitle>
+			<deepLinkURL>catalog</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>portfolio.swf</moduleURL>
+			<moduleXML>xml/layout2/portfolio4.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+	</page>
+	
+	<page>
+		<menuTitle>GALLERY</menuTitle>
+		<pageTitle>Gallery</pageTitle>
+		<deepLinkURL>gallery</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>null</moduleURL>
+		<moduleXML>null</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>false</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+		
+		<subPage>
+			<menuTitle>Multiple Categories</menuTitle>
+			<pageTitle>Gallery</pageTitle>
+			<deepLinkURL>multiple-categories</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>gallery.swf</moduleURL>
+			<moduleXML>xml/layout2/gallery1.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Simply Images</menuTitle>
+			<pageTitle>Gallery</pageTitle>
+			<deepLinkURL>simply-images</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>gallery.swf</moduleURL>
+			<moduleXML>xml/layout2/gallery2.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Client Logos</menuTitle>
+			<pageTitle>Our Clients</pageTitle>
+			<deepLinkURL>client-logos</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>gallery.swf</moduleURL>
+			<moduleXML>xml/layout2/gallery3.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+	</page>
+	
+	<page>
+		<menuTitle>SHOW REEL</menuTitle>
+		<pageTitle>Show Reel</pageTitle>
+		<deepLinkURL>showreel</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>null</moduleURL>
+		<moduleXML>null</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>false</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+		
+		<subPage>
+			<menuTitle>Local Flash Video</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>local-video</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>showreel.swf</moduleURL>
+			<moduleXML>xml/layout2/showreel.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>YouTube Video</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>youtube-video</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>showreel.swf</moduleURL>
+			<moduleXML>xml/layout2/showreel-youtube.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+	</page>
+	
+	<page>
+		<menuTitle>CONTACT</menuTitle>
+		<pageTitle>Contact</pageTitle>
+		<deepLinkURL>contact</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>null</moduleURL>
+		<moduleXML>null</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>false</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+		
+		<subPage>
+			<menuTitle>Form On The Right</menuTitle>
+			<pageTitle>Contact Us</pageTitle>
+			<deepLinkURL>form-on-the-right</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>contact.swf</moduleURL>
+			<moduleXML>xml/layout2/contact1.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Form On The Left</menuTitle>
+			<pageTitle>Contact Us</pageTitle>
+			<deepLinkURL>form-on-the-left</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>contact.swf</moduleURL>
+			<moduleXML>xml/layout2/contact2.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+		<subPage>
+			<menuTitle>Simple Layout Example</menuTitle>
+			<pageTitle>Contact Us</pageTitle>
+			<deepLinkURL>simple-form</deepLinkURL>
+			<urlTarget>null</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>contact.swf</moduleURL>
+			<moduleXML>xml/layout2/contact3.xml</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>true</showBreadCrumbs>
+		</subPage>
+		
+	</page>
+	
+	<page>
+		<menuTitle>LINKS</menuTitle>
+		<pageTitle>null</pageTitle>
+		<deepLinkURL>null</deepLinkURL>
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>null</moduleURL>
+		<moduleXML>null</moduleXML>
+		<showInMenu>true</showInMenu>
+		<clickable>false</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+
+		<subPage>
+			<menuTitle>ActiveDen</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>http://activeden.net</deepLinkURL>
+			<urlTarget>_blank</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>null</moduleURL>
+			<moduleXML>null</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>false</showBreadCrumbs>
+		</subPage>
+
+		<subPage>
+			<menuTitle>ThemeForest</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>http://themeforest.net</deepLinkURL>
+			<urlTarget>_blank</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>null</moduleURL>
+			<moduleXML>null</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>false</showBreadCrumbs>
+		</subPage>
+
+		<subPage>
+			<menuTitle>CodeCanyon</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>http://codecanyon.net</deepLinkURL>
+			<urlTarget>_blank</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>null</moduleURL>
+			<moduleXML>null</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>false</showBreadCrumbs>
+		</subPage>
+
+		<subPage>
+			<menuTitle>VideoHive</menuTitle>
+			<pageTitle>null</pageTitle>
+			<deepLinkURL>http://videohive.net</deepLinkURL>
+			<urlTarget>_blank</urlTarget>
+			<bodyBgImage>null</bodyBgImage>
+			<moduleURL>null</moduleURL>
+			<moduleXML>null</moduleXML>
+			<showInMenu>true</showInMenu>
+			<showBreadCrumbs>false</showBreadCrumbs>
+		</subPage>
+
+	</page>
+	
+	<page>
+		<menuTitle>Page Not Found</menuTitle>
+		<pageTitle>Page Not Found</pageTitle>
+		<deepLinkURL>error404</deepLinkURL> /* the "error404" is a reserved word - don't change it  */
+		<urlTarget>null</urlTarget>
+		<bodyBgImage>null</bodyBgImage>
+		<moduleURL>standardpage.swf</moduleURL>
+		<moduleXML>xml/layout2/error404.xml</moduleXML>
+		<showInMenu>false</showInMenu>
+		<clickable>false</clickable>
+		<showBreadCrumbs>false</showBreadCrumbs>
+	</page>
+	
+</data>

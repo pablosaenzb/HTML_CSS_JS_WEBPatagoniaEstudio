@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<showreel>
+
+	<settings
+		
+		videoPlayerWidth="880"
+		videoPlayerHeight="495"
+		videoPlayerYPosition="-20"
+		videoPlayerHorizontalAlign="center"
+		videoPlayerVerticalAlign="middle"
+		videoPlayerBgColor="EEEEEE"
+		videoPlayerBgAlpha="0.3"
+		videoPlayerShadowColor="999999"
+		videoPlayerShadowAlpha="0.4"
+		videoPlayerPreloaderColor=""
+		videoPlayerPreloaderAlpha=""
+		
+		videoBufferTime=""
+		videoSoundVolume="0.85"
+		
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="F0AAAA"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="E77272"
+		
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+	/>
+	
+	<video youTubeMode="true" src="6gvrI6iAMKM" previewImage="images/showreel/youtube-preview.jpg" playbackQuality="hd720" autoPlay="false"/>
+	
+	<!-- or like this
+	<video youTubeMode="true" src="6gvrI6iAMKM" previewImage="http://i3.ytimg.com/vi/6gvrI6iAMKM/0.jpg" playbackQuality="hd720" autoPlay="false"/>
+	-->
+	
+</showreel>

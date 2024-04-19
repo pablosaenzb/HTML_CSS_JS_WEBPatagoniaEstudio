@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+	
+		imageBgColor="DDDDDD"
+		imageBgAlpha="0.3"
+		imageBorderColor=""
+		imageBorderThickness=""
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding=""
+		imagePreloaderColor="666666"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor=""
+		imageCaptionBgAlpha=""
+		imageCaptionBlurredBg=""
+		imageCaptionBgBlurAmount=""
+		imageCaptionPadding=""
+		imageOverBrightness="0.15"
+		imageZoomIconColor="000000"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor="B5B5B5"
+		videoPlayerShadowAlpha="0.5"
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="FEFEFE"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="CCCCCC"
+		scrollBarSliderOverColor="B5B5B5"
+		
+		useSlideshow="false"
+		slideshowLeftMargin=""
+		slideshowTopMargin=""
+		slideshowHeight=""
+		slideshowXML=""
+	/>
+	
+	<content topMargin="10">
+		
+		<cols>
+			<col>
+				<imageblock topMargin="0" leftMargin="0">
+					<image src="images/clients/logo1a.gif" width="244" height="142" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+				<imageblock topMargin="2" leftMargin="0">
+					<image src="images/clients/logo5a.gif" width="244" height="142" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+				<imageblock topMargin="2" leftMargin="0">
+					<image src="images/clients/logo3a.gif" width="244" height="142" clickLink="" clickTarget=""/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+			</col>
+			<col>
+				<imageblock topMargin="0" leftMargin="2">
+					<image src="images/clients/logo2a.gif" width="244" height="142" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+				<imageblock topMargin="2" leftMargin="2">
+					<image src="images/clients/logo6a.gif" width="244" height="142" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+				<imageblock topMargin="2" leftMargin="2">
+					<image src="images/clients/logo4a.gif" width="244" height="142" clickLink="" clickTarget=""/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+			</col>
+			<col>
+				<imageblock topMargin="0" leftMargin="2">
+					<image src="images/clients/logo3a.gif" width="244" height="142" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+				<imageblock topMargin="2" leftMargin="2">
+					<image src="images/clients/logo1a.gif" width="244" height="142" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+				<imageblock topMargin="2" leftMargin="2">
+					<image src="images/clients/logo5a.gif" width="244" height="142" clickLink="" clickTarget=""/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+			</col>
+			<col>
+				<imageblock topMargin="0" leftMargin="2">
+					<image src="images/clients/logo4a.gif" width="244" height="142" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+				<imageblock topMargin="2" leftMargin="2">
+					<image src="images/clients/logo2a.gif" width="244" height="142" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+				<!--
+				<imageblock topMargin="2" leftMargin="2">
+					<image src="images/clients/logo6a.gif" width="244" height="142" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+				-->
+			</col>
+		</cols>
+		
+		<textblock topMargin="30">
+			<text><![CDATA[<p>This is a standard page created with the <b>Standard Page</b> module. The Phlex template uses the original internal system for arranging HTML text, images and videos on pages. This universal system of content blocks can be completely used in all standard pages (the Standard Page module) and partly in some other modules.</p><space></space><p>You can also use the <b>Gallery</b> module to create a Clients Page – see <a href="#/gallery/client-logos" target="_self"><b>Clients Logos</b></a> under the Gallery menu item for an example.</p>]]></text>
+		</textblock>
+		
+	</content>
+	
+</data>

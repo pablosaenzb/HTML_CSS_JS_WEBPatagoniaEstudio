@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gallery>
+		
+	<settings
+		
+		showCategoryMenu="true"
+		categoryMenuYPosition="0"
+		categorySpacing="28"
+		categoryFont="Droid Sans"
+		categoryFontSize="13"
+		categoryFontWeight="bold"
+		categoryFontColor="666666"
+		categoryOverFontColor="333333"
+		categorySelectedFontColor="577C95"
+		
+		previewsControlsYPosition="20"
+		previewsControlsRightMargin="5"
+		previewsNavButtonColor="888888"
+		previewsNavButtonSelectedColor="E77927"
+		
+		previewsInRow="4"
+		previewsInCol="3"
+		previewsTopMargin="15"
+		previewWidth="244"
+		previewHeight="142"
+		previewSpacing="0"
+		
+		previewBgColor="FFFFFF"
+		previewBgAlpha="0.3"
+		previewBorderColor="FFFFFF"
+		previewBorderThickness="1"
+		previewShadowColor=""
+		previewShadowAlpha=""
+		previewPadding="0"
+		previewPreloaderColor="666666"
+		previewPreloaderAlpha="0.5"
+		previewCaptionBgColor="000000"
+		previewCaptionBgAlpha="0.3"
+		previewCaptionBlurredBg="true"
+		previewCaptionBgBlurAmount="32"
+		previewCaptionPadding="3"
+		previewCaptionAnimationType="slide"
+		previewOverBrightness="0.5"
+		previewVideoIconSize="30"
+		previewVideoIconColor="FFFFFF"
+		previewVideoIconAlpha="0.5"
+		previewVideoIconOverAlpha="1"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="DDDDDD"
+		controlsBarBgAlpha="1"
+		buttonSpacing="6"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FFFFFF"
+		buttonBgOverColor="999999"
+		showInfoButton="true"
+		singleItemTextLeftMargin="50"
+		singleItemTextRightMargin="50"
+		singleItemDescriptionHeight=""
+		singleItemDescriptionTopMargin="10"
+		singleItemPreloaderColor="FFFFFF"
+		singleItemPreloaderAlpha="0.5"
+		
+		videoPlayerWidth="853"
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="FEFEFE"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="B5B5B5"
+		scrollBarSliderOverColor="999999"
+	/>
+	
+	<category title="Mixed Media Category">
+	
+		<item>
+			<title><![CDATA[<h2>IMAGE TITLE</h2>]]></title>
+			<preview src="images/gallery/preview01.jpg"><![CDATA[<gallerycaption>Image 1</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Here you can place the description text...</p>]]></description>
+			<media><image src="images/gallery/img01.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>"CRAZY ENOUGH"</h2>]]></title>
+			<preview src="images/gallery/preview02.jpg"><![CDATA[<gallerycaption>"Crazy Enough"</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Vancouver Film School presents a film by Jorge JR – "Crazy Enough".  // Video by <a href="http://www.flickr.com/photos/vfsdigitaldesign/5431520597/" target="_blank">VFS Digital Design</a>.</p>]]></description>
+			<media><video youTubeMode="false" src="videos/crazy_enough.mp4" ratio="16:9" previewImage="images/gallery/video02-preview.jpg" playbackQuality="" autoPlay="true"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>YELLOWSTONE SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview03.jpg"><![CDATA[<gallerycaption>Yellowstone sunset</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img03.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>ROCKY LAKESHORE AND MOUNTAINS</h2>]]></title>
+			<preview src="images/gallery/preview04.jpg"><![CDATA[<gallerycaption>Rocky lakeshore and mountains</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Twin Lakes in the Eastern Sierras.</p>]]></description>
+			<media><image src="images/gallery/img04.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SUNFLOWER TRIO</h2>]]></title>
+			<preview src="images/gallery/preview05.jpg"><![CDATA[<gallerycaption>Sunflower trio</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img05.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>COLORED LANDSCAPE</h2>]]></title>
+			<preview src="images/gallery/preview06.jpg"><![CDATA[<gallerycaption>Colored landscape</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img06.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>LITTLE BIRD</h2>]]></title>
+			<preview src="images/gallery/preview07.jpg"><![CDATA[<gallerycaption>Little bird</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img07.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>INDEX INTERNATIONAL DESIGN EXHIBITION 2011</h2>]]></title>
+			<preview src="images/gallery/preview08.jpg"><![CDATA[<gallerycaption>INDEX international design exhibition</gallerycaption>]]></preview>
+			<description><![CDATA[<p>The INDEX International Design Exhibition took place from 22-25 October 2011 in the Dubai World Trade Centre. Over 900 exhibitors from 45 countries showcased the latest international interior design products and services to a dedicated audience of over 27.000 visitors.</p>]]></description>
+			<media><video youTubeMode="true" src="6gvrI6iAMKM" ratio="16:9" previewImage="images/gallery/video08-preview.jpg" playbackQuality="hd720" autoPlay="true"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>TIGER SWALLOWTAIL</h2>]]></title>
+			<preview src="images/gallery/preview09.jpg"><![CDATA[<gallerycaption>Tiger swallowtail</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img09.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>IMAGE 10</h2>]]></title>
+			<preview src="images/gallery/preview10.jpg"><![CDATA[<gallerycaption>Image 10</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img10.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SUNRISE AT MESA ARCH</h2>]]></title>
+			<preview src="images/gallery/preview11.jpg"><![CDATA[<gallerycaption>Sunrise at Mesa Arch</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Mesa Arch, in Canyonlands, Southern Utah.  // Photo by <a href="http://www.flickr.com/photos/fritography/5848903498/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img11.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>PIGEON POINT LIGHTHOUSE</h2>]]></title>
+			<preview src="images/gallery/preview12.jpg"><![CDATA[<gallerycaption>Pigeon Point Lighthouse</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Pigeon Point Lighthouse, CA.  // Photo by <a href="http://www.flickr.com/photos/fritography/5166317088/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img12.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SNAKE RIVER SUNRISE</h2>]]></title>
+			<preview src="images/gallery/preview13.jpg"><![CDATA[<gallerycaption>Snake River sunrise</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Snake River Sunrise, Ontario, OR.  // Photo by <a href="http://www.flickr.com/photos/fritography/5086818837/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img13.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>TENDER FLOWER</h2>]]></title>
+			<preview src="images/gallery/preview14.jpg"><![CDATA[<gallerycaption>Tender flower</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img14.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SURFING THE SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview15.jpg"><![CDATA[<gallerycaption>Surfing the sunset</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Surfing the sunset, San Clemente, CA.  // Photo by <a href="http://www.flickr.com/photos/fritography/4505483729/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img15.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>WHITE LILIES</h2>]]></title>
+			<preview src="images/gallery/preview16.jpg"><![CDATA[<gallerycaption>White lilies</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img16.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>INSANE TRAFFIC AT PLACE CHARLES DE GAULLE</h2>]]></title>
+			<preview src="images/gallery/preview17.jpg"><![CDATA[<gallerycaption>Place Charles de Gaulle</gallerycaption>]]></preview>
+			<description><![CDATA[<p>This video was taken from the top of the Arc de Triomphe (Paris) by <a href="http://www.flickr.com/photos/chriswaits/5720417447/" target="_blank">Chris Waits</a>.</p>]]></description>
+			<media><video youTubeMode="false" src="videos/top_view.mp4" ratio="16:9" previewImage="images/gallery/video17-preview.jpg" playbackQuality="" autoPlay="true"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>PROVO CANYON, MOUNT TIMP</h2>]]></title>
+			<preview src="images/gallery/preview18.jpg"><![CDATA[<gallerycaption>Provo Canyon, Mt. Timp</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Provo Canyon, Mount Timpanogos in Utah's Wasatch Range.  // Photo by <a href="http://www.flickr.com/photos/fritography/5040390117/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img18.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>CHILLY SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview19.jpg"><![CDATA[<gallerycaption>Chilly sunset</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Chilly sunset on iced-over Utah lake.  // Photo by <a href="http://www.flickr.com/photos/fritography/4196011827/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img19.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>GOING TO THE SUN ROAD, GLACIER NATIONAL PARK</h2>]]></title>
+			<preview src="images/gallery/preview20.jpg"><![CDATA[<gallerycaption>Going to the Sun Road, Glacier NP</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Informative & beautiful documentary describes the amazing sights on one of the most beautiful drives in North America. Sights along the way include time-lapse video of Logan Pass and Wild Goose Island. The Garden Wall, the Trail of the Cedars, big Horn sheep and much more is featured.  // Video by <a href="http://www.youtube.com/watch?v=ful4qN1J7tc" target="_blank">Steve Salis</a>.</p>]]></description>
+			<media><video youTubeMode="true" src="ful4qN1J7tc" ratio="16:9" previewImage="images/gallery/video20-preview.jpg" playbackQuality="hd720" autoPlay="true"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SAN FRANCISCO SKYLINE SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview21.jpg"><![CDATA[<gallerycaption>San Francisco skyline sunset</gallerycaption>]]></preview>
+			<description><![CDATA[<p>San Francisco Skyline sunset.  // Photo by <a href="http://www.flickr.com/photos/fritography/5162434063/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img21.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>LUXURIOUS VILLA</h2>]]></title>
+			<preview src="images/gallery/preview22.jpg"><![CDATA[<gallerycaption>Image 22</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img22.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/gallery/preview23.jpg"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img23.jpg"/></media>
+		</item>
+		
+	</category>
+		
+	<category title="Images Only Category">
+		
+		<item>
+			<title><![CDATA[<h2>IMAGE TITLE</h2>]]></title>
+			<preview src="images/gallery/preview01.jpg"><![CDATA[<gallerycaption>Image 1</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Here you can place the description text...</p>]]></description>
+			<media><image src="images/gallery/img01.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>YELLOWSTONE SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview03.jpg"><![CDATA[<gallerycaption>Yellowstone sunset</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img03.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>ROCKY LAKESHORE AND MOUNTAINS</h2>]]></title>
+			<preview src="images/gallery/preview04.jpg"><![CDATA[<gallerycaption>Rocky lakeshore and mountains</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Twin Lakes in the Eastern Sierras.</p>]]></description>
+			<media><image src="images/gallery/img04.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SUNFLOWER TRIO</h2>]]></title>
+			<preview src="images/gallery/preview05.jpg"><![CDATA[<gallerycaption>Sunflower trio</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img05.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>COLORED LANDSCAPE</h2>]]></title>
+			<preview src="images/gallery/preview06.jpg"><![CDATA[<gallerycaption>Colored landscape</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img06.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>LITTLE BIRD</h2>]]></title>
+			<preview src="images/gallery/preview07.jpg"><![CDATA[<gallerycaption>Little bird</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img07.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>TIGER SWALLOWTAIL</h2>]]></title>
+			<preview src="images/gallery/preview09.jpg"><![CDATA[<gallerycaption>Tiger swallowtail</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img09.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>IMAGE 10</h2>]]></title>
+			<preview src="images/gallery/preview10.jpg"><![CDATA[<gallerycaption>Image 10</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img10.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SUNRISE AT MESA ARCH</h2>]]></title>
+			<preview src="images/gallery/preview11.jpg"><![CDATA[<gallerycaption>Sunrise at Mesa Arch</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Mesa Arch, in Canyonlands, Southern Utah.  // Photo by <a href="http://www.flickr.com/photos/fritography/5848903498/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img11.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>PIGEON POINT LIGHTHOUSE</h2>]]></title>
+			<preview src="images/gallery/preview12.jpg"><![CDATA[<gallerycaption>Pigeon Point Lighthouse</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Pigeon Point Lighthouse, CA.  // Photo by <a href="http://www.flickr.com/photos/fritography/5166317088/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img12.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SNAKE RIVER SUNRISE</h2>]]></title>
+			<preview src="images/gallery/preview13.jpg"><![CDATA[<gallerycaption>Snake River sunrise</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Snake River Sunrise, Ontario, OR.  // Photo by <a href="http://www.flickr.com/photos/fritography/5086818837/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img13.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>TENDER FLOWER</h2>]]></title>
+			<preview src="images/gallery/preview14.jpg"><![CDATA[<gallerycaption>Tender flower</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img14.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SURFING THE SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview15.jpg"><![CDATA[<gallerycaption>Surfing the sunset</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Surfing the sunset, San Clemente, CA.  // Photo by <a href="http://www.flickr.com/photos/fritography/4505483729/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img15.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>WHITE LILIES</h2>]]></title>
+			<preview src="images/gallery/preview16.jpg"><![CDATA[<gallerycaption>White lilies</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img16.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>PROVO CANYON, MOUNT TIMP</h2>]]></title>
+			<preview src="images/gallery/preview18.jpg"><![CDATA[<gallerycaption>Provo Canyon, Mt. Timp</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Provo Canyon, Mount Timpanogos in Utah's Wasatch Range.  // Photo by <a href="http://www.flickr.com/photos/fritography/5040390117/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img18.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>CHILLY SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview19.jpg"><![CDATA[<gallerycaption>Chilly sunset</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Chilly sunset on iced-over Utah lake.  // Photo by <a href="http://www.flickr.com/photos/fritography/4196011827/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img19.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SAN FRANCISCO SKYLINE SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview21.jpg"><![CDATA[<gallerycaption>San Francisco skyline sunset</gallerycaption>]]></preview>
+			<description><![CDATA[<p>San Francisco Skyline sunset.  // Photo by <a href="http://www.flickr.com/photos/fritography/5162434063/" target="_blank">El Frito</a>.</p>]]></description>
+			<media><image src="images/gallery/img21.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>LUXURIOUS VILLA</h2>]]></title>
+			<preview src="images/gallery/preview22.jpg"><![CDATA[<gallerycaption>Image 22</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img22.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/gallery/preview23.jpg"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img23.jpg"/></media>
+		</item>
+		
+	</category>
+	
+	<category title="Videos Only Category">
+	
+		<item>
+			<title><![CDATA[<h2>"CRAZY ENOUGH"</h2>]]></title>
+			<preview src="images/gallery/preview02.jpg"><![CDATA[<gallerycaption>"Crazy Enough"</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Vancouver Film School presents a film by Jorge JR – "Crazy Enough".  // Video by <a href="http://www.flickr.com/photos/vfsdigitaldesign/5431520597/" target="_blank">VFS Digital Design</a>.</p>]]></description>
+			<media><video youTubeMode="false" src="videos/crazy_enough.mp4" ratio="16:9" previewImage="images/gallery/video02-preview.jpg" playbackQuality="" autoPlay="true"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>INDEX INTERNATIONAL DESIGN EXHIBITION 2011</h2>]]></title>
+			<preview src="images/gallery/preview08.jpg"><![CDATA[<gallerycaption>INDEX international design exhibition</gallerycaption>]]></preview>
+			<description><![CDATA[<p>The INDEX International Design Exhibition took place from 22-25 October 2011 in the Dubai World Trade Centre. Over 900 exhibitors from 45 countries showcased the latest international interior design products and services to a dedicated audience of over 27.000 visitors.</p>]]></description>
+			<media><video youTubeMode="true" src="6gvrI6iAMKM" ratio="16:9" previewImage="images/gallery/video08-preview.jpg" playbackQuality="hd720" autoPlay="true"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>INSANE TRAFFIC AT PLACE CHARLES DE GAULLE</h2>]]></title>
+			<preview src="images/gallery/preview17.jpg"><![CDATA[<gallerycaption>Place Charles de Gaulle</gallerycaption>]]></preview>
+			<description><![CDATA[<p>This video was taken from the top of the Arc de Triomphe (Paris) by <a href="http://www.flickr.com/photos/chriswaits/5720417447/" target="_blank">Chris Waits</a>.</p>]]></description>
+			<media><video youTubeMode="false" src="videos/top_view.mp4" ratio="16:9" previewImage="images/gallery/video17-preview.jpg" playbackQuality="" autoPlay="true"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>GOING TO THE SUN ROAD, GLACIER NATIONAL PARK</h2>]]></title>
+			<preview src="images/gallery/preview20.jpg"><![CDATA[<gallerycaption>Going to the Sun Road, Glacier NP</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Informative & beautiful documentary describes the amazing sights on one of the most beautiful drives in North America. Sights along the way include time-lapse video of Logan Pass and Wild Goose Island. The Garden Wall, the Trail of the Cedars, big Horn sheep and much more is featured.  // Video by <a href="http://www.youtube.com/watch?v=ful4qN1J7tc" target="_blank">Steve Salis</a>.</p>]]></description>
+			<media><video youTubeMode="true" src="ful4qN1J7tc" ratio="16:9" previewImage="images/gallery/video20-preview.jpg" playbackQuality="hd720" autoPlay="true"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>INSANE TRAFFIC AT PLACE CHARLES DE GAULLE</h2>]]></title>
+			<preview src="images/gallery/preview17.jpg"><![CDATA[<gallerycaption>Place Charles de Gaulle</gallerycaption>]]></preview>
+			<description><![CDATA[<p>This video was taken from the top of the Arc de Triomphe (Paris) by <a href="http://www.flickr.com/photos/chriswaits/5720417447/" target="_blank">Chris Waits</a>.</p>]]></description>
+			<media><video youTubeMode="false" src="videos/top_view.mp4" ratio="16:9" previewImage="images/gallery/video17-preview.jpg" playbackQuality="" autoPlay="true"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>GOING TO THE SUN ROAD, GLACIER NATIONAL PARK</h2>]]></title>
+			<preview src="images/gallery/preview20.jpg"><![CDATA[<gallerycaption>Going to the Sun Road, Glacier NP</gallerycaption>]]></preview>
+			<description><![CDATA[<p>Informative & beautiful documentary describes the amazing sights on one of the most beautiful drives in North America. Sights along the way include time-lapse video of Logan Pass and Wild Goose Island. The Garden Wall, the Trail of the Cedars, big Horn sheep and much more is featured.  // Video by <a href="http://www.youtube.com/watch?v=ful4qN1J7tc" target="_blank">Steve Salis</a>.</p>]]></description>
+			<media><video youTubeMode="true" src="ful4qN1J7tc" ratio="16:9" previewImage="images/gallery/video20-preview.jpg" playbackQuality="hd720" autoPlay="true"/></media>
+		</item>
+	
+	</category>
+	
+</gallery>

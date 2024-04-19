@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+	
+		imageBgColor="FFFFFF"
+		imageBgAlpha="0.3"
+		imageBorderColor="FFFFFF"
+		imageBorderThickness="1"
+		imageShadowColor="999999"
+		imageShadowAlpha="0.4"
+		imagePadding="0"
+		imagePreloaderColor="666666"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="000000"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="0.7"
+		imageZoomIconColor="000000"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor="B5B5B5"
+		videoPlayerShadowAlpha="0.5"
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="EEEEEE"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="CCCCCC"
+		scrollBarSliderOverColor="B5B5B5"
+		
+		useSlideshow="false"
+		slideshowLeftMargin=""
+		slideshowTopMargin=""
+		slideshowHeight=""
+		slideshowXML=""
+
+	/>
+	
+	<content topMargin="0">
+		
+		<textblock topMargin="0">
+			<text><![CDATA[<p>The Phlex template uses the original internal system for arranging HTML text, images and videos on pages. This universal system of content blocks can be completely used in all standard pages (the <b>Standard Page</b> module) and partly in some other modules.</p><space></space><p>The system allows to create the following types of blocks (page elements).</p>]]></text>
+		</textblock>
+		
+		<textblock topMargin="25">
+			<text><![CDATA[<h2>Text Block<br></h2><p>The examples of text blocks:</p><space></space><p>1. Proin viverra ipsum ut tortor tincidunt sodales. Nunc id mauris ipsum, id ultricies elit. Mauris auctor nulla sit amet libero molestie interdum. Phasellus consectetur egestas erat. Vivamus sit amet lacus posuere lacus ullamcorper tempus. Lorem ipsum dolor sit amet <a href="#/company/about-us" target="_self"><b>hyperlink</b></a> adipiscing elit. Cras leo urna, convallis at tincidunt vel, convallis quis nisi. In eleifend ligula sit amet lacus suscipit tristique empor turpis aliquet.</p>]]></text>
+		</textblock>
+		
+		<cols>
+			<col>
+				<textblock topMargin="15" leftMargin="0" width="435">
+					<text><![CDATA[<p>2. Nullam tortor leo, tristique ac tempus eget, vestibulum nec ante. Mauris rhoncus aliquet lectus, lobortis fringilla tortor placerat ac. Vestibulum quis dui dui. Nulla ornare neque sit amet magna volutpat cursus sit amet sollicitudin massa. Sed a sapien ac odio fringilla accumsan.</p>]]></text>
+				</textblock>
+			</col>
+			<col>
+				<textblock topMargin="15" leftMargin="30" width="">
+					<text><![CDATA[<p>3. Ipsum primis in faucibus orci luctus et ultrices posuere. Nullam tortor leo tempus eget, vestibulum nec ante. Mauris rhoncus aliquet lectus, lobortis fringilla tortor placerat ac. Nulla ornare neque sit amet magna volutpat cursus sit amet massa. Sed a sapien ac odio fringilla accumsan.</p>]]></text>
+				</textblock>
+			</col>
+		</cols>
+		
+		<textblock topMargin="25">
+			<text><![CDATA[<h2>Image Block<br></h2><p>The examples of image blocks:</p>]]></text>
+		</textblock>
+		
+		<cols>
+			<col>
+				<imageblock topMargin="20" leftMargin="0">
+					<image src="images/standard_page/img1.jpg" width="480" height="270" clickLink="" clickTarget=""/>
+					<caption><![CDATA[<imagecaption>Here you can place the caption text...</imagecaption>]]></caption>
+				</imageblock>
+			</col>
+			<col>
+				<imageblock topMargin="20" leftMargin="60">
+					<image src="images/standard_page/img2.jpg" width="300" height="200" clickLink="" clickTarget=""/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+			</col>
+		</cols>
+		
+		<textblock topMargin="30">
+			<text><![CDATA[<h2>Video Block<br></h2><p>The example of a video block:</p>]]></text>
+		</textblock>
+		
+		<cols>
+			<col>
+				<videoblock topMargin="20" leftMargin="0">
+					<video youTubeMode="true" src="6gvrI6iAMKM" width="480" height="270" previewImage="images/standard_page/video-preview1.jpg" playbackQuality="hd720" autoPlay="false"/>
+				</videoblock>
+			</col>
+			<col>
+				<textblock topMargin="20" leftMargin="30" width="">
+					<text><![CDATA[<p>Supported video formats: FLV, H.264 MPEG-4 and YouTube videos.</p><space></space><p>Note: Only one instance of a video block can be placed on a standard page.</p>]]></text>
+				</textblock>
+			</col>
+		</cols>
+		
+		<textblock topMargin="30">
+			<text><![CDATA[<h2>List<br></h2><p>The example of a list:</p>]]></text>
+		</textblock>
+		
+		<list topMargin="10" leftMargin="20" markerColor="777777">
+			<item><![CDATA[<p>Aenean non ornare lectus. Donec facilisis posuere vehicula.</p>]]></item>
+			<item><![CDATA[<p>Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat.</p>]]></item>
+			<item><![CDATA[<p>Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh. Donec iaculis, dolor et consectetur feugiat, lacus dui vestibulum risus, a elementum lacus velit in tortor. Maecenas imperdiet cursus nulla feugiat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus. Nunc bibendum nisl vitae augue rutrum porttitor.</p>]]></item>
+			<item><![CDATA[<p>Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>]]></item>
+			<item><![CDATA[<p>Nunc bibendum nisl vitae augue rutrum porttitor. Integer vel enim mi, sed suscipit neque. Integer at enim cursus massa malesuada tempus. Praesent congue molestie tristique. Nullam tortor leo, tristique ac tempus eget, <a href="#/company/standard-page-elements" target="_self"><b>vestibulum</b></a> nec ante. Mauris rhoncus aliquet lectus, lobortis fringilla tortor placerat ac. Vestibulum quis dui dui. Nulla ornare neque sit amet magna volutpat cursus sit amet sollicitudin massa.</p>]]></item>
+		</list>
+		
+		<textblock topMargin="25">
+			<text><![CDATA[<h2>Link<br></h2><p>The examples of links:</p>]]></text>
+		</textblock>
+		
+		<cols>
+			<col>
+				<link topMargin="10" leftMargin="0" leftPadding="15" color="577C95" hoverColor="22333C" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/company/standard-page-elements" clickTarget="_self"><![CDATA[<link>Learn more</link>]]></link>
+			</col>
+			<col>
+				<link topMargin="10" leftMargin="80" leftPadding="18" color="577C95" hoverColor="22333C" iconURL="images/icons/email.png" iconTopPadding="5" clickLink="mailto:janedoe@company.com" clickTarget="_blank"><![CDATA[<link>janedoe@company.com</link>]]></link>
+			</col>
+			<col>
+				<link topMargin="10" leftMargin="80" rightPadding="15" color="577C95" hoverColor="E77927" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/company/standard-page-elements" clickTarget="_self"><![CDATA[<link>View profile</link>]]></link>
+			</col>
+			<col>
+				<link topMargin="10" leftMargin="80" leftPadding="0" color="577C95" hoverColor="22333C" iconURL="" iconTopPadding="0" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"><![CDATA[<link>www.activeden.net/user/emerald/portfolio</link>]]></link>
+			</col>
+		</cols>
+		
+		<textblock topMargin="25">
+			<text><![CDATA[<h2>Separator Line<br></h2><p>The examples of separator lines:</p>]]></text>
+		</textblock>
+		
+		<separator topMargin="20" leftMargin="0" width="880" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+		
+		<separator topMargin="30" leftMargin="0" width="300" height="2" color="88B1BF" iconURL="images/icons/solid-line.png"/>
+		
+		<separator topMargin="30" leftMargin="0" width="250" height="1" color="CCCCCC" iconURL="images/icons/solid-line.png"/>
+		
+		<textblock topMargin="30">
+			<text><![CDATA[<h2>Table<br></h2><p>The example of a pricing table:</p>]]></text>
+		</textblock>
+		
+		<table topMargin="20" leftMargin="0" borderColor="D9D9D9" borderThickness="1">
+			<tr height="50">
+				<th width="180" bgcolor="999999"><![CDATA[<h2><font color="#FFFFFF">Basic Package</font></h2>]]></th>
+				<th width="210" bgcolor="999999"><![CDATA[<h2><font color="#FFFFFF">Advanced Package</font></h2>]]></th>
+				<th width="210" bgcolor="577C95"><![CDATA[<h2><font color="#FFFFFF">Super Package</font></h2>]]></th>
+				<th width="210" bgcolor="999999"><![CDATA[<h2><font color="#FFFFFF">Unlimited Package</font></h2>]]></th>
+			</tr>
+			<tr height="36">
+				<td bgcolor="F3F3F3"><![CDATA[<p><b>$5.95</b></p>]]></td>
+				<td bgcolor="F3F3F3"><![CDATA[<p><b>$11.95</b></p>]]></td>
+				<td bgcolor="E6ECF0"><![CDATA[<p><b>$17.95</b></p>]]></td>
+				<td bgcolor="F3F3F3"><![CDATA[<p><b>$29.95</b></p>]]></td>
+			</tr>
+			<tr height="36">
+				<td bgcolor="F3F3F3"><![CDATA[<p>4 GB Webspace</p>]]></td>
+				<td bgcolor="F3F3F3"><![CDATA[<p>8 GB Webspace</p>]]></td>
+				<td bgcolor="E6ECF0"><![CDATA[<p>16 GB Webspace</p>]]></td>
+				<td bgcolor="F3F3F3"><![CDATA[<p>99 GB Webspace</p>]]></td>
+			</tr>
+			<tr height="36">
+				<td bgcolor="F3F3F3"><![CDATA[<p>1 Domain</p>]]></td>
+				<td bgcolor="F3F3F3"><![CDATA[<p>2 Domain</p>]]></td>
+				<td bgcolor="E6ECF0"><![CDATA[<p>4 Domain</p>]]></td>
+				<td bgcolor="F3F3F3"><![CDATA[<p>20 Domain</p>]]></td>
+			</tr>
+			<tr height="36">
+				<td bgcolor="F3F3F3"><![CDATA[<p>&nbsp;<a href="#/company/standard-page-elements"><b>Sign Up</b></a></p>]]></td>
+				<td bgcolor="F3F3F3"><![CDATA[<p>&nbsp;<a href="#/company/standard-page-elements"><b>Sign Up</b></a></p>]]></td>
+				<td bgcolor="E6ECF0"><![CDATA[<p>&nbsp;<a href="#/company/standard-page-elements"><b>Sign Up</b></a></p>]]></td>
+				<td bgcolor="F3F3F3"><![CDATA[<p>&nbsp;<a href="#/company/standard-page-elements"><b>Sign Up</b></a></p>]]></td>
+			</tr>
+		</table>
+		
+		<textblock topMargin="25">
+			<text><![CDATA[<p>Another example of a table:</p>]]></text>
+		</textblock>
+		
+		<table topMargin="20" leftMargin="0" borderColor="CCCCCC" borderThickness="1">
+			<tr height="36">
+				<th width="110" bgcolor=""><![CDATA[]]></th>
+				<th width="110" bgcolor="EEEEEE"><![CDATA[<p><b>Standard Page</b></p>]]></th>
+				<th width="90" bgcolor="EEEEEE"><![CDATA[<p><b>Homepage</b></p>]]></th>
+				<th width="70" bgcolor="EEEEEE"><![CDATA[<p><b>Team</b></p>]]></th>
+				<th width="70" bgcolor="EEEEEE"><![CDATA[<p><b>Services</b></p>]]></th>
+				<th width="70" bgcolor="EEEEEE"><![CDATA[<p><b>News</b></p>]]></th>
+				<th width="80" bgcolor="EEEEEE"><![CDATA[<p><b>Portfolio</b></p>]]></th>
+				<th width="70" bgcolor="EEEEEE"><![CDATA[<p><b>Gallery</b></p>]]></th>
+				<th width="90" bgcolor="EEEEEE"><![CDATA[<p><b>Show Reel</b></p>]]></th>
+				<th width="70" bgcolor="EEEEEE"><![CDATA[<p><b>Contact</b></p>]]></th>
+			</tr>
+			<tr height="30">
+				<td bgcolor="EEEEEE" align="left"><![CDATA[<p><b> Text block</b></p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+			</tr>
+			<tr height="30">
+				<td bgcolor="EEEEEE" align="left"><![CDATA[<p><b> Image block</b></p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+			</tr>
+			<tr height="30">
+				<td bgcolor="EEEEEE" align="left"><![CDATA[<p><b> Video block</b></p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+			</tr>
+			<tr height="30">
+				<td bgcolor="EEEEEE" align="left"><![CDATA[<p><b> List</b></p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+			</tr>
+			<tr height="30">
+				<td bgcolor="EEEEEE" align="left"><![CDATA[<p><b> Link</b></p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+			</tr>
+			<tr height="30">
+				<td bgcolor="EEEEEE" align="left"><![CDATA[<p><b> Separator line</b></p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+			</tr>
+			<tr height="30">
+				<td bgcolor="EEEEEE" align="left"><![CDATA[<p><b> Table</b></p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>+</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+				<td bgcolor=""><![CDATA[<p>-</p>]]></td>
+			</tr>
+		</table>
+		
+		<textblock topMargin="25">
+			<text><![CDATA[<h2>Multi-column Layout<br></h2><p>The content blocks system lets you use the <a href="#/company/standard-page-columns" target="_self"><b>multi-column layout</b></a>. You can make 2, 3, 4, or more columns in a row. You can insert any of the content blocks in a column. Also multiple blocks in a column are allowed.</p>]]></text>
+		</textblock>
+		
+	</content>
+	
+</data>

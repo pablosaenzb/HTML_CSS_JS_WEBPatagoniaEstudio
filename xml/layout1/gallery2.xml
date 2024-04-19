@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gallery>
+		
+	<settings
+		
+		showCategoryMenu="true"
+		categoryMenuYPosition="0"
+		categorySpacing="28"
+		categoryFont="Droid Sans"
+		categoryFontSize="13"
+		categoryFontWeight="bold"
+		categoryFontColor="666666"
+		categoryOverFontColor="333333"
+		categorySelectedFontColor="577C95"
+		
+		previewsControlsYPosition="-15"
+		previewsControlsRightMargin="5"
+		previewsNavButtonColor="888888"
+		previewsNavButtonSelectedColor="E77927"
+		
+		previewsInRow="4"
+		previewsInCol="3"
+		previewsTopMargin="15"
+		previewWidth="244"
+		previewHeight="142"
+		previewSpacing="0"
+		
+		previewBgColor="FFFFFF"
+		previewBgAlpha="0.3"
+		previewBorderColor="FFFFFF"
+		previewBorderThickness="1"
+		previewShadowColor=""
+		previewShadowAlpha=""
+		previewPadding="0"
+		previewPreloaderColor="666666"
+		previewPreloaderAlpha="0.5"
+		previewCaptionBgColor="000000"
+		previewCaptionBgAlpha="0.3"
+		previewCaptionBlurredBg="true"
+		previewCaptionBgBlurAmount="32"
+		previewCaptionPadding="3"
+		previewCaptionAnimationType="slide"
+		previewOverBrightness="0.5"
+		previewVideoIconSize="30"
+		previewVideoIconColor="FFFFFF"
+		previewVideoIconAlpha="0.5"
+		previewVideoIconOverAlpha="1"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="DDDDDD"
+		controlsBarBgAlpha="1"
+		buttonSpacing="6"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FFFFFF"
+		buttonBgOverColor="999999"
+		showInfoButton="false"
+		singleItemTextLeftMargin="50"
+		singleItemTextRightMargin="50"
+		singleItemDescriptionHeight=""
+		singleItemDescriptionTopMargin="10"
+		singleItemPreloaderColor="FFFFFF"
+		singleItemPreloaderAlpha="0.5"
+		
+		videoPlayerWidth="853"
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		scrollBarTrackWidth=""
+		scrollBarTrackColor=""
+		scrollBarTrackAlpha=""
+		scrollBarSliderOverWidth=""
+		scrollBarSliderColor=""
+		scrollBarSliderOverColor=""
+	/>
+	
+	<category title="Simply Images">
+			
+		<item>
+			<title><![CDATA[<h2>IMAGE TITLE</h2>]]></title>
+			<preview src="images/gallery/preview01.jpg"><![CDATA[<gallerycaption><center>Image 1</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img01.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>YELLOWSTONE SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview03.jpg"><![CDATA[<gallerycaption><center>Yellowstone sunset</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img03.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>ROCKY LAKESHORE AND MOUNTAINS</h2>]]></title>
+			<preview src="images/gallery/preview04.jpg"><![CDATA[<gallerycaption><center>Rocky lakeshore and mountains</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img04.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SUNFLOWER TRIO</h2>]]></title>
+			<preview src="images/gallery/preview05.jpg"><![CDATA[<gallerycaption><center>Sunflower trio</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img05.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>COLORED LANDSCAPE</h2>]]></title>
+			<preview src="images/gallery/preview06.jpg"><![CDATA[<gallerycaption><center>Colored landscape</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img06.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>LITTLE BIRD</h2>]]></title>
+			<preview src="images/gallery/preview07.jpg"><![CDATA[<gallerycaption><center>Little bird</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img07.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>TIGER SWALLOWTAIL</h2>]]></title>
+			<preview src="images/gallery/preview09.jpg"><![CDATA[<gallerycaption><center>Tiger swallowtail</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img09.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>IMAGE 10</h2>]]></title>
+			<preview src="images/gallery/preview10.jpg"><![CDATA[<gallerycaption><center>Image 10</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img10.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SUNRISE AT MESA ARCH</h2>]]></title>
+			<preview src="images/gallery/preview11.jpg"><![CDATA[<gallerycaption><center>Sunrise at Mesa Arch</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img11.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>PIGEON POINT LIGHTHOUSE</h2>]]></title>
+			<preview src="images/gallery/preview12.jpg"><![CDATA[<gallerycaption><center>Pigeon Point Lighthouse</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img12.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SNAKE RIVER SUNRISE</h2>]]></title>
+			<preview src="images/gallery/preview13.jpg"><![CDATA[<gallerycaption><center>Snake River sunrise</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img13.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>TENDER FLOWER</h2>]]></title>
+			<preview src="images/gallery/preview14.jpg"><![CDATA[<gallerycaption><center>Tender flower</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img14.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SURFING THE SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview15.jpg"><![CDATA[<gallerycaption><center>Surfing the sunset</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img15.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>WHITE LILIES</h2>]]></title>
+			<preview src="images/gallery/preview16.jpg"><![CDATA[<gallerycaption><center>White lilies</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img16.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>PROVO CANYON, MOUNT TIMP</h2>]]></title>
+			<preview src="images/gallery/preview18.jpg"><![CDATA[<gallerycaption><center>Provo Canyon, Mt. Timp</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img18.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>CHILLY SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview19.jpg"><![CDATA[<gallerycaption><center>Chilly sunset</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img19.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SAN FRANCISCO SKYLINE SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview21.jpg"><![CDATA[<gallerycaption><center>San Francisco skyline sunset</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img21.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>LUXURIOUS VILLA</h2>]]></title>
+			<preview src="images/gallery/preview22.jpg"><![CDATA[<gallerycaption><center>Image 22</center></gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img22.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/gallery/preview23.jpg"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img23.jpg"/></media>
+		</item>
+	
+	</category>
+	
+</gallery>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+	
+		imageBgColor="FFFFFF"
+		imageBgAlpha="0.3"
+		imageBorderColor="FFFFFF"
+		imageBorderThickness="1"
+		imageShadowColor="999999"
+		imageShadowAlpha="0.4"
+		imagePadding="0"
+		imagePreloaderColor="666666"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="000000"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="0.7"
+		imageZoomIconColor="000000"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor="B5B5B5"
+		videoPlayerShadowAlpha="0.5"
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="EEEEEE"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="CCCCCC"
+		scrollBarSliderOverColor="B5B5B5"
+		
+		useSlideshow="true"
+		slideshowLeftMargin="0"
+		slideshowTopMargin="5"
+		slideshowHeight="222"
+		slideshowXML="xml/layout2/philosophy/slideshow.xml"
+
+	/>
+	
+	<content topMargin="30">
+		
+		<textblock topMargin="0">
+			<text><![CDATA[<p>This is a standard page created with the <b>Standard Page</b> module. The banner rotator can be optionally used on any standard page.</p><space></space><p>The Phlex template uses the original internal system for arranging HTML text, images and videos on pages. This universal system of content blocks can be completely used in all standard pages (the Standard Page module) and partly in some other modules.</p>]]></text>
+		</textblock>
+		
+		<textblock topMargin="15">
+			<text><![CDATA[<p><b>Mauris rhoncus aliquet lectus lobortis fringilla tortor:</b></p>]]></text>
+		</textblock>
+		
+		<list topMargin="5" leftMargin="20" markerColor="777777">
+			<item><![CDATA[<p>Aenean non ornare lectus donec facilisis posuere vehicula.</p>]]></item>
+			<item><![CDATA[<p>Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat.</p>]]></item>
+			<item><![CDATA[<p>Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh. Donec iaculis, dolor et consectetur feugiat, lacus dui vestibulum risus, a elementum lacus velit in tortor. Maecenas imperdiet cursus feugiat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus. Nunc bibendum nisl vitae augue rutrum porttitor.</p>]]></item>
+			<item><![CDATA[<p>Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>]]></item>
+			<item><![CDATA[<p>Nunc bibendum nisl vitae augue rutrum porttitor. Integer vel enim mi, sed suscipit neque. Integer at enim cursus massa malesuada tempus. Praesent congue molestie tristique. Nullam tortor leo, tristique ac tempus eget, vestibulum nec ante. Mauris rhoncus aliquet lectus, lobortis fringilla tortor placerat ac. Vestibulum quis dui dui. Nulla ornare neque sit amet magna cursus sit amet sollicitudin massa.</p>]]></item>
+		</list>
+		
+	</content>
+	
+</data>

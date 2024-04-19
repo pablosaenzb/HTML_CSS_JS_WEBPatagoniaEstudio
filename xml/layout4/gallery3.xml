@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gallery>
+		
+	<settings
+		
+		showCategoryMenu="false"
+		categoryMenuYPosition="0"
+		categorySpacing="28"
+		categoryFont="Droid Sans"
+		categoryFontSize="13"
+		categoryFontWeight="bold"
+		categoryFontColor="9B998E"
+		categoryOverFontColor="C3C3C3"
+		categorySelectedFontColor="B88C62"
+		
+		previewsControlsYPosition="-15"
+		previewsControlsRightMargin="5"
+		previewsNavButtonColor="888888"
+		previewsNavButtonSelectedColor="B88C62"
+		
+		previewsInRow="4"
+		previewsInCol="3"
+		previewsTopMargin="10"
+		previewWidth="244"
+		previewHeight="142"
+		previewSpacing="0"
+		
+		previewBgColor="333333"
+		previewBgAlpha="0.5"
+		previewBorderColor="555555"
+		previewBorderThickness="1"
+		previewShadowColor=""
+		previewShadowAlpha=""
+		previewPadding="0"
+		previewPreloaderColor="CCCCCC"
+		previewPreloaderAlpha="0.5"
+		previewCaptionBgColor=""
+		previewCaptionBgAlpha=""
+		previewCaptionBlurredBg=""
+		previewCaptionBgBlurAmount=""
+		previewCaptionPadding=""
+		previewCaptionAnimationType="slide"
+		previewOverBrightness="-0.2"
+		previewVideoIconSize=""
+		previewVideoIconColor=""
+		previewVideoIconAlpha=""
+		previewVideoIconOverAlpha=""
+	/>
+	
+	<category title="Simply Images">
+			
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo1c.gif" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo2c.gif" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo3c.gif" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo4c.gif" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo5c.gif" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo6c.gif" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo1c.gif" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo2c.gif" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo3c.gif" clickLink="" clickTarget=""><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo4c.gif" clickLink="" clickTarget=""><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo5c.gif" clickLink="" clickTarget=""><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		
+		<!--
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/clients/logo6c.gif" clickLink="http://activeden.net/user/emerald/portfolio" clickTarget="_blank"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src=""/></media>
+		</item>
+		-->
+	
+	</category>
+	
+</gallery>

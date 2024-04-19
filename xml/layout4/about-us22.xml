@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+	
+		imageBgColor="000000"
+		imageBgAlpha="0.5"
+		imageBorderColor=""
+		imageBorderThickness=""
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding="0"
+		imagePreloaderColor="CCCCCC"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="666666"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="-0.2"
+		imageZoomIconColor="FFFFFF"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor=""
+		videoPlayerShadowAlpha=""
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="252525"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="666666"
+		scrollBarSliderOverColor="757575"
+		
+		useSlideshow="false"
+		slideshowLeftMargin=""
+		slideshowTopMargin=""
+		slideshowHeight=""
+		slideshowXML=""
+
+	/>
+	
+	<content topMargin="0">
+		
+		<textblock topMargin="0">
+			<text><![CDATA[<p>Quienes somos es quienes proyectamos ser. Conozca nuestra proyección a futuro y los principales baluartes que nos guían.</p>]]></text>
+		</textblock>
+		
+		<textblock topMargin="15">
+			<text><![CDATA[<p><span class="bold">Visión</span></p>]]></text>
+		</textblock>
+		
+		<textblock topMargin="0">
+			<text><![CDATA[<p>En.</p>]]></text>
+		</textblock>
+		
+		<textblock topMargin="15">
+			<text><![CDATA[<p><span class="bold">Misión</span></p>]]></text>
+		</textblock>
+		
+		<textblock topMargin="0">
+			<text><![CDATA[<p>Nue.</p>]]></text>
+		</textblock>
+		
+		<textblock topMargin="15">
+			<text><![CDATA[<p><span class="bold">Valores</span></p>]]></text>
+		</textblock>		
+				
+		<list topMargin="5" leftMargin="20" markerColor="888888">
+			<item><![CDATA[<p>Compromiso: Nuestro compromiso es brindar un servicio de calidad, eficiente y responsable, que colabore con el crecimiento y resultado de sus negocios y proyectos.</p>]]></item>
+			<item><![CDATA[<p>Respeto: En Patagonia Estudio consideramos que los cimientos de todo buen trabajo, eficiente y productivo, es el respeto.</p>]]></item>
+			<item><![CDATA[<p>Confianza: Creemos que la confianza es plataforma fundamental para el desarrollo y fortalecimiento de vínculos duraderos que propicien la toma de decisiones.</p>]]></item>
+			<item><![CDATA[<p>Comunicación eficaz: La comunicación es la principal herramienta de trabajo de un profesional. Por eso en Patagonia Estudio, buscamos la mayor claridad, objetividad y precisión en la comunicación, ofreciendo la información necesaria en el tiempo oportuno.</p>]]></item>
+			<item><![CDATA[<p>Trabajo en equipo: En Patagonia Estudio promovemos el intercambio de ideas y talentos de las personas para optimizar los resultados de nuestros servicios. </p>]]></item>
+			<item><![CDATA[<p>Sinergia: Creemos que la integración con nuestros clientes maximiza las cualidades propias de cada una de las partes, optimizando el resultado de nuestros servicios y por lo tanto de sus negocios.</p>]]></item>
+		</list>
+		
+		<cols>
+			<col>
+				<imageblock topMargin="25" leftMargin="0">
+					<image src="images/aboutus/img2.jpg" width="480" height="270" clickLink="" clickTarget=""/>
+					<caption><![CDATA[<imagecaption>Here you can place the caption text...</imagecaption>]]></caption>
+				</imageblock>
+			</col>
+			<col>
+			<textblock topMargin="25" leftMargin="30">
+			<text><![CDATA[<p><span class="bold">Nuestro Equipo</span></p>]]></text>
+		</textblock>
+				<textblock topMargin="25" leftMargin="30">
+					<text><![CDATA[<p>Pata.</p>]]></text>
+				</textblock>
+			</col>
+		</cols>
+		
+		
+	</content>
+	
+</data>

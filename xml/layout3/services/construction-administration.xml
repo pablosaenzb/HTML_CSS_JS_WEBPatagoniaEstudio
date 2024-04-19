@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+	
+		imageBgColor="FFFFFF"
+		imageBgAlpha="0.3"
+		imageBorderColor="FFFFFF"
+		imageBorderThickness="1"
+		imageShadowColor="999999"
+		imageShadowAlpha="0.4"
+		imagePadding="0"
+		imagePreloaderColor="666666"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="000000"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="0.7"
+		imageZoomIconColor="000000"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor="B5B5B5"
+		videoPlayerShadowAlpha="0.5"
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="FFFFFF"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="B5B5B5"
+		scrollBarSliderOverColor=""
+		
+		useSlideshow="false"
+		slideshowLeftMargin=""
+		slideshowTopMargin=""
+		slideshowHeight=""
+		slideshowXML=""
+
+	/>
+	
+	<content topMargin="0">
+	
+		<textblock topMargin="0">
+			<text><![CDATA[<p>This is a standard page created with the <b>Standard Page</b> module.</p><space></space><p>Cras leo urna, convallis at tincidunt vel, convallis quis nisi. In eleifend ligula sit amet lacus suscipit tristique tempor turpis aliquet. Etiam sollicitudin turpis in quam tincidunt lacinia. Vivamus diam eros, consectetur eu eleifend quis, varius et felis. Nam eget enim at tortor euismod sagittis. Aliquam gravida tortor eu congue posuere. Praesent tristique egestas tincidunt. Nulla convallis, nisi ac fringilla pharetra, est nulla tincidunt lacus, in auctor eros justo eu tortor. Phasellus venenatis venenatis enim id ultricies. Nullam quis elit leo, quis fringilla metus.</p>]]></text>
+		</textblock>
+		
+		<cols>
+			<col>
+				<imageblock topMargin="30" leftMargin="17">
+					<image src="images/services/construction-administration1.jpg" width="270" height="160" clickLink="" clickTarget=""/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+			</col>
+			<col>
+				<imageblock topMargin="30" leftMargin="25">
+					<image src="images/services/construction-administration2.jpg" width="270" height="160" clickLink="" clickTarget=""/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+			</col>
+			<col>
+				<imageblock topMargin="30" leftMargin="25">
+					<image src="images/services/construction-administration3.jpg" width="270" height="160" clickLink="" clickTarget=""/>
+					<caption><![CDATA[<imagecaption>Here you can place the caption text...</imagecaption>]]></caption>
+				</imageblock>
+			</col>
+		</cols>
+		
+		<textblock topMargin="30">
+			<text><![CDATA[<p>Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh. Mauris in pulvinar nunc. Praesent eu libero risus. Donec a volutpat purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam bibendum mauris molestie nisi dignissim mattis. Vestibulum ac massa magna, vitae volutpat lacus.</p><space></space><p>Nullam lorem lorem, bibendum eu facilisis eu, feugiat convallis lectus. Suspendisse euismod scelerisque nisi sed interdum. Duis orci ligula, malesuada a gravida eu, lobortis at est. Duis suscipit varius lorem vitae volutpat. Maecenas imperdiet cursus feugiat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus. Nunc bibendum nisl vitae augue rutrum porttitor. Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh. Mauris in pulvinar nunc. Praesent eu libero risus. Donec a volutpat purus.</p>]]></text>
+		</textblock>
+		
+	</content>
+	
+</data>

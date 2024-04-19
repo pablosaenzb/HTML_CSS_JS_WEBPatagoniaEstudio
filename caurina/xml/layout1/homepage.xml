@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<homepage>
+	
+	<!-- Banner Rotator -->
+	<rotator>
+
+		<settings
+	
+			bannerWidth="982"
+			bannerHeight="272"
+			bannerBgColor="FFFFFF"
+			bannerBgAlpha="0.9"
+			bannerBackground=""
+			bannerCornerRadius=""
+			bannerBorderColor="CCCCCC"
+			bannerBorderThickness="1"
+			bannerShadowColor=""
+			bannerShadowAlpha=""
+			autoPlay="true"
+			imageShowTime=""
+			randomImages="false"
+			pauseOnMouseOver="false"
+			repeatMode="true"
+			
+			imageTransitionType="5"
+			imageTransitionDuration="0.8"
+			imageExposureDelay="0.6"
+			imageExposureStrength="3"
+			randomImageTransitions="false"
+			squareSize="60"
+			
+			imageAreaWidth="980"
+			imageAreaHeight="270"
+			imageAreaCornerRadius=""
+			imageAreaXPosition="1"
+			imageAreaYPosition="1"
+			
+			captionTextShadowColor="333333"
+			captionTextShadowAlpha="0.4"
+			
+			showControls="true"
+			controlsType="2"
+			controlsPosition="right"
+			controlsXOffset="20"
+			controlsYOffset="10"
+			controlsAutoHide="false"
+			buttonSpacing="7"
+			buttonBgColor="999999"
+			buttonOverBgColor="E9E9E9"
+			buttonSelectedBgColor="E9E9E9"
+			showButtonShadow="true"
+			buttonShadowColor=""
+			showPlayPauseButton="true"
+			playPauseIconColor="666666"
+			playPauseIconOverColor="AD5230"
+			
+			showTimer="true"
+			timerBarPosition="bottom"
+			timerBarHeight="3"
+			timerBarColor="FFFFFF"
+			timerBarAlpha="0.3"
+			
+			showPreloader="true"
+			preloaderColor="DDDDDD"
+		/>
+	
+		<banners>
+			
+			<banner>
+				<image src="images/banners/home1.jpg" showTime="8"/>
+				<textblock xPos="510" yPos="145" startDelay="1.5" shadow="true">
+					<start_animation type="Fade" duration="0.8" blur="true"/>
+					<text><![CDATA[<font face="League Gothic" size="22" color="#FFFFFF">Professional template suitable</font>]]></text>
+				</textblock>
+				<textblock xPos="510" yPos="167" startDelay="2" shadow="true">
+					<start_animation type="Fade" duration="0.8" blur="true"/>
+					<text><![CDATA[<font face="League Gothic" size="36" color="#FEECAB">For Any Business or Portfolio</font>]]></text>
+				</textblock>
+			</banner>
+			
+			<banner>
+				<image src="images/banners/home2.jpg" showTime="8"/>
+				<textblock xPos="45" yPos="27" startDelay="1" shadow="true">
+					<start_animation type="Fade" duration="0.8" moveFrom="left" moveOffset="100" blur="true"/>
+					<text><![CDATA[<font face="League Gothic" size="36" color="#FEECAB">Extremely Flexible</font>]]></text>
+				</textblock>
+				<textblock xPos="45" yPos="70" startDelay="1.5" shadow="true">
+					<start_animation type="Fade" duration="0.8" moveFrom="left" moveOffset="100" blur="true"/>
+					<text><![CDATA[<font face="League Gothic" size="22" color="#F1F1F1">with 9 modules included and multi-level navigation</font>]]></text>
+				</textblock>
+			</banner>
+			
+			<banner>
+				<image src="images/banners/home3.jpg" showTime="6"/>
+			</banner>
+			
+		</banners>
+	
+	</rotator>
+	
+	
+	<!-- Slogan -->
+	<slogan topMargin="20" leftMargin="0" width="">
+		<![CDATA[<homeslogan>Welcome to <font color="#E77927">Phlex</font> – a Clean and Flexible Business Flash Template.</homeslogan>]]>
+	</slogan>
+	
+	
+	<!-- Teasers -->
+	<teasers topMargin="25">
+		
+		<settings
+			
+			teasersType="1"
+			teasersVisible="4"
+			teaserWidth="200"
+			teaserHeight="85"
+			teaserSpacing="30"
+			
+			imageBgColor="FFFFFF"
+			imageBgAlpha="0.9"
+			imageBorderColor="CCCCCC"
+			imageBorderThickness="1"
+			imageShadowColor=""
+			imageShadowAlpha=""
+			imagePadding="1"
+			imagePreloaderColor="666666"
+			imagePreloaderAlpha="0.5"
+			imageCaptionBgColor="000000"
+			imageCaptionBgAlpha="0.3"
+			imageCaptionBlurredBg="true"
+			imageCaptionBgBlurAmount="32"
+			imageCaptionPadding="3"
+			imageOverBrightness="0.7"
+			imageLinkIconAlpha=""
+			imageLinkIconOverAlpha=""
+			imageBottomMargin=""
+			titleBottomPadding=""
+			
+			leftNavButtonURL="images/icons/left-arrow-type1.png"
+			rightNavButtonURL="images/icons/right-arrow-type1.png"
+			navButtonColor="999999"
+			navButtonOverColor="555555"
+			navButtonPadding="20"
+		/>
+		
+		<teaser>
+			<image src="images/homepage/teaser1.jpg" clickLink="#/services/inline-style" clickTarget="_self"/>
+			<caption><![CDATA[<imagecaption><center>Landscape Architecture</center></imagecaption>]]></caption>
+		</teaser>
+		
+		<teaser>
+			<image src="images/homepage/teaser2.jpg" clickLink="#/services/inline-style" clickTarget="_self"/>
+			<caption><![CDATA[<imagecaption><center>Interior Design</center></imagecaption>]]></caption>
+		</teaser>
+		
+		<teaser>
+			<image src="images/homepage/teaser3.jpg" clickLink="#/services/inline-style" clickTarget="_self"/>
+			<caption><![CDATA[<imagecaption><center>Brand Strategy</center></imagecaption>]]></caption>
+		</teaser>
+		
+		<teaser>
+			<image src="images/homepage/teaser4.jpg" clickLink="#/services/inline-style" clickTarget="_self"/>
+			<caption><![CDATA[<imagecaption><center>Electrical Engineering</center></imagecaption>]]></caption>
+		</teaser>
+		
+		<teaser>
+			<image src="images/homepage/teaser5.jpg" clickLink="#/services/inline-style" clickTarget="_self"/>
+			<caption><![CDATA[<imagecaption><center>Master Planning</center></imagecaption>]]></caption>
+		</teaser>
+		
+		<teaser>
+			<image src="images/homepage/teaser6.jpg" clickLink="#/services/inline-style" clickTarget="_self"/>
+			<caption><![CDATA[<imagecaption><center>Construction Administration</center></imagecaption>]]></caption>
+		</teaser>
+		
+	</teasers>
+	
+	
+	<!-- Bottom Separator Line -->
+	<bottomSeparator topMargin="30" leftMargin="0" width="" height="2" color="88B1BF" iconURL="images/icons/homepage-separator1.png"/>
+	
+	
+	<!-- Bottom Content Blocks -->
+	<bottomContent topMargin="10">
+	
+		<settings
+			
+			listItemMarkerURL="images/icons/list-item-marker-type1.png"
+			listItemMarkerTopPadding="8"
+			listItemLeftPadding="13"
+			listItemBottomPadding="2"
+			
+			scrollBarTrackWidth="2"
+			scrollBarTrackColor="FEFEFE"
+			scrollBarTrackAlpha="1"
+			scrollBarSliderOverWidth="4"
+			scrollBarSliderColor="CCCCCC"
+			scrollBarSliderOverColor="B5B5B5"
+		
+		/>
+		
+		<cols>
+			<col>
+				<textblock topMargin="0" leftMargin="0" width="310">
+					<text><![CDATA[<h2>Multi-level website navigation</h2><space></space><p>You can easily build the menu structure of required configuration. The template is provided with the breadcrumbs (secondary navigation menu).</p>]]></text>
+				</textblock>
+				<link topMargin="10" leftMargin="0" leftPadding="15" color="577C95" hoverColor="22333C" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/company/about-us" clickTarget="_self"><![CDATA[<link>Read more</link>]]></link>
+			</col>
+			<col>
+				<textblock topMargin="0" leftMargin="30" width="310">
+					<text><![CDATA[<h2>Clean design and high functionality</h2><space></space><p>Everything can be changed by simply editing XML configuration files and the CSS file. Background graphics and patterns also can be changed.</p>]]></text>
+				</textblock>
+				<link topMargin="10" leftMargin="30" leftPadding="15" color="577C95" hoverColor="22333C" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/company/philosophy" clickTarget="_self"><![CDATA[<link>Read more</link>]]></link>
+			</col>
+			<col>
+				<textblock topMargin="0" leftMargin="30" width="310">
+					<text><![CDATA[<h2>Complete documentation included</h2><space></space><p>The template comes with the complete and easy-to-understand User Guide with a separate PDF help file for each module.</p>]]></text>
+				</textblock>
+				<link topMargin="10" leftMargin="30" leftPadding="15" color="577C95" hoverColor="22333C" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/company/standard-page-sidebar" clickTarget="_self"><![CDATA[<link>Read more</link>]]></link>
+			</col>
+		</cols>
+		
+	</bottomContent>
+	
+</homepage>

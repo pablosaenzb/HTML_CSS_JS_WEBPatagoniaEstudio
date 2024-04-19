@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contact>
+		
+	<settings
+		
+		phpFileURL="php/mail.php"
+		
+		imageBgColor="000000"
+		imageBgAlpha="0.5"
+		imageBorderColor=""
+		imageBorderThickness=""
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding="0"
+		imagePreloaderColor="CCCCCC"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="666666"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="-0.2"
+		imageZoomIconColor="FFFFFF"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		fieldFont="Droid Sans"
+		filedFontSize="12"
+		fieldFontColor="999999"
+		fieldBgColor="303030"
+		fieldBgAlpha="0.9"
+		focusedFieldBgColor="404040"
+		focusedFieldBgAlpha="1"
+		focusedFieldBorderColor="505050"
+		sendButtonLabel="SEND MESSAGE"
+		sendButtonColor="C8C09D"
+		sendButtonOverColor="EFB379"
+		infoMessageFontColor="EFB379"
+		
+		scrollBarTrackWidth="1"
+		scrollBarTrackColor="252525"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="2"
+		scrollBarSliderColor="666666"
+		scrollBarSliderOverColor="757575"
+	/>
+	
+	<leftColumn width="500">
+		<info topMargin="" height=""><![CDATA[]]></info>
+		<form
+			topMargin="0"
+			active="true"
+			successMsg="Your message has been sent. Thank you!"
+			warningMsg="Sending... please wait"
+			errorMsg="There was an error sending the email!"
+		>
+			<name label="Name" errorMsg="Please enter your Name." required="true"/>
+			<email label="Email" errorMsg1="Please enter your Email address." errorMsg2="Please enter the valid email address." required="true"/>
+			<!--<phone label="Phone" errorMsg="" required="false"/>-->
+			<message label="Message" errorMsg="Please enter your Message." required="true"/>
+		</form>
+	</leftColumn>
+	
+	<rightColumn leftMargin="30">
+		<image src="" width="" height="" topMargin=""><![CDATA[]]></image>
+		<text topMargin="0"><![CDATA[<h3>RTC Ipsum Studios</h3><space></space><mspace></mspace><p>123 Main Street #7, San Francisco, CA, 94101</p><mspace></mspace><p>Phone: (415) 000-1234<br/>FAX: (415) 000-1235</p><mspace></mspace><p>Email:  <a href="mailto:info@ipsum.com">info@ipsum.com</a></p><space></space><p>Monday-Friday: 09:00 - 18:00<br/>Saturday: 10:00 - 15:00</p>]]></text>
+	</rightColumn>
+	
+</contact>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<news>
+		
+	<settings
+	
+		showCategoryMenu="true"
+		categoryMenuYPosition="0"
+		categorySpacing="28"
+		categoryFont="Droid Sans"
+		categoryFontSize="13"
+		categoryFontWeight="bold"
+		categoryFontColor="666666"
+		categoryOverFontColor="333333"
+		categorySelectedFontColor="577C95"
+		
+		previewsControlsYPosition="7"
+		previewsControlsRightMargin="5"
+		previewsNavButtonColor="888888"
+		previewsNavButtonSelectedColor="E77927"
+		
+		previewsInRow="3"
+		previewsTopMargin="20"
+		previewsLeftMargin="0"
+		previewImageWidth="278"
+		previewImageHeight="163"
+		previewSpacing="30"
+		previewImageBgColor="FFFFFF"
+		previewImageBgAlpha="0.3"
+		previewImageBorderColor="FFFFFF"
+		previewImageBorderThickness="1"
+		previewImageShadowColor="999999"
+		previewImageShadowAlpha="0.4"
+		previewImagePadding="0"
+		previewImagePreloaderColor="666666"
+		previewImagePreloaderAlpha="0.5"
+		previewImageOverBrightness="0.4"
+		previewImageBottomMargin="15"
+		previewTitleBottomPadding="10"
+		previewDateBottomPadding="10"
+		previewDateBgColor="88B1BF"
+		previewDateBgAlpha="0.8"
+		
+		showSingleArticle="false"
+		
+		scrollBarTrackWidth="1"
+		scrollBarTrackColor="EEEEEE"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="2"
+		scrollBarSliderColor="CCCCCC"
+		scrollBarSliderOverColor="B5B5B5"
+	/>
+	
+	<category title="2010">
+	
+		<item>
+			<preview>
+				<title><![CDATA[<h2>Design for a Great Cause</h2>]]></title>
+				<image src="images/news/preview08.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">11 Nov 2010</font></previewdate>]]></date>
+				<text><![CDATA[<p>Maecenas porta pretium quam, et rutrum nunc lobortis id. Aliquam lectus sollicitudin metus ut massa pretium fringilla quis ornare nec, sodales mollis nibh. Etiam bibendum mauris molestie nisi dignissim mattis. Vestibulum ac massa magna, vitae volutpat lacus. Quisque tincidunt lacus turpis. Nulla congue suscipit turpis, vitae hendrerit augue facilisis quis. Integer ultrices ultrices leo, pellentesque laoreet dui feugiat vitae. Quisque egestas adipiscing turpis ultricies feugiat.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>New Zealand Coach and Bus Tours</h2>]]></title>
+				<image src="images/news/preview09.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">05 Dec 2010</font></previewdate>]]></date>
+				<text><![CDATA[<p>Phasellus venenatis venenatis enim id ultricies. Nullam quis elit leo, quis fringilla metus lacus adipiscing eu dignissim mauris molestie. Curabitur vitae dolor justo, sed aliquet ligula. Vivamus sapien nibh, aliquam vel condimentum at. Vivamus tellus mauris, pulvinar a tincidunt.</p><mspace></mspace><p>Feugiat convallis lectus. Suspendisse euismod scelerisque nisi sed interdum. Duis orci ligula, malesuada a gravida eu, lobortis at est. Duis suscipit varius lorem vitae volutpat. Maecenas imperdiet cursus feugiat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus. Nunc bibendum nisl vitae augue rutrum porttitor.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>Sustainable City Development</h2>]]></title>
+				<image src="images/news/preview10.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">28 Dec 2010</font></previewdate>]]></date>
+				<text><![CDATA[<p>Aenean non ornare lectus facilisis posuere vehicula. Donec iaculis, dolor et consectetur feugiat, lacus dui vestibulum risus, a elementum lacus velit in tortor. Mauris in pulvinar nunc. Praesent eu libero risus. Donec a volutpat purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</p>]]></text>
+			</preview>
+		</item>
+		
+	</category>
+		
+	<category title="2011">
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>INDEX International Design Exhibition</h2>]]></title>
+				<image src="images/news/preview01.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">12 Jan 2011</font></previewdate>]]></date>
+				<text><![CDATA[<p>Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh. Donec iaculis, dolor et consectetur feugiat, lacus dui vestibulum risus, a elementum lacus velit in tortor. Suspendisse fringilla pellentesque bibendum. Cras scelerisque nisi et lectus facilisis varius. Mauris sodales interdum fringilla. Curabitur ultricies lacus in elit imperdiet id tincidunt eros fringilla.</p><mspace></mspace><p>In ultrices magna non sapien varius sollicitudin. Pellentesque tincidunt lacinia justo, ac convallis turpis rhoncus ut. Maecenas sodales vehicula est eu laoreet.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>We Have Moved to a New Office</h2>]]></title>
+				<image src="images/news/preview02.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">03 Mar 2011</font></previewdate>]]></date>
+				<text><![CDATA[<p>Nunc bibendum nisl vitae augue rutrum porttitor. Integer vel enim mi, sed suscipit neque at enim cursus massa malesuada tempus. Nulla facilisi. Aliquam erat volutpat. Proin elementum augue nec lectus molestie congue nibh mauris tincidunt erat. Donec a volutpat purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam bibendum mauris molestie nisi dignissim mattis. Vestibulum ac massa magna, vitae volutpat lacus elementum quis accumsan sodales.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>Flooring, Wall and Design Products</h2>]]></title>
+				<image src="images/news/preview03.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">09 Apr 2011</font></previewdate>]]></date>
+				<text><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras leo urna, convallis at tincidunt vel, convallis quis nisi. In eleifend ligula sit amet lacus suscipit tristique tempor turpis aliquet. Aliquam erat volutpat. Aenean varius, mi in malesuada congue, odio arcu placerat dui, non tristique purus tellus quis justo. Donec non eros ipsum, vel suscipit enim. Proin at leo a ligula egestas pellentesque. Maecenas porta pretium quam, et rutrum nunc lobortis id.</p><space></space><p><a href="#/services/inline-style/interior-design" target="_self">Read more about Interior Design</a></p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>Real Time Booking Now Available</h2>]]></title>
+				<image src="images/news/preview04.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">21 May 2011</font></previewdate>]]></date>
+				<text><![CDATA[<p>Nam ante ipsum, dictum egestas pharetra ac, tempus ac libero? Aenean non ornare lectus nullam quis elit leo, quis fringilla metus. Morbi at porttitor tellus. Curabitur gravida tincidunt ornare. Sed vulputate, nunc a cursus imperdiet, felis tortor interdum purus, non viverra justo libero et erat:</p><mspace></mspace><ul><li class="previewlist">vitae dolor justo</li><li class="previewlist">metus ut massa pretium vel gravida</li><li class="previewlist">neque volutpat magna.</li></ul><mspace></mspace><p>Etiam sollicitudin lectus vitae velit vulputate quis consequat nunc placerat.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>Terminal B at San Jose International</h2>]]></title>
+				<image src="images/news/preview05.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">06 Jul 2011</font></previewdate>]]></date>
+				<text><![CDATA[<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia. Suspendisse lobortis consequat sapien, at accumsan justo condimentum.</p><mspace></mspace><p>Sed commodo fermentum urna nec rutrum. Nulla fermentum nulla orci. Pellentesque a consectetur lectus. Maecenas in sapien nunc. Duis congue enim non quam malesuada fringilla. Duis placerat tellus sed arcu vehicula ac ultrices eros condimentum. Duis quis elit eu purus fringilla gravida.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>Wine Country and National Parks</h2>]]></title>
+				<image src="images/news/preview06.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">29 Aug 2011</font></previewdate>]]></date>
+				<text><![CDATA[<p>Nam eget enim at tortor euismod sagittis praesent tristique justo tincidunt. Nulla convallis, nisi ac fringilla pharetra, est nulla tincidunt lacus eu tortor. Class aptent taciti sociosqu ad litora torquent per inceptos himenaeos. Morbi lectus orci, elementum quis accumsan sodales, lobortis a mi. Nunc euismod nulla nec mauris pellentesque id porttitor felis placerat. Nunc pellentesque mi placerat nisl posuere laoreet tincidunt metus ullamcorper. Curabitur vitae dolor justo, sed aliquet ligula. Vivamus sapien nibh, aliquam vel condimentum at, convallis ac nulla.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>World Architecture Festival Awards</h2>]]></title>
+				<image src="images/news/preview07.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">11 Oct 2011</font></previewdate>]]></date>
+				<text><![CDATA[<p>Nulla convallis, nisi ac fringilla pharetra, est nulla tincidunt lacus, in auctor eros justo eu rutrum tortor. Lobortis acus turpis fringilla tortor placerat ace. Duis suscipit varius lorem vitae volutpat. Maecenas imperdiet cursus feugiat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus. Nunc bibendum nisl vitae augue rutrum porttitor. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam bibendum mauris molestie nisi dignissim mattis. Vestibulum ac massa magna, vitae volutpat lacus. Vivamus tellus mauris, pulvinar a tincidunt vel, iaculis a eros elementum lacus, eget condimentum est.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>Design for a Great Cause</h2>]]></title>
+				<image src="images/news/preview08.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">02 Dec 2011</font></previewdate>]]></date>
+				<text><![CDATA[<p>Maecenas porta pretium quam, et rutrum nunc lobortis id. Aliquam lectus sollicitudin metus ut massa pretium fringilla quis ornare nec, sodales mollis nibh. Etiam bibendum mauris molestie nisi dignissim mattis. Vestibulum ac massa magna, vitae volutpat lacus. Quisque tincidunt lacus turpis. Nulla congue suscipit turpis, vitae hendrerit augue facilisis quis. Integer ultrices ultrices leo, pellentesque laoreet dui feugiat vitae. Quisque egestas adipiscing turpis ultricies feugiat.</p>]]></text>
+			</preview>
+		</item>
+		
+	</category>
+	
+	<category title="2012">
+	
+		<item>
+			<preview>
+				<title><![CDATA[<h2>INDEX International Design Exhibition</h2>]]></title>
+				<image src="images/news/preview01.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">09 Jan 2012</font></previewdate>]]></date>
+				<text><![CDATA[<p>Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh. Donec iaculis, dolor et consectetur feugiat, lacus dui vestibulum risus, a elementum lacus velit in tortor. Suspendisse fringilla pellentesque bibendum. Cras scelerisque nisi et lectus facilisis varius. Mauris sodales interdum fringilla. Curabitur ultricies lacus in elit imperdiet id tincidunt eros fringilla.</p><mspace></mspace><p>In ultrices magna non sapien varius sollicitudin. Pellentesque tincidunt lacinia justo, ac convallis turpis rhoncus ut. Maecenas sodales vehicula est eu laoreet.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>We Have Moved to a New Office</h2>]]></title>
+				<image src="images/news/preview02.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">15 Feb 2012</font></previewdate>]]></date>
+				<text><![CDATA[<p>Nunc bibendum nisl vitae augue rutrum porttitor. Integer vel enim mi, sed suscipit neque at enim cursus massa malesuada tempus. Nulla facilisi. Aliquam erat volutpat. Proin elementum augue nec lectus molestie congue nibh mauris tincidunt erat. Donec a volutpat purus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam bibendum mauris molestie nisi dignissim mattis. Vestibulum ac massa magna, vitae volutpat lacus elementum quis accumsan sodales.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>Flooring, Wall and Design Products</h2>]]></title>
+				<image src="images/news/preview03.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">13 Mar 2012</font></previewdate>]]></date>
+				<text><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras leo urna, convallis at tincidunt vel, convallis quis nisi. In eleifend ligula sit amet lacus suscipit tristique tempor turpis aliquet. Aliquam erat volutpat. Aenean varius, mi in malesuada congue, odio arcu placerat dui, non tristique purus tellus quis justo. Donec non eros ipsum, vel suscipit enim. Proin at leo a ligula egestas pellentesque. Maecenas porta pretium quam, et rutrum nunc lobortis id.</p><space></space><p><a href="#/services/inline-style/interior-design" target="_self">Read more about Interior Design</a></p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>Real Time Booking Now Available</h2>]]></title>
+				<image src="images/news/preview04.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">29 Apr 2012</font></previewdate>]]></date>
+				<text><![CDATA[<p>Nam ante ipsum, dictum egestas pharetra ac, tempus ac libero? Aenean non ornare lectus nullam quis elit leo, quis fringilla metus. Morbi at porttitor tellus. Curabitur gravida tincidunt ornare. Sed vulputate, nunc a cursus imperdiet, felis tortor interdum purus, non viverra justo libero et erat:</p><mspace></mspace><ul><li class="previewlist">vitae dolor justo</li><li class="previewlist">metus ut massa pretium vel gravida</li><li class="previewlist">neque volutpat magna.</li></ul><mspace></mspace><p>Etiam sollicitudin lectus vitae velit vulputate quis consequat nunc placerat.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>Terminal B at San Jose International</h2>]]></title>
+				<image src="images/news/preview05.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">24 May 2012</font></previewdate>]]></date>
+				<text><![CDATA[<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia. Suspendisse lobortis consequat sapien, at accumsan justo condimentum.</p><mspace></mspace><p>Sed commodo fermentum urna nec rutrum. Nulla fermentum nulla orci. Pellentesque a consectetur lectus. Maecenas in sapien nunc. Duis congue enim non quam malesuada fringilla. Duis placerat tellus sed arcu vehicula ac ultrices eros condimentum. Duis quis elit eu purus fringilla gravida.</p>]]></text>
+			</preview>
+		</item>
+		
+		<item>
+			<preview>
+				<title><![CDATA[<h2>Wine Country and National Parks</h2>]]></title>
+				<image src="images/news/preview06.jpg"/>
+				<date><![CDATA[<previewdate><font color="#FFFFFF">22 Jun 2012</font></font></previewdate>]]></date>
+				<text><![CDATA[<p>Nam eget enim at tortor euismod sagittis praesent tristique justo tincidunt. Nulla convallis, nisi ac fringilla pharetra, est nulla tincidunt lacus eu tortor. Class aptent taciti sociosqu ad litora torquent per inceptos himenaeos. Morbi lectus orci, elementum quis accumsan sodales, lobortis a mi. Nunc euismod nulla nec mauris pellentesque id porttitor felis placerat. Nunc pellentesque mi placerat nisl posuere laoreet tincidunt metus ullamcorper. Curabitur vitae dolor justo, sed aliquet ligula. Vivamus sapien nibh, aliquam vel condimentum at, convallis ac nulla.</p>]]></text>
+			</preview>
+		</item>
+				
+	</category>
+	
+</news>

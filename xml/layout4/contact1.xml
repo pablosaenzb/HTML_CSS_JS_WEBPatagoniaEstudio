@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<contact>
+		
+	<settings
+		
+		phpFileURL="php/mail.php"
+		
+		imageBgColor="000000"
+		imageBgAlpha="0.5"
+		imageBorderColor=""
+		imageBorderThickness=""
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding="0"
+		imagePreloaderColor="CCCCCC"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="666666"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="-0.2"
+		imageZoomIconColor="FFFFFF"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		fieldFont="Droid Sans"
+		filedFontSize="12"
+		fieldFontColor="999999"
+		fieldBgColor="303030"
+		fieldBgAlpha="0.9"
+		focusedFieldBgColor="404040"
+		focusedFieldBgAlpha="1"
+		focusedFieldBorderColor=""
+		sendButtonLabel="SEND MESSAGE"
+		sendButtonColor="C8C09D"
+		sendButtonOverColor="EFB379"
+		infoMessageFontColor="EFB379"
+		
+		scrollBarTrackWidth="1"
+		scrollBarTrackColor="252525"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="2"
+		scrollBarSliderColor="666666"
+		scrollBarSliderOverColor="757575"
+	/>
+	
+	<leftColumn width="500">
+		<image src="images/contact/img3.jpg" width="500" height="350" topMargin="10"><![CDATA[<imagecaption>Here you can place the caption text...</imagecaption>]]></image>
+		<text topMargin=""><![CDATA[]]></text>
+	</leftColumn>
+	
+	<rightColumn leftMargin="30">
+		<info topMargin="10" height=""><![CDATA[<h3>Contact information</h3><space></space><mspace></mspace><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras leo urna, convallis at tincidunt vel, convallis quis nisi.<br></p><p>Address:  123 Main Street #7, San Francisco, CA, 94101</p><mspace></mspace><p>Phone:  (415) 000-1234</p><mspace></mspace><p>Fax:  (415) 000-1235</p><mspace></mspace><p>Email:  <a href="mailto:johndoe@ipsum.com">johndoe@ipsum.com</a></p>]]></info>
+		<form
+			topMargin="30"
+			active="true"
+			successMsg="Your message has been sent. Thank you!"
+			warningMsg="Sending... please wait"
+			errorMsg="There was an error sending the email!"
+		>
+			<name label="Name" errorMsg="Please enter your Name." required="true"/>
+			<email label="Email" errorMsg1="Please enter your Email address." errorMsg2="Please enter the valid email address." required="true"/>
+			<!--<phone label="Phone" errorMsg="Please enter your Phone number." required="false"/>-->
+			<message label="Message" errorMsg="Please enter your Message." required="true"/>
+		</form>
+	</rightColumn>
+	
+</contact>

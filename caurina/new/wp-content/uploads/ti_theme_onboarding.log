@@ -1,0 +1,14 @@
+[20/Aug/2019:18:41:48] (ℹ️): WordPress Instance Info:
+[20/Aug/2019:18:41:48] (ℹ️): Home URL : http://www.patagoniaestudio.com.ar/new
+[20/Aug/2019:18:41:48] (ℹ️): Site URL : http://www.patagoniaestudio.com.ar/new
+[20/Aug/2019:18:41:48] (ℹ️): WordPress Version : 5.2.2
+[20/Aug/2019:18:41:48] (ℹ️): Onboarding Version : 1.6.3
+[20/Aug/2019:18:41:48] (ℹ️): Multisite : No
+[20/Aug/2019:18:41:48] (ℹ️): Server Info : Apache/2.4.39 (cPanel) OpenSSL/1.0.2s mod_bwlimited/1.4 Phusion_Passenger/5.3.7
+[20/Aug/2019:18:41:48] (ℹ️): PHP Version : 5.6.40
+[20/Aug/2019:18:41:48] (ℹ️): HTTPS : No
+[20/Aug/2019:18:41:48] (ℹ️): PHP Max Execution Time : 300
+[20/Aug/2019:18:41:48] (ℹ️): PHP Max Input Vars : 3000
+[20/Aug/2019:18:41:48] (ℹ️): Max Upload Size : 134217728
+[20/Aug/2019:18:41:48] (ℹ️): Plugins:
+[20/Aug/2019:18:41:48] (ℹ️): [PLUGIN] Limit Login Attempts Reloaded : v2.9.0 (WPChef)

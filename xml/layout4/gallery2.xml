@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gallery>
+		
+	<settings
+		
+		showCategoryMenu="true"
+		categoryMenuYPosition="0"
+		categorySpacing="28"
+		categoryFont="Droid Sans"
+		categoryFontSize="13"
+		categoryFontWeight="bold"
+		categoryFontColor="9B998E"
+		categoryOverFontColor="C3C3C3"
+		categorySelectedFontColor="B88C62"
+		
+		previewsControlsYPosition="-15"
+		previewsControlsRightMargin="5"
+		previewsNavButtonColor="888888"
+		previewsNavButtonSelectedColor="B88C62"
+		
+		previewsInRow="4"
+		previewsInCol="3"
+		previewsTopMargin="15"
+		previewWidth="244"
+		previewHeight="142"
+		previewSpacing="0"
+		
+		previewBgColor="333333"
+		previewBgAlpha="0.5"
+		previewBorderColor="555555"
+		previewBorderThickness="1"
+		previewShadowColor=""
+		previewShadowAlpha=""
+		previewPadding="0"
+		previewPreloaderColor="CCCCCC"
+		previewPreloaderAlpha="0.5"
+		previewCaptionBgColor="666666"
+		previewCaptionBgAlpha="0.3"
+		previewCaptionBlurredBg="true"
+		previewCaptionBgBlurAmount="32"
+		previewCaptionPadding="3"
+		previewCaptionAnimationType="slide"
+		previewOverBrightness="-0.2"
+		previewVideoIconSize="30"
+		previewVideoIconColor="FFFFFF"
+		previewVideoIconAlpha="0.5"
+		previewVideoIconOverAlpha="1"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="252525"
+		controlsBarBgAlpha="1"
+		buttonSpacing="6"
+		buttonIconColor="DDDDDD"
+		buttonIconOverColor="333333"
+		buttonBgColor="666666"
+		buttonBgOverColor="B5B5B5"
+		showInfoButton="false"
+		singleItemTextLeftMargin="50"
+		singleItemTextRightMargin="50"
+		singleItemDescriptionHeight=""
+		singleItemDescriptionTopMargin="10"
+		singleItemPreloaderColor="FFFFFF"
+		singleItemPreloaderAlpha="0.5"
+		
+		videoPlayerWidth="853"
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		scrollBarTrackWidth=""
+		scrollBarTrackColor=""
+		scrollBarTrackAlpha=""
+		scrollBarSliderOverWidth=""
+		scrollBarSliderColor=""
+		scrollBarSliderOverColor=""
+	/>
+	
+	<category title="Simply Images">
+			
+		<item>
+			<title><![CDATA[<h2>RED SKY AT SUNSET OVER THE FROSTY MOUNTAINS</h2>]]></title>
+			<preview src="images/gallery/preview24.jpg"><![CDATA[<gallerycaption>Red sky at sunset</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img24.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>METAL SPEAKER</h2>]]></title>
+			<preview src="images/gallery/preview26.jpg"><![CDATA[<gallerycaption>Metal speaker</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img26.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>COMFY LOUNGE</h2>]]></title>
+			<preview src="images/gallery/preview27.jpg"><![CDATA[<gallerycaption>Comfy lounge</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img27.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>ING & YANG</h2>]]></title>
+			<preview src="images/gallery/preview28.jpg"><![CDATA[<gallerycaption>Ing & Yang</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img28.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>CUP OF TEA</h2>]]></title>
+			<preview src="images/gallery/preview29.jpg"><![CDATA[<gallerycaption>Cup of tea</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img29.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>3D</h2>]]></title>
+			<preview src="images/gallery/preview30.jpg"><![CDATA[<gallerycaption>3D</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img30.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>NEW YORK CITY AT NIGHT</h2>]]></title>
+			<preview src="images/gallery/preview31.jpg"><![CDATA[<gallerycaption>NYC at night</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img31.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>MAP AND COMPASS</h2>]]></title>
+			<preview src="images/gallery/preview32.jpg"><![CDATA[<gallerycaption>Map and compass</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img32.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SUNRISE AT MESA ARCH</h2>]]></title>
+			<preview src="images/gallery/preview11.jpg"><![CDATA[<gallerycaption>Sunrise at Mesa Arch</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img11.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>GLASS CUBES</h2>]]></title>
+			<preview src="images/gallery/preview33.jpg"><![CDATA[<gallerycaption>Glass cubes</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img33.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>WHITE CUP OF COFFEE</h2>]]></title>
+			<preview src="images/gallery/preview34.jpg"><![CDATA[<gallerycaption>White cup of coffee</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img34.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>SURFING THE SUNSET</h2>]]></title>
+			<preview src="images/gallery/preview15.jpg"><![CDATA[<gallerycaption>Surfing the sunset</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img15.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>NEW YORK CITY AT NIGHT</h2>]]></title>
+			<preview src="images/gallery/preview31.jpg"><![CDATA[<gallerycaption>NYC at night</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img31.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>METAL SPEAKER</h2>]]></title>
+			<preview src="images/gallery/preview26.jpg"><![CDATA[<gallerycaption>Metal speaker</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img26.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>RED SKY AT SUNSET OVER THE FROSTY MOUNTAINS</h2>]]></title>
+			<preview src="images/gallery/preview24.jpg"><![CDATA[<gallerycaption>Red sky at sunset</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img24.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>GLASS CUBES</h2>]]></title>
+			<preview src="images/gallery/preview33.jpg"><![CDATA[<gallerycaption>Glass cubes</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img33.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>3D</h2>]]></title>
+			<preview src="images/gallery/preview30.jpg"><![CDATA[<gallerycaption>3D</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img30.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h2>MAP AND COMPASS</h2>]]></title>
+			<preview src="images/gallery/preview32.jpg"><![CDATA[<gallerycaption>Map and compass</gallerycaption>]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img32.jpg"/></media>
+		</item>
+		
+		<item>
+			<title><![CDATA[]]></title>
+			<preview src="images/gallery/preview23.jpg"><![CDATA[]]></preview>
+			<description><![CDATA[]]></description>
+			<media><image src="images/gallery/img23.jpg"/></media>
+		</item>
+	
+	</category>
+	
+</gallery>

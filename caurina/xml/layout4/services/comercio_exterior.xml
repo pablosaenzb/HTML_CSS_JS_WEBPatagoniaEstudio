@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+
+
+		imageBgColor="000000"
+		imageBgAlpha="0.5"
+		imageBorderColor=""
+		imageBorderThickness=""
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding="0"
+		imagePreloaderColor="CCCCCC"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="666666"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="-0.2"
+		imageZoomIconColor="FFFFFF"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+
+		videoPlayerShadowColor=""
+		videoPlayerShadowAlpha=""
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="252525"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="666666"
+		scrollBarSliderOverColor="757575"
+		
+		useSlideshow="false"
+		slideshowLeftMargin=""
+		slideshowTopMargin=""
+		slideshowHeight=""
+		slideshowXML=""
+
+	/>
+
+	<content topMargin="0">
+
+
+	    <!-- 	<list topMargin="5" leftMargin="20" markerColor="888888">
+			<item><![CDATA[<p>Nada</p>]]></item>
+		</list> -->
+
+		<cols>
+			<col>
+				<imageblock topMargin="20" leftMargin="0">
+					<image src="images/homepage/teaser10.jpg" width="480" height="320" clickLink="" clickTarget=""/>
+					<caption><![CDATA[<imagecaption>Here you can place the caption text...</imagecaption>]]></caption>
+				</imageblock>
+			</col>
+			<col>
+				<textblock topMargin="25" leftMargin="30">
+
+                      <text><![CDATA[<p>&#8226;  Revisión y presentación de documentación de cierre de permisos de embarque.</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Asesoramiento integral previo a la importación y la exportación.</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Despacho de aduana, de importación, exportación, tránsitos, temporales y toda figura operativa inserta en el código aduanero.</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Valoración de mercadería.</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Evaluación de costos de importación. Cálculo del precio de exportación.</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Confección de documentos de exportación.</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Clasificaciones arancelarias.</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Contratación de seguros, embalajes, medios de transporte, grúas, depósitos fiscales y privados y estibaje.</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Reintegros de Exportaciones: Presentación para su cobro ante DGA</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Reserva de bodegas.</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Operativa bancaria.</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Tipificaciones para obtención de draw back.</p>]]></text>
+
+                      <text><![CDATA[<p>&#8226;  Apertura de carta de crédito.</p>]]></text>      
+
+				</textblock>
+			</col>
+		</cols>
+		
+		<textblock topMargin="20">
+
+
+		</textblock>
+		
+	</content>
+	
+</data>

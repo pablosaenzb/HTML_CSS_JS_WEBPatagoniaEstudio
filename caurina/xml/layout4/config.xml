@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+
+	<general
+		
+		websiteTitle="www.patagoniaestudio.com.ar"
+		templateWidth="980"
+
+		headerHeight="60"
+		headerPattern=""
+		headerBgImage=""
+		headerBgColor=""
+		headerShadow="images/backgrounds/header-shadow4.png"
+
+		logoURL="images/logo2.png"
+		logoXOffset="-10"
+		logoYPosition="0"
+		
+		menuXML="xml/layout4/menu.xml"
+		menuAlign="right"
+		menuXOffset="0"
+		menuYPosition="20"
+		menuSpacing="45"
+		menuFont="League Gothic"
+		menuFontSize="37"
+		menuFontWeight="normal"
+		menuFontColor="d6a23b"
+		menuOverFontColor="E1E1E1"
+		menuSelectedFontColor="E1E1E1"
+		menuOverBgColor=""
+		menuOverBgAlphaTop=""
+		menuOverBgAlphaBottom=""
+		
+		submenuItemHeight="28"
+		submenuFont="PT Sans Narrow"
+		submenuFontSize="14"
+		submenuFontWeight="normal"
+		submenuFontColor="B1B1B1"
+		submenuOverFontColor="FFFFFF"
+		submenuSelectedFontColor="E6DAA5"
+		submenuBgColor="2D2D2D"
+		submenuBgAlpha="1"
+		submenuOverBgColor="404040"
+		submenuOverBgAlpha="1"
+		submenuTopTrimHeight="1"
+		submenuTopTrimColor="C8C09D"
+		submenuTopTrimAlpha="1"
+		submenuShadowColor=""
+		submenuShadowAlpha=""
+		submenuShadowStrength=""
+		submenuShadowDistance=""
+		
+		bodyPattern="images/backgrounds/body-pattern4.png"
+		bodyPatternFullStage="true"
+		bodyBgImage=""
+		bodyBgImageFullStage="false"
+		bodyBgColor=""
+		
+		contentPageMinTopMargin="40"
+		contentPageMaxTopMargin="120"
+		contentPageBgColor=""
+		contentPageBgAlpha=""
+		contentPageLeftMargin="0"
+		contentPageRightMargin="0"
+		styleSheetURL="css/layout4/textstyle.css"
+		
+		breadcrumbsTopMargin="30"
+		breadcrumbIconURL="images/icons/breadcrumb-separator.png"
+		breadcrumbIconTopPadding="6"
+		breadcrumbIconColor="666666"
+		breadcrumbSpacing="14"
+		breadcrumbFont="Droid Sans"
+		breadcrumbFontSize="12"
+		breadcrumbFontColor="777777"
+		breadcrumbOverFontColor="B5B5B5"
+		breadcrumbSelectedFontColor="C8C09D"
+		
+		footerHeight="36"
+		footerLeftMargin="0"
+		footerRightMargin="0"
+		footerPattern=""
+		footerBgImage="images/backgrounds/footer-separator.png"
+		footerBgColor=""
+		showMusicIcon="false"
+		showFullScreenIcon="true"
+		musicAndScreenIconsTopPadding="10"
+		musicAndScreenIconsSpacing="15"
+		musicAndScreenIconsColor="888888"
+		musicAndScreenIconsOverBrightness="0.7"
+		socialIconsTopPadding="8"
+		socialIconsSpacing="6"
+		socialIconsOverBrightness="0.2"
+		
+		showPreloader="true"
+		preloaderColor="CCCCCC"
+		preloaderAlpha="0.5"
+		
+	/>                                
+	
+	<music enabled="false" bufferTime="3000" volume="0.9">
+		<track src="music/ambiphonic.mp3"/>
+		<track src="music/i_can_fly.mp3"/>
+	</music>
+
+	<footertext topPadding="8" leftPadding="40">
+		<![CDATA[<footer>Copyright © 2017. Todos los derechos reservados</a>.</footer>]]>
+	</footertext>
+
+    <frase>
+		<![CDATA[Consultoría contable impositiva & comercio exterior]]>
+	</frase>
+
+</settings>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+
+		imageBgColor="000000"
+		imageBgAlpha="0.5"
+		imageBorderColor=""
+		imageBorderThickness=""
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding="0"
+		imagePreloaderColor="CCCCCC"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="666666"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="-0.2"
+		imageZoomIconColor="FFFFFF"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+
+		videoPlayerShadowColor=""
+		videoPlayerShadowAlpha=""
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="252525"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="666666"
+		scrollBarSliderOverColor="757575"
+
+		useSlideshow="false"
+		slideshowLeftMargin=""
+		slideshowTopMargin=""
+		slideshowHeight=""
+		slideshowXML=""
+
+	/>
+
+	<content topMargin="0">
+
+		<textblock topMargin="15">
+			<text><![CDATA[<p><span class="bold2">Visión</span></p>]]></text>
+		</textblock>
+		
+
+		<textblock topMargin="0">
+			<text><![CDATA[<p>Instaurar una nueva forma de Administración de Empresas, que mediante una visión estratégica e integral, auspicie el éxito y la eficiencia de los negocios y contribuya con un mayor bienestar social.</p>]]></text>
+		</textblock>
+
+		<textblock topMargin="15">
+			<text><![CDATA[<p><span class="bold2">Misión</span></p>]]></text>
+		</textblock>
+		
+
+		<textblock topMargin="0">
+			<text><![CDATA[<p>Brindar un servicio integral a empresas e individuos, asistiendo en la dirección de negocios y generando posibilidades reales de ahorro.</p>]]></text>
+		</textblock>
+
+		<textblock topMargin="15">
+			<text><![CDATA[<p><span class="bold2">Valores</span></p>]]></text>
+		</textblock>
+		
+
+		<list topMargin="5" leftMargin="20" markerColor="888888">
+			<item><![CDATA[<p>Nuestro compromiso es brindar un servicio de calidad, eficiente y responsable, colaborando con el crecimiento y resultado de sus negocios y proyectos.</p>]]></item>
+			<item><![CDATA[<p>La comunicación es la principal herramienta de trabajo de un profesional. Por eso en <span class="estudio">Patagonia Estudio</span>, proponemos un canal abierto de comunicación que refleja claridad, objetividad y precisión en los mensajes.</p>]]></item>
+			<item><![CDATA[<p>La confianza es la plataforma fundamental para el desarrollo y fortalecimiento de vínculos duraderos. En <span class="estudio">Patagonia Estudio</span>, brindamos la confiabilidad para emprender y desarrollar sus negocios.</p>]]></item>
+			<item><![CDATA[<p>En <span class="estudio">Patagonia Estudio</span> promovemos el trabajo en equipo y el intercambio de ideas y talentos de las personas, optimizando de esta forma, el resultado de nuestros servicios.</p>]]></item>
+		</list>
+
+		<cols>
+			<col>
+				<imageblock topMargin="25" leftMargin="0">
+					<image src="images/aboutus/img2.jpg" width="360" height="202" clickLink="" clickTarget=""/>
+					<caption><![CDATA[<imagecaption>Here you can place the caption text...</imagecaption>]]></caption>
+				</imageblock>
+			</col>
+			<col>
+			<textblock topMargin="25" leftMargin="30">
+			<text><![CDATA[<p><span class="bold2">Nuestro Equipo</span></p>]]></text>
+		</textblock>
+				<textblock topMargin="25" leftMargin="30">
+					<text><![CDATA[<p><span class="estudio">Patagonia Estudio</span> está formado por especialistas en tributación, seguridad social, contabilidad, auditoría, administración y comercio exterior, analíticos y proactivos, que se encuentran en continuo crecimiento y capacitación.
+Nuestro conocimiento, habilidad y experiencia en la gestión de negocios son las herramientas que garantizan el mejor servicio para su empresa.</p>]]></text>
+				</textblock>
+			</col>
+		</cols>
+
+
+	</content>
+
+</data>

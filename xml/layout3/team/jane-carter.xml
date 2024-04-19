@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+	
+		imageBgColor="FFFFFF"
+		imageBgAlpha="0.3"
+		imageBorderColor="FFFFFF"
+		imageBorderThickness="1"
+		imageShadowColor="999999"
+		imageShadowAlpha="0.4"
+		imagePadding="0"
+		imagePreloaderColor="666666"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="000000"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="0"
+		imageZoomIconColor="000000"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor="B5B5B5"
+		videoPlayerShadowAlpha="0.5"
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="FFFFFF"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="B5B5B5"
+		scrollBarSliderOverColor=""
+		
+		useSlideshow="false"
+		slideshowLeftMargin=""
+		slideshowTopMargin=""
+		slideshowHeight=""
+		slideshowXML=""
+
+	/>
+	
+	<content topMargin="0">
+	
+		<textblock topMargin="0">
+			<text><![CDATA[<p>This is a standard page created with the <b>Standard Page</b> module. The Phlex template uses the original internal system for arranging HTML text, images and videos on pages. This universal system of content blocks can be completely used in all standard pages (the Standard Page module) and partly in some other modules.</p>]]></text>
+		</textblock>
+		
+		<cols>
+			<col>
+				<imageblock topMargin="25" leftMargin="0">
+					<image src="images/team/jane-carter.png" width="320" height="360" clickLink="" clickTarget=""/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+			</col>
+			<col>
+				<separator topMargin="25" leftMargin="30" width="520" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<table topMargin="20" leftMargin="30" borderColor="" borderThickness="0">
+					<tr height="24">
+						<th width="100" bgcolor="" align="left"><![CDATA[<p><b>Position:</b></p>]]></th>
+						<th width="300" bgcolor="" align="left"><![CDATA[<p>Chief Executive Officer</p>]]></th>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p><b>Team Status:</b></p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>Full-Time Employee</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p><b>Phone:</b></p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p>(415) 000-1234</p>]]></td>
+					</tr>
+					<tr height="24">
+						<td bgcolor="" align="left"><![CDATA[<p><b>Email:</b></p>]]></td>
+						<td bgcolor="" align="left"><![CDATA[<p><a href="mailto:janecarter@company.com" target="_blank">janecarter@company.com</a></p>]]></td>
+					</tr>
+				</table>
+				<separator topMargin="10" leftMargin="30" width="520" height="1" color="CCCCCC" iconURL="images/icons/dashed-line.png"/>
+				<textblock topMargin="25" leftMargin="30">
+					<text><![CDATA[<p>Suspendisse euismod scelerisque nisi sed interdum. Duis orci ligula, malesuada a gravida eu, lobortis at est. Duis suscipit varius lorem vitae volutpat. Maecenas imperdiet cursus feugiat.</p><space></space><p><b>Areas of Work:</b></p>]]></text>
+				</textblock>
+				<list topMargin="10" leftMargin="30" markerColor="777777">
+					<item><![CDATA[<p>Aenean non ornare lectus donec facilisis posuere vehicula.</p>]]></item>
+					<item><![CDATA[<p>Morbi porta, urna at euismod placerat, nibh mauris tincidunt erat, quis lobortis leo augue ac erat. Nullam tortor leo, tristique ac tempus eget, vestibulum nec ante.</p>]]></item>
+					<item><![CDATA[<p>Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh.</p>]]></item>
+					<item><![CDATA[<p>Vestibulum quis dui ornare neque sit magna cursus massa.</p>]]></item>
+					<item><![CDATA[<p>Class aptent taciti sociosqu ad litora torquent per nostra, per himenaeos.</p>]]></item>
+					<item><![CDATA[<p>Nullam lorem lorem, bibendum eu facilisis eu, feugiat convallis lectus. Suspendisse euismod scelerisque nisi sed interdum.</p>]]></item>
+				</list>
+			</col>
+		</cols>
+		
+	</content>
+	
+</data>

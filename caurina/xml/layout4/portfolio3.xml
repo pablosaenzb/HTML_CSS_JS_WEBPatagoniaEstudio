@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<portfolio>
+		
+	<settings
+		
+		showCategoryMenu="false"
+		categoryMenuYPosition=""
+		categorySpacing=""
+		categoryFont=""
+		categoryFontSize=""
+		categoryFontWeight=""
+		categoryFontColor=""
+		categoryOverFontColor=""
+		categorySelectedFontColor=""
+		
+		previewsControlsYPosition="-15"
+		previewsControlsRightMargin="5"
+		previewsNavButtonColor="888888"
+		previewsNavButtonSelectedColor="B88C62"
+		
+		previewsInRow="3"
+		previewsInCol="2"
+		previewsTopMargin="15"
+		previewWidth="300"
+		previewHeight="212"
+		previewSpacing="34"
+		
+		previewBgColor="252525"
+		previewBgAlpha="0.9"
+		previewOverBgColor=""
+		previewBorderColor="555555"
+		previewBorderThickness="1"
+		previewOverBorderColor="B88C62"
+		previewShadowColor=""
+		previewShadowAlpha=""
+		previewPadding="1"
+		previewPreloaderColor="CCCCCC"
+		previewPreloaderAlpha="0.5"
+		previewCaptionFontColor=""
+		previewCaptionOverFontColor=""
+		previewCaptionBgColor=""
+		previewCaptionBgAlpha=""
+		previewCaptionOverBgColor=""
+		previewCaptionOverBgAlpha=""
+		previewCaptionBlurredBg="false"
+		previewCaptionBgBlurAmount=""
+		previewCaptionTopBottomPadding="5"
+		previewCaptionLeftRightPadding="5"
+		previewOverBrightness="-0.2"
+		
+		projectAreaYPosition="0"
+		projectHeaderHeight="38"
+		projectAlign="center"
+		projectControlsRightMargin="5"
+		projectListButtonURL="images/icons/list.png"
+		projectLeftNavButtonURL="images/icons/left-arrow-type2.png"
+		projectRightNavButtonURL="images/icons/right-arrow-type2.png"
+		projectNavButtonSpacing="6"
+		projectButtonColor="666666"
+		projectButtonOverColor="999999"
+		projectControlsSeparatorURL=""
+		projectControlsSeparatorColor=""
+		projectTitleTopMargin="2"
+		projectContentTopMargin=""
+		showProjectDescription="false"
+		
+		bigImageWidth="980"
+		bigImageHeight="396"
+		bigImageBgColor="000000"
+		bigImageBgAlpha="0.5"
+		bigImageBorderColor=""
+		bigImageBorderThickness=""
+		bigImagePadding="0"
+		bigImagePreloaderColor="CCCCCC"
+		bigImagePreloaderAlpha="0.5"
+		bigImageCaptionBgColor="333333"
+		bigImageCaptionBgAlpha="0.4"
+		bigImageCaptionBlurredBg="true"
+		bigImageCaptionBgBlurAmount="32"
+		bigImageCaptionPadding="5"
+		bigImageOverBrightness="-0.2"
+		bigImageZoomIconColor="FFFFFF"
+		bigImageZoomIconAlpha="0"
+		bigImageZoomIconOverAlpha="0.9"
+		bigImageRightMargin="30"
+		
+		thumbnailsVisible="10"
+		thumbnailsAlign="center"
+		thumbnailsTopMargin="10"
+		thumbnailWidth="60"
+		thumbnailHeight="36"
+		thumbnailSpacing="10"
+		thumbnailBgColor="000000"
+		thumbnailBgAlpha="0.5"
+		thumbnailBorderColor=""
+		thumbnailSelectedBorderColor="EFB379"
+		thumbnailBorderThickness="1"
+		thumbnailShadowColor=""
+		thumbnailShadowAlpha=""
+		thumbnailPreloaderColor=""
+		thumbnailPreloaderAlpha=""
+		thumbnailOverBrightness="0.3"
+		thumbnailVideoIconSize="24"
+		thumbnailVideoIconColor="FFFFFF"
+		thumbnailVideoIconAlpha="0.5"
+		thumbnailVideoIconOverAlpha="1"
+		thumbnailsLeftNavButtonURL="images/icons/left-arrow-type3.png"
+		thumbnailsRightNavButtonURL="images/icons/right-arrow-type3.png"
+		thumbnailsNavButtonColor="666666"
+		thumbnailsNavButtonOverColor="999999"
+		thumbnailsNavButtonPadding="10"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor=""
+		videoPlayerShadowAlpha=""
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL=""
+		listItemMarkerTopPadding=""
+		listItemLeftPadding=""
+		listItemBottomPadding=""
+		scrollBarTrackWidth=""
+		scrollBarTrackColor=""
+		scrollBarTrackAlpha=""
+		scrollBarSliderOverWidth=""
+		scrollBarSliderColor=""
+		scrollBarSliderOverColor=""
+	/>
+	
+	<category title="">
+	
+		<item>
+			<title><![CDATA[<h3>AQUA RESORT PROJECT</h3>]]></title>
+			<preview src="images/portfolio/p1/preview-300x165.jpg"><![CDATA[<portfoliocaption><center><font color="#C8C09D">AQUA RESORT PROJECT<br></font><mmspace></mmspace><font color="#888888">Nulla ornare neque sit amet magna volutpat</font></center></portfoliocaption>]]></preview>
+			<description></description>
+			<media>
+				<image src="images/portfolio/p1/img3b.jpg" tn="images/portfolio/p1/img3-tn.jpg"><![CDATA[<imagecaption>Here you can place the caption for the first image or description of the project</imagecaption>]]></image>
+				<image src="images/portfolio/p1/img4b.jpg" tn="images/portfolio/p1/img4-tn.jpg"><![CDATA[<imagecaption>Here you can place the caption for the second image or description of the project</imagecaption>]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>KINGDOM HALL LANDSCAPE DESIGN</h3>]]></title>
+			<preview src="images/portfolio/p2/preview-300x165-dark.jpg"><![CDATA[<portfoliocaption><center><font color="#C8C09D">KINGDOM HALL LANDSCAPE DESIGN<br></font><mmspace></mmspace><font color="#888888">Mauris rhoncus aliquet lectus</font></center></portfoliocaption>]]></preview>
+			<description></description>
+			<media>
+				<image src="images/portfolio/p2/img3b.jpg" tn=""><![CDATA[<imagecaption>Mauris rhoncus aliquet lectus</imagecaption>]]></image>
+			</media>
+		</item>
+			
+		<item>
+			<title><![CDATA[<h3>LANDSCAPE DESIGN FOR A CITY PARK</h3>]]></title>
+			<preview src="images/portfolio/p3/preview-300x165-dark.jpg"><![CDATA[<portfoliocaption><center><font color="#C8C09D">LANDSCAPE DESIGN FOR A CITY PARK<br></font><mmspace></mmspace><font color="#888888">Suspendisse lobortis consequat sapien justo</font></center></portfoliocaption>]]></preview>
+			<description></description>
+			<media>
+				<image src="images/portfolio/p3/img3b.jpg" tn=""><![CDATA[<imagecaption>Suspendisse lobortis consequat sapien justo</imagecaption>]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>PLAYGROUND IN A LANDSCAPE PARK</h3>]]></title>
+			<preview src="images/portfolio/p4/preview-300x165-dark.jpg"><![CDATA[<portfoliocaption><center><font color="#C8C09D">PLAYGROUND IN A LANDSCAPE PARK<br></font><mmspace></mmspace><font color="#888888">Vivamus sit amet lacus posuere lacus</font></center></portfoliocaption>]]></preview>
+			<description></description>
+			<media>
+				<image src="images/portfolio/p4/img6b.jpg" tn="images/portfolio/p4/img6-tn.jpg"><![CDATA[<imagecaption>Vivamus sit amet lacus posuere lacus. View 1</imagecaption>]]></image>
+				<image src="images/portfolio/p4/img7b.jpg" tn="images/portfolio/p4/img7-tn.jpg"><![CDATA[<imagecaption>Vivamus sit amet lacus posuere lacus. View 2</imagecaption>]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>BUILDING A STONE WALKWAY IN A CITY PARK</h3>]]></title>
+			<preview src="images/portfolio/p5/preview-300x165-dark.jpg"><![CDATA[<portfoliocaption><center><font color="#C8C09D">BUILDING A STONE WALKWAY<br></font><mmspace></mmspace><font color="#888888">Cras leo urna convallis at tincidunt</font></center></portfoliocaption>]]></preview>
+			<description></description>
+			<media>
+				<image src="images/portfolio/p5/img2b.jpg" tn=""><![CDATA[<imagecaption>Cras leo urna convallis at tincidunt</imagecaption>]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>ECO LIGHTING DESIGN</h3>]]></title>
+			<preview src="images/portfolio/p7/preview-300x165-dark.jpg"><![CDATA[<portfoliocaption><center><font color="#C8C09D">ECO LIGHTING DESIGN<br></font><mmspace></mmspace><font color="#888888">Donec iaculis dolor et consectetur feugiat</font></center></portfoliocaption>]]></preview>
+			<description></description>
+			<media>
+				<image src="images/portfolio/p7/img4b.jpg" tn="images/portfolio/p7/img4-tn.jpg"><![CDATA[<imagecaption>Donec iaculis dolor et consectetur feugiat</imagecaption>]]></image>
+				<image src="images/portfolio/p7/img5b.jpg" tn="images/portfolio/p7/img5-tn.jpg"><![CDATA[]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>THE MAXWELL SCHOOL OF ARTS</h3>]]></title>
+			<preview src="images/portfolio/p8/preview-300x165-dark.jpg"><![CDATA[<portfoliocaption><center><font color="#C8C09D">THE MAXWELL SCHOOL OF ARTS<br></font><mmspace></mmspace><font color="#888888">Tristique ac tempus eget vestibulum nec ante</font></center></portfoliocaption>]]></preview>
+			<description></description>
+			<media>
+				<image src="images/portfolio/p8/img4b.jpg" tn="images/portfolio/p8/img4-tn.jpg"><![CDATA[<imagecaption>Tristique ac tempus eget vestibulum nec ante</imagecaption>]]></image>
+				<image src="images/portfolio/p8/img6b.jpg" tn="images/portfolio/p8/img6-tn.jpg"><![CDATA[<imagecaption>Tristique ac tempus eget vestibulum nec ante</imagecaption>]]></image>
+			</media>
+		</item>
+		
+		<item>
+			<title><![CDATA[<h3>ASTERA ART STUDIO</h3>]]></title>
+			<preview src="images/portfolio/p10/preview-300x165-dark.jpg"><![CDATA[<portfoliocaption><center><font color="#C8C09D">ASTERA ART STUDIO<br></font><mmspace></mmspace><font color="#888888">Aliquam lectus ligula fringilla</font></center></portfoliocaption>]]></preview>
+			<description></description>
+			<media>
+				<image src="images/portfolio/p10/img5b.jpg" tn="images/portfolio/p10/img5-tn.jpg"><![CDATA[<imagecaption>Aliquam lectus ligula fringilla</imagecaption>]]></image>
+				<image src="images/portfolio/p10/img6b.jpg" tn="images/portfolio/p10/img6-tn.jpg"><![CDATA[<imagecaption>Aliquam lectus ligula fringilla</imagecaption>]]></image>
+			</media>
+		</item>
+	
+	</category>
+	
+</portfolio>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+	
+		imageBgColor="FFFFFF"
+		imageBgAlpha="0.9"
+		imageBorderColor="CCCCCC"
+		imageBorderThickness="1"
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding="1"
+		imagePreloaderColor="666666"
+		imagePreloaderAlpha="0.5"
+		imageCaptionBgColor="000000"
+		imageCaptionBgAlpha="0.3"
+		imageCaptionBlurredBg="true"
+		imageCaptionBgBlurAmount="32"
+		imageCaptionPadding="5"
+		imageOverBrightness="0.3"
+		imageZoomIconColor="000000"
+		imageZoomIconAlpha="0"
+		imageZoomIconOverAlpha="0.9"
+		
+		overlayBgColor="000000"
+		overlayBgAlpha="0.9"
+		controlsBarBgColor="000000"
+		controlsBarBgAlpha="0.5"
+		buttonIconColor="333333"
+		buttonIconOverColor="FFFFFF"
+		buttonBgColor="FEFEFE"
+		buttonBgOverColor="999999"
+		
+		videoPlayerShadowColor="B5B5B5"
+		videoPlayerShadowAlpha="0.5"
+		videoBufferTime="3"
+		videoSoundVolume="0.85"
+		showVideoControls="true"
+		videoControlsAutoHide="true"
+		videoControlsAutoHideDelay="3"
+		videoControlsBgColor="FFFFFF"
+		videoControlsSeparatorColor="E5E5E5"
+		videoControlsButtonColor="777777"
+		videoControlsButtonOverColor="444444"
+		soundVolumeBarFillColor="FFCC99"
+		soundVolumeBarBgColor="EEEEEE"
+		timelineBgColor="EEEEEE"
+		timelineSeekBarColor="CCCCCC"
+		timelinePlayBarColor="606060"
+		screenPlayButtonSize="62"
+		screenPlayButtonIconColor="FFFFFF"
+		screenPlayButtonBgColor="000000"
+		screenPlayButtonAlpha="0.5"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="2"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="FEFEFE"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="CCCCCC"
+		scrollBarSliderOverColor="B5B5B5"
+		
+		useSlideshow="false"
+		slideshowLeftMargin=""
+		slideshowTopMargin=""
+		slideshowHeight=""
+		slideshowXML=""
+
+	/>
+	
+	<content topMargin="0">
+		
+		<textblock topMargin="0">
+			<text><![CDATA[<p>This is a standard page created with the <b>Standard Page</b> module. In this example, the page is divided into 3 columns.</p>]]></text>
+		</textblock>
+	
+		<cols>
+			<col>
+				<textblock topMargin="30" leftMargin="0" width="300">
+					<text><![CDATA[<p><b>Luctus ultrices posuere cubilia</b></p><mspace></mspace><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras leo urna, convallis at tincidunt vel, convallis quis nisi. In eleifend ligula sit amet lacus suscipit tristique empor turpis aliquet. Etiam sollicitudin turpis in quam tincidunt lacinia. Vivamus diam eros, consectetur eu eleifend quis, varius et felis. Nam eget enim at tortor euismod sagittis. Aliquam gravida tortor eu nulla congue posuere.</p>]]></text>
+				</textblock>
+				<imageblock topMargin="15" leftMargin="0">
+					<image src="images/standard_page/img3.jpg" width="290" height="164" clickLink="" clickTarget=""/>
+					<caption><![CDATA[<imagecaption>Caption text goes here....</imagecaption>]]></caption>
+				</imageblock>
+				<textblock topMargin="15" leftMargin="0" width="300">
+					<text><![CDATA[<p>Class aptent taciti sociosqu ad litora torquent conubia nostra, per inceptos himenaeos. Etiam bibendum mauris molestie nisi dignissim.</p><mspace></mspace><p>Phasellus consectetur egestas erat, at euismod nisl sodales a. Vivamus sit amet lacus posuere lacus ullamcorper tempus.Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at enim cursus massa malesuada tempus. Praesent congue molestie tristique. Nullam tortor leo, tristique ac tempus eget, vestibulum nec ante.</p><mspace></mspace><p>Mauris rhoncus aliquet lectus, lobortis fringilla tortor placerat ac. Vestibulum quis dui dui. Nulla ornare neque sit amet magna volutpat cursus sit amet sollicitudin massa. Maecenas porta pretium quam, et rutrum nunc lobortis id. Aenean cursus, justo ut tristique tincidunt, sapien turpis egestas nisi, non ultricies lorem risus nec neque. In nec quam sit amet erat iaculis cursus. Morbi porta, urna at euismod placerat, nibh mauris erat.</p>]]></text>
+				</textblock>
+			</col>
+			<col>
+				<textblock topMargin="30" leftMargin="25" width="300">
+					<text><![CDATA[<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae tincidunt diam sit amet lacus adipiscing eu dignissim mauris turpis, congue volutpat augue.  Suspendisse lobortis consequat sapien, at accumsan justo condimentum.</p><space></space><p><b>Vivamus sit amet lacus posuere lacus</b></p><mspace></mspace><p>Maecenas imperdiet cursus feugiat. Vivamus sollicitudin metus ut massa pretium vel gravida arcu cursus. Nunc bibendum nisl vitae augue rutrum porttitor. Proin <a href="#/company/standard-page-elements">elementum augue</a> nec lectus molestie congue. Duis sed quam massa, molestie sapien. Ipsum primis in faucibus orci luctus et ultrices posuere. Nullam tortor leo, tristique ac tempus eget, vestibulum nec ante. Mauris rhoncus aliquet lectus, lobortis fringilla tortor placerat ac. Vestibulum quis dui. Nulla ornare neque sit amet magna volutpat cursus sit amet sollicitudin.</p><mspace></mspace><p>Sed blandit dapibus fermentum duis sed congue molestie tristique quam massa:</p>]]></text>
+				</textblock>
+				<list topMargin="5" leftMargin="35" width="290" markerColor="777777">
+					<item><![CDATA[<p>vestibulum quis donec posuere cursus placer</p>]]></item>
+					<item><![CDATA[<p>urna at euismod nibh mauris quis</p>]]></item>
+					<item><![CDATA[<p>aliquam lectus ligula, fringilla quis ornare.</p>]]></item>
+				</list>
+				<textblock topMargin="10" leftMargin="25" width="300">
+					<text><![CDATA[<p>Donec quis laoreet augue. In ultrices magna non sapien varius sollicitudin. Pellentesque tincidunt lacinia justo, ac convallis turpis rhoncus ut. Maecenas sodales vehicula est eu laoreet. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi lectus orci, elementum quis accumsan sodales, lobortis a mi. Nunc euismod nulla nec mauris pellentesque id porttitor felis placerat. Nunc pellentesque mi placerat nisl posuere laoreet tincidunt metus ullamcorper. Curabitur vitae dolor justo, sed aliquet ligula. Vivamus sapien nibh, aliquam vel condimentum at, convallis ac nulla at enim cursus massa malesuada tempus.</p>]]></text>
+				</textblock>
+			</col>
+			<col>
+				<textblock topMargin="30" leftMargin="25" width="300">
+					<text><![CDATA[<p>Nullam tortor leo, tristique ac tempus eget, vestibulum nec ante. Mauris rhoncus aliquet lectus, lobortis fringilla tortor placerat ac.</p><space></space><p><b>Ornare neque sit amet magna</b></p><mspace></mspace><p>Vestibulum quis dui dui. Nulla neque sit amet magna volutpat cursus sit amet sollicitudin massa. Sed a sapien ac odio fringilla accumsan. Sed blandit dapibus fermentum.</p><mspace></mspace><p>Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam bibendum mauris molestie nisi dignissim mattis.</p>]]></text>
+				</textblock>
+				<imageblock topMargin="15" leftMargin="25">
+					<image src="images/standard_page/img4a.jpg" width="290" height="164" clickLink="#/company/standard-page-elements" clickTarget="_self"/>
+					<caption><![CDATA[]]></caption>
+				</imageblock>
+				<textblock topMargin="15" leftMargin="25" width="300">
+					<text><![CDATA[<p>Aliquam lectus ligula, fringilla quis ornare nec, sodales mollis nibh. Mauris in pulvinar nunc. Praesent eu libero risus. Donec a volutpat purus. Vivamus tellus mauris, pulvinar a tincidunt vel, iaculis a eros metus ut massa pretium vel gravida arcu consectetur adipiscing cursus.</p>]]></text>
+				</textblock>
+				<link topMargin="10" leftMargin="25" leftPadding="15" color="577C95" hoverColor="22333C" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/company/standard-page-elements" clickTarget="_self"><![CDATA[<link>Read more</link>]]></link>
+			</col>
+		</cols>
+		
+	</content>
+	
+</data>

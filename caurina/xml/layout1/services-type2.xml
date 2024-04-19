@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<services>
+		
+	<settings
+		
+		servicesType="2"
+		controlsYPosition=""
+		controlsRightMargin=""
+		navButtonColor=""
+		navButtonSelectedColor=""
+		
+		itemsInRow="3"
+		itemsTopMargin="10"
+		itemsLeftMargin="0"
+		itemWidth="300"
+		itemHeight=""
+		itemHSpacing="40"
+		itemVSpacing="40"
+		
+		imageBgColor=""
+		imageBgAlpha=""
+		imageBorderColor=""
+		imageBorderThickness=""
+		imageShadowColor=""
+		imageShadowAlpha=""
+		imagePadding=""
+		imagePreloaderColor="666666"
+		imagePreloaderAlpha="0"
+		imageOverBrightness=""
+		imageLinkIconAlpha=""
+		imageLinkIconOverAlpha=""
+		imageTopMargin="0"
+		imageBottomMargin=""
+		imageRightMargin="10"
+		
+		titleBottomPadding="10"
+		
+		listItemMarkerURL="images/icons/list-item-marker-type3.png"
+		listItemMarkerTopPadding="7"
+		listItemLeftPadding="12"
+		listItemBottomPadding="3"
+			
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="FEFEFE"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="CCCCCC"
+		scrollBarSliderOverColor="B5B5B5"
+	/>
+	
+	<service>
+		<title><![CDATA[<h2>Landscape Architecture</h2>]]></title>
+		<image src="images/services/icon1.png" clickLink="" clickTarget=""/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia. Suspendisse lobortis consequat sapien, at accumsan justo condimentum.</p>]]></text>
+			</textblock>
+			<list topMargin="10" leftMargin="0" markerColor="666666">
+				<item><![CDATA[<p>Donec facilisis posuere vehicula</p>]]></item>
+				<item><![CDATA[<p>Morbi porta, urna at euismod</p>]]></item>
+				<item><![CDATA[<p>Aliquam lectus ligula fringilla</p>]]></item>
+				<item><![CDATA[<p>Etiam sollicitudin lectus vitae velit</p>]]></item>
+			</list>
+		</content>
+	</service>
+	
+	<service>
+		<title><![CDATA[<h2>Interior Design</h2>]]></title>
+		<image src="images/services/icon2.png" clickLink="" clickTarget=""/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Suspendisse lobortis consequat sapien, at accumsan justo condimentum a. Nulla facilisi. Aliquam erat volutpat.</p>]]></text>
+			</textblock>
+			<list topMargin="10" leftMargin="0" markerColor="666666">
+				<item><![CDATA[<p>Morbi porta at euismod placerat</p>]]></item>
+				<item><![CDATA[<p>Aliquam lectus ligula fringilla</p>]]></item>
+				<item><![CDATA[<p>Donec facilisis posuere vehicula</p>]]></item>
+				<item><![CDATA[<p>Etiam sollicitudin lectus vitae velit</p>]]></item>
+			</list>
+			<link topMargin="10" leftMargin="0" leftPadding="15" color="577C95" hoverColor="22333C" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/services/grid-style" clickTarget="_self"><![CDATA[<link>Learn more</link>]]></link>
+		</content>
+	</service>
+	
+	<service>
+		<title><![CDATA[<h2>Brand Strategy</h2>]]></title>
+		<image src="images/services/icon5.png" clickLink="" clickTarget=""/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Integer vel enim mi, sed suscipit neque sollicitudin at enim cursus massa malesuada tempus. Praesent congue molestie tristique.</p>]]></text>
+			</textblock>
+			<list topMargin="10" leftMargin="0" markerColor="666666">
+				<item><![CDATA[<p>Etiam sollicitudin lectus vitae velit</p>]]></item>
+				<item><![CDATA[<p>Porta urna at euismod placerat</p>]]></item>
+				<item><![CDATA[<p>Aliquam lectus ligula fringilla</p>]]></item>
+			</list>
+			<link topMargin="10" leftMargin="0" leftPadding="15" color="577C95" hoverColor="22333C" iconURL="images/icons/link.png" iconTopPadding="7" clickLink="#/services/grid-style" clickTarget="_self"><![CDATA[<link>Learn more</link>]]></link>
+		</content>
+	</service>
+	
+	<service>
+		<title><![CDATA[<h2>Electrical Engineering</h2>]]></title>
+		<image src="images/services/icon4.png" clickLink="" clickTarget=""/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Nulla ornare neque sit amet magna volutpat cursus sit amet sollicitudin massa. Sed a sapien ac odio fringilla accumsan. Sed blandit dapibus fermentum.</p>]]></text>
+			</textblock>
+			<list topMargin="10" leftMargin="0" markerColor="666666">
+				<item><![CDATA[<p>Donec facilisis posuere vehicula</p>]]></item>
+				<item><![CDATA[<p>Etiam sollicitudin lectus vitae velit</p>]]></item>
+				<item><![CDATA[<p>Morbi porta euismod placerat</p>]]></item>
+				<item><![CDATA[<p>Aliquam lectus ligula fringilla</p>]]></item>
+			</list>
+		</content>
+	</service>
+	
+	<service>
+		<title><![CDATA[<h2>Master Planning</h2>]]></title>
+		<image src="images/services/icon6.png" clickLink="" clickTarget=""/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Nulla ornare neque sit amet magna volutpat cursus sit amet massa. Aliquam lectus ligula, fringilla quis ornare nec.</p>]]></text>
+			</textblock>
+			<list topMargin="10" leftMargin="0" markerColor="666666">
+				<item><![CDATA[<p>Maecenas imperdiet cursus</p>]]></item>
+				<item><![CDATA[<p>Mauris auctor nulla sit amet molestie interdum in faucibus</p>]]></item>
+			</list>
+		</content>
+	</service>
+	
+	<service>
+		<title><![CDATA[<h2>Construction Administration</h2>]]></title>
+		<image src="images/services/icon3.png" clickLink="" clickTarget=""/>
+		<content>
+			<textblock topMargin="0" leftMargin="0">
+				<text><![CDATA[<p>Etiam sollicitudin lectus vitae velit vulputate quis consequat nunc placerate. In ac risus quam, in congue purus.</p>]]></text>
+			</textblock>
+			<list topMargin="10" leftMargin="0" markerColor="666666">
+				<item><![CDATA[<p>Nullam tortor leo, tristique ac tempus</p>]]></item>
+				<item><![CDATA[<p>Aliquam lectus ligula fringilla</p>]]></item>
+				<item><![CDATA[<p>Etiam sollicitudin lectus vitae velit</p>]]></item>
+			</list>
+		</content>
+	</service>
+	
+</services>

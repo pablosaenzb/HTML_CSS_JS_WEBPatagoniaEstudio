@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<data>
+
+	<settings
+	
+		listItemMarkerURL="images/icons/list-item-marker-type1.png"
+		listItemMarkerTopPadding="8"
+		listItemLeftPadding="15"
+		listItemBottomPadding="4"
+		
+		scrollBarTrackWidth="2"
+		scrollBarTrackColor="EEEEEE"
+		scrollBarTrackAlpha="1"
+		scrollBarSliderOverWidth="4"
+		scrollBarSliderColor="CCCCCC"
+		scrollBarSliderOverColor="B5B5B5"
+
+	/>
+
+	<content topMargin="0">
+	
+		<textblock topMargin="0">
+			<text><![CDATA[<p>The page you are looking for cannot be found. This can happen if the page doesn't exist or you typed something wrong.<br></p><p>Please try the following:</p>]]></text>
+		</textblock>
+		
+		<list topMargin="10" leftMargin="20" markerColor="777777">
+			<item><![CDATA[<p>Make sure that the web site address displayed in the address bar of your browser is spelled and formatted correctly</p>]]></item>
+			<item><![CDATA[<p>If you reached this page by clicking a link, <a href="#/contact" target="_self">contact us</a> to alert us that the link is incorrectly formatted</p>]]></item>
+			<item><![CDATA[<p>Forget that this ever happened, and go <a href="#" target="_self">back to the start</a></p>]]></item>
+		</list>
+		
+	</content>
+	
+</data>

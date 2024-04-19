@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<settings>
+	
+	<general
+		
+		websiteTitle="Phlex Business Website Template"
+		templateWidth="980"
+		
+		headerHeight="80"
+		headerPattern=""
+		headerBgImage="images/backgrounds/header-bg-image1.jpg"
+		headerBgColor="EEEEEE"
+		headerShadow="images/backgrounds/header-shadow2.png"
+		
+		logoURL="images/logo1.png"
+		logoXOffset="-10"
+		logoYPosition="4"
+		
+		menuXML="xml/layout2/menu.xml"
+		menuAlign="right"
+		menuXOffset="0"
+		menuYPosition="24"
+		menuSpacing="26"
+		menuFont="League Gothic"
+		menuFontSize="24"
+		menuFontWeight="normal"
+		menuFontColor="444444"
+		menuOverFontColor="577C95"
+		menuSelectedFontColor="577C95"
+		menuOverBgColor="FAFAFA"
+		menuOverBgAlphaTop="1"
+		menuOverBgAlphaBottom="0"
+		
+		submenuItemHeight="28"
+		submenuFont="PT Sans Narrow"
+		submenuFontSize="14"
+		submenuFontWeight="normal"
+		submenuFontColor="777777"
+		submenuOverFontColor="444444"
+		submenuSelectedFontColor=""
+		submenuBgColor="F5F5F5"
+		submenuBgAlpha="0.95"
+		submenuOverBgColor="E1E1E1"
+		submenuOverBgAlpha="1"
+		submenuTopTrimHeight="1"
+		submenuTopTrimColor="FDB03D"
+		submenuTopTrimAlpha="1"
+		submenuShadowColor="333333"
+		submenuShadowAlpha="0.4"
+		submenuShadowStrength="1"
+		submenuShadowDistance="1"
+		
+		bodyPattern="images/backgrounds/body-pattern2.png"
+		bodyPatternFullStage="false"
+		bodyBgImage=""
+		bodyBgImageFullStage="false"
+		bodyBgColor="EEEEEE"
+		
+		contentPageMinTopMargin="20"
+		contentPageMaxTopMargin="100"
+		contentPageBgColor="FAFAFA"
+		contentPageBgAlpha="1"
+		contentPageLeftMargin="40"
+		contentPageRightMargin="40"
+		styleSheetURL="css/layout2/textstyle.css"
+		
+		breadcrumbsTopMargin="15"
+		breadcrumbIconURL="images/icons/breadcrumb-separator.png"
+		breadcrumbIconTopPadding="6"
+		breadcrumbIconColor="666666"
+		breadcrumbSpacing="14"
+		breadcrumbFont="Droid Sans"
+		breadcrumbFontSize="12"
+		breadcrumbFontColor="777777"
+		breadcrumbOverFontColor="333333"
+		breadcrumbSelectedFontColor="577C95"
+		
+		footerHeight="34"
+		footerLeftMargin="40"
+		footerRightMargin="40"
+		footerPattern=""
+		footerBgImage=""
+		footerBgColor="AAAAAA"
+		showMusicIcon="true"
+		showFullScreenIcon="true"
+		musicAndScreenIconsTopPadding="10"
+		musicAndScreenIconsSpacing="15"
+		musicAndScreenIconsColor="DDDDDD"
+		musicAndScreenIconsOverBrightness="0.4"
+		socialIconsTopPadding="8"
+		socialIconsSpacing="6"
+		socialIconsOverBrightness="0.2"
+		
+		showPreloader="true"
+		preloaderColor="666666"
+		preloaderAlpha="0.5"
+		
+	/>
+	
+	<music enabled="true" bufferTime="3000" volume="0.9">
+		<track src="music/i_can_fly.mp3"/>
+		<track src="music/ambiphonic.mp3"/>
+	</music>
+	
+	<socialnetworks>
+		<icon src="images/icons/social/facebook.png" clickLink="http://www.facebook.com" clickTarget="_blank"/>
+		<icon src="images/icons/social/twitter.png" clickLink="http://www.twitter.com" clickTarget="_blank"/>
+		<icon src="images/icons/social/myspace.png" clickLink="http://www.myspace.com" clickTarget="_blank"/>
+		<icon src="images/icons/social/linkedin.png" clickLink="http://www.linkedin.com" clickTarget="_blank"/>
+		<icon src="images/icons/social/flickr.png" clickLink="http://www.flickr.com" clickTarget="_blank"/>
+	</socialnetworks>
+	
+	<footertext topPadding="8" leftPadding="40">
+		<![CDATA[<footer>©2012 Phlex site template. Web design and development by <a href="http://activeden.net/user/emerald" target="_blank" class="footerlink">Emerald</a>.</footer>]]>
+	</footertext>
+	
+</settings>
